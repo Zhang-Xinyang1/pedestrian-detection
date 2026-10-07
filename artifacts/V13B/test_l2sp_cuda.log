@@ -1,0 +1,3 @@
+/root/private_data/prvc/SCNET_REPAIR_V13_LR100_AB_20261005/package/test_l2sp.py:51: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.
+  scaler=torch.cuda.amp.GradScaler()
+L2SP_TESTS_OK cuda coefficient 0.001

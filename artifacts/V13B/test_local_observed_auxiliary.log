@@ -1,0 +1,1 @@
+LOCAL_OBSERVED_AUXILIARY_OK {"device": "cpu", "raw1280_unchanged": true, "cold_start": true, "foreign_only": true, "no_missing_view": true, "amp_skip_memory": true, "local_encoder_gradient": true, "active_KD_student_gradient": true, "teacher_stop_gradient": true, "RNG_preserved": true, "parameter_roundtrip": true}

@@ -1,0 +1,3 @@
+/opt/conda/lib/python3.12/site-packages/torch/optim/lr_scheduler.py:227: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  warnings.warn(
+V13_MATCHED_LR_CONTROL_PASS {"device": "cuda", "first40_optimizer_updates_identical": true, "A_matches_original100": true, "B_monotone_tail": true, "B_final": 1e-08, "bias_ratio": 2, "compressed_real_optimizer_tail": true}

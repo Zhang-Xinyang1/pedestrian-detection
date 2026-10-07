@@ -1,0 +1,402 @@
+{
+  "task": "V13B full local handoff",
+  "remote_run": "/root/private_data/prvc/scnet_v13_lr100_ab_runs/V13B_v10_cosine_tail_fixed100_seed1",
+  "checked_at_beijing": "2026-10-07T11:13:57.640419+08:00",
+  "remote_mutation_performed": false,
+  "ssh_connection_closed": true,
+  "files": [
+    {
+      "file": "artifacts/V13B/production100/ARTIFACT_SHA256.json",
+      "bytes": 5942,
+      "sha256": "be30c6aaa325109faf3104063490459e09d84e75ebce4185f3a1bb0c69e864b2"
+    },
+    {
+      "file": "artifacts/V13B/production100/CSF_FINAL_SUMMARY.json",
+      "bytes": 3126,
+      "sha256": "e7355e46007e787f0f2e34647242e69a7b256fa7f4f5294da53a2bc22ccc4dee"
+    },
+    {
+      "file": "artifacts/V13B/production100/FIXED100_TARGET_REPORT.json",
+      "bytes": 505,
+      "sha256": "1c10173fdd6afda594197736e69b32862ccf133b63034ccb9051eba656dcda65"
+    },
+    {
+      "file": "artifacts/V13B/production100/VERIFICATION.json",
+      "bytes": 2765,
+      "sha256": "472a721a2413c78d778a437ec37bc1640cad220cb63c8bb66aed8af06c0f909d"
+    },
+    {
+      "file": "artifacts/V13B/production100/branch_diagnostics_stage2_010.json",
+      "bytes": 3810,
+      "sha256": "e6ee0f343b5ac60c1e7244557241cc94ab685551799978e7581d2db0caa0774f"
+    },
+    {
+      "file": "artifacts/V13B/production100/branch_diagnostics_stage2_020.json",
+      "bytes": 3827,
+      "sha256": "c593c97f7f6bc637d171ce1b8c78069cf49c19c26d50eb488ee1465b918141f7"
+    },
+    {
+      "file": "artifacts/V13B/production100/branch_diagnostics_stage2_030.json",
+      "bytes": 3844,
+      "sha256": "184625d5da7d89cb26ba4a7f79bd4204383a1425a0fe3305b801ca8a4bd73bea"
+    },
+    {
+      "file": "artifacts/V13B/production100/branch_diagnostics_stage2_040.json",
+      "bytes": 3784,
+      "sha256": "eb0da3d7fec8d00bf5aeca77e2e89724f436405a5ceab243e9726762612e050f"
+    },
+    {
+      "file": "artifacts/V13B/production100/branch_diagnostics_stage2_050.json",
+      "bytes": 3800,
+      "sha256": "c6fa192bf79aee0d43e10366f9d71605211806dec17e0d8214593b5130662f13"
+    },
+    {
+      "file": "artifacts/V13B/production100/branch_diagnostics_stage2_060.json",
+      "bytes": 3835,
+      "sha256": "987f018e998663ab164647244696309ff73a7e33e9f4c6dbf040ef59f59aef72"
+    },
+    {
+      "file": "artifacts/V13B/production100/branch_diagnostics_stage2_070.json",
+      "bytes": 3824,
+      "sha256": "b0ced055200bc71c5e6a2e7d4fa6c617f68ed15a2aab66711f2426dd55a68947"
+    },
+    {
+      "file": "artifacts/V13B/production100/branch_diagnostics_stage2_080.json",
+      "bytes": 3799,
+      "sha256": "cc7459717d188531ec1af1fdf2bd5e7bb9c3c6901edbe3df41d6eaf4b441bada"
+    },
+    {
+      "file": "artifacts/V13B/production100/branch_diagnostics_stage2_090.json",
+      "bytes": 3841,
+      "sha256": "4439843084b8865616641d684e3f0f88f392d8b7ad0a7bf7d6984f1b5e8613e3"
+    },
+    {
+      "file": "artifacts/V13B/production100/branch_diagnostics_stage2_100.json",
+      "bytes": 3822,
+      "sha256": "58acec70d291a7153dde4d8dc1ba0792e2b92874693666bc78104068036ae59d"
+    },
+    {
+      "file": "artifacts/V13B/production100/checkpoint_audit_stage2_010.json",
+      "bytes": 38967,
+      "sha256": "6ba3dd05e99bd41852692ba190e4bd32f1e194f0d321259f546c72fcb7ee11c6"
+    },
+    {
+      "file": "artifacts/V13B/production100/checkpoint_audit_stage2_020.json",
+      "bytes": 38967,
+      "sha256": "362ca5ad13a135004d6c983347b06bca22ba2c069b535070fe40ea5895ac6e8b"
+    },
+    {
+      "file": "artifacts/V13B/production100/checkpoint_audit_stage2_030.json",
+      "bytes": 38967,
+      "sha256": "57d73df9e3d414ba09557e2f44da5c3ff316c4d730f323f4d4e92d6e15e06352"
+    },
+    {
+      "file": "artifacts/V13B/production100/checkpoint_audit_stage2_040.json",
+      "bytes": 38967,
+      "sha256": "93dc6e3ec9f41b1fab1c0521aacebcc5a0715311299c7997e69c0b9dc7338a12"
+    },
+    {
+      "file": "artifacts/V13B/production100/checkpoint_audit_stage2_050.json",
+      "bytes": 38967,
+      "sha256": "a7c995ddfe02565eac24cc4fc9a90c6b6b00be5738323d28f643b6f306dfcf98"
+    },
+    {
+      "file": "artifacts/V13B/production100/checkpoint_audit_stage2_060.json",
+      "bytes": 38967,
+      "sha256": "df234d9e5de8223deaeeb892842fe313aae2ab8e77720574e3f394d520feaad3"
+    },
+    {
+      "file": "artifacts/V13B/production100/checkpoint_audit_stage2_070.json",
+      "bytes": 38967,
+      "sha256": "d8aeec32ed613956705f6533bf53fd56a99c6b792362376066adacf2e33e3090"
+    },
+    {
+      "file": "artifacts/V13B/production100/checkpoint_audit_stage2_080.json",
+      "bytes": 38967,
+      "sha256": "d17dd8a13757d83810466d004fab61ad9451d9232776186016fa26b975010018"
+    },
+    {
+      "file": "artifacts/V13B/production100/checkpoint_audit_stage2_090.json",
+      "bytes": 38967,
+      "sha256": "38a91844debbb7cc035a1eba4d605e90929452c449d541136d51aa553eb5a4aa"
+    },
+    {
+      "file": "artifacts/V13B/production100/checkpoint_audit_stage2_100.json",
+      "bytes": 38969,
+      "sha256": "b3a8ba84938b3f92257dd6a93ad199640c3631fcf9d6cf6ee4a30d6d4acd75a2"
+    },
+    {
+      "file": "artifacts/V13B/production100/csf_memory.pt",
+      "bytes": 20019938,
+      "sha256": "0ad3a39944dba56ae373dc91a9c58ef6678f111b36db7b1232b5e2fda1452cec"
+    },
+    {
+      "file": "artifacts/V13B/production100/csf_memory_audit.json",
+      "bytes": 3632,
+      "sha256": "cc2428b828d37fdbb4592353af78b10780a2359a83d386725bb1ddae44e8e5cc"
+    },
+    {
+      "file": "artifacts/V13B/production100/eval_stage2_010.json",
+      "bytes": 6631,
+      "sha256": "b603c172b994fabfd74b35817d7111cb01fd0dec4f0a7649c6df256379d6efa3"
+    },
+    {
+      "file": "artifacts/V13B/production100/eval_stage2_020.json",
+      "bytes": 6644,
+      "sha256": "c4be8789881aeea72b1db9df0cfe5f3a4f2ebb7c23d0f8000bf9a6d5c416bd7e"
+    },
+    {
+      "file": "artifacts/V13B/production100/eval_stage2_030.json",
+      "bytes": 6635,
+      "sha256": "308ebb99b4d930a075699082cb188d7fed76f4d77f6470a577724a34d54b641c"
+    },
+    {
+      "file": "artifacts/V13B/production100/eval_stage2_040.json",
+      "bytes": 6614,
+      "sha256": "7c998df944e77754acd926b8683e43cab4ab4b055b98b6dac461c22dce9efc9d"
+    },
+    {
+      "file": "artifacts/V13B/production100/eval_stage2_050.json",
+      "bytes": 6627,
+      "sha256": "3663d899277c0ae922ba268a43e89a204f014a2a02714a46e0bb34f02418b560"
+    },
+    {
+      "file": "artifacts/V13B/production100/eval_stage2_060.json",
+      "bytes": 6636,
+      "sha256": "1477b0080c57b409843e716c1ac6ae179a9d19bee3ae3a135e51248ad1a73c25"
+    },
+    {
+      "file": "artifacts/V13B/production100/eval_stage2_070.json",
+      "bytes": 6569,
+      "sha256": "a6982e50b309896743919a0647633b9fdfcc4f666171ef70ad24f4fe187c0123"
+    },
+    {
+      "file": "artifacts/V13B/production100/eval_stage2_080.json",
+      "bytes": 6620,
+      "sha256": "ada50b39690a8bdbc6a16a4dcd722a3766e589043fe2d0cb1e2cd600462dde6d"
+    },
+    {
+      "file": "artifacts/V13B/production100/eval_stage2_090.json",
+      "bytes": 6649,
+      "sha256": "d7f7bb2852cad5cdffc72ebd0b384c67916bc816741fd4537778d45a28f9f515"
+    },
+    {
+      "file": "artifacts/V13B/production100/eval_stage2_100.json",
+      "bytes": 6589,
+      "sha256": "ba11e78f77c34f742815760a74ca320b285bf9a7d7ad175036300e65b654c3ff"
+    },
+    {
+      "file": "artifacts/V13B/production100/l2sp_audit.json",
+      "bytes": 107626,
+      "sha256": "0698d41bb0083b9fba79830397302b6a4fea6045f0fbc506d8199eb181ae401f"
+    },
+    {
+      "file": "artifacts/V13B/production100/l2sp_initialization.json",
+      "bytes": 29308,
+      "sha256": "1acc0e5e45cf4f6d481df3bba69ffd1a7da30f2cb635de477e0ba565ba2a5b44"
+    },
+    {
+      "file": "artifacts/V13B/production100/learning_rate_epoch_history.json",
+      "bytes": 29483,
+      "sha256": "59f8f7ec8cca3c570e65de0244c0f1d1875c9f4f344c3b22636709a4a7d103ce"
+    },
+    {
+      "file": "artifacts/V13B/production100/local_auxiliary_audit.json",
+      "bytes": 169743,
+      "sha256": "a73d48da991c006973f54928773f1b78e705b78281cdbd4b44847dd0e31fd532"
+    },
+    {
+      "file": "artifacts/V13B/production100/local_auxiliary_epoch_history.json",
+      "bytes": 157714,
+      "sha256": "bbd4c8e2537d825ec4f779c599529a5c5e33ac5fa65312239c29946420fd71c4"
+    },
+    {
+      "file": "artifacts/V13B/production100/local_auxiliary_final.pt",
+      "bytes": 41624135,
+      "sha256": "77df601293a1fd0fb7231028ff9f8f51d079d14c8781ef19e1930dd3755c24c5"
+    },
+    {
+      "file": "artifacts/V13B/production100/local_auxiliary_initialization.json",
+      "bytes": 3020,
+      "sha256": "6d080f83bcb75bc2f40be68ccc71bccbf884c039f421dca1224fe5379c7e82ce"
+    },
+    {
+      "file": "artifacts/V13B/production100/local_auxiliary_training_diagnostics.json",
+      "bytes": 85828,
+      "sha256": "a19026942a0ee90da176add42e46fcc4925e0dbca48a419595facb13c14f0187"
+    },
+    {
+      "file": "artifacts/V13B/production100/manifest.json",
+      "bytes": 4981747,
+      "sha256": "1c3f64fc5a78a28706f27c87c2f91674363a895eeb67c4c4be4f5b838c14e284"
+    },
+    {
+      "file": "artifacts/V13B/production100/stage1_checkpoint_load.json",
+      "bytes": 18431,
+      "sha256": "f76230871575b525320997db6cadb7ca1837feae3e74587adde6dc17b68ddd5b"
+    },
+    {
+      "file": "artifacts/V13B/production100/stage2_audit.json",
+      "bytes": 773126,
+      "sha256": "cc5f4df5b70a1a8db14948f4e6577650d57db8ae660f520a5fd3c30b10df9e58"
+    },
+    {
+      "file": "artifacts/V13B/production100/stage2_initial_parameters.json",
+      "bytes": 38207,
+      "sha256": "8d8b7fa57de9697f62f23ba43f6d743dd58820e9341a18f057c6662c16e48f0d"
+    },
+    {
+      "file": "artifacts/V13B/production100/train_log.txt",
+      "bytes": 339660,
+      "sha256": "419c5acdf75d034540014bbd742787c025313aa160d36b4fc321f9e68d213479"
+    },
+    {
+      "file": "artifacts/V13B/production100/training_diagnostics.json",
+      "bytes": 423033,
+      "sha256": "cca5cdc3169bbb0891268cd6059ebc944c3f21d2a8bef7af0e963f56fd8a51c7"
+    },
+    {
+      "file": "artifacts/V13B/production100/training_state_audit.json",
+      "bytes": 532,
+      "sha256": "966d26e32342e02df90f3972f4d9abbb9552ad8aa366d107361803ec497dce6f"
+    },
+    {
+      "file": "artifacts/V13B/production100/ViT-B-16_100.pth",
+      "bytes": 504938240,
+      "sha256": "1fe203e0af7894e07d6057bdc4ab6e36b55fe877ad448c675f5c457ec76fa8d8"
+    },
+    {
+      "file": "artifacts/V13B/production100/ViT-B-16_50.pth",
+      "bytes": 504937918,
+      "sha256": "714741324186736bb0a48f84a1832d4fe7b05e558878c877f960355a4df2a1eb"
+    },
+    {
+      "file": "artifacts/V13B/production100/training_state_latest.pth",
+      "bytes": 1270420138,
+      "sha256": "4a930857990c5545c31eff459a7f1b7bd780097c1a9daf11a7b4a30cc31ba352"
+    },
+    {
+      "file": "artifacts/V13B/install_dependencies.log",
+      "bytes": 5754,
+      "sha256": "fadb03cb2f0898b14ea920f2a1d324e19ca03b058ae3cf972f9998213e772a8c"
+    },
+    {
+      "file": "artifacts/V13B/environment.log",
+      "bytes": 1360,
+      "sha256": "6bf4ade694550e4d885bf5873a9fd3a052a669b02140a7f527c52d5a2ddd20d5"
+    },
+    {
+      "file": "artifacts/V13B/environment.json",
+      "bytes": 3566,
+      "sha256": "47981be049f46e6b346dbf8997532c2d81f11808bd413652c7b774ef0e9bd5f2"
+    },
+    {
+      "file": "artifacts/V13B/test_fixed_epoch_budget.log",
+      "bytes": 29,
+      "sha256": "bc510c2b31a93e9f006bed0df49be59a6ff5cf4585efd0044d47e34f7c91cd4a"
+    },
+    {
+      "file": "artifacts/V13B/test_v13_lr100_contract.log",
+      "bytes": 64,
+      "sha256": "cfe244b1d3475c4ad7a55606c2f8d6797aa30f611327a7a7b25054cd7296a562"
+    },
+    {
+      "file": "artifacts/V13B/test_verify_csf_contract.log",
+      "bytes": 195,
+      "sha256": "0a7e1addc74a01cc9c11876af37881990968b65be36bbec5715b5b99de88a4f7"
+    },
+    {
+      "file": "artifacts/V13B/test_lr_tail_schedule.log",
+      "bytes": 702,
+      "sha256": "ff7fe5fbc23d77d0f25e30acc023628f7eba0bd04bc313e79036fc94dc3d67c0"
+    },
+    {
+      "file": "artifacts/V13B/test_partial_local_matching.log",
+      "bytes": 273,
+      "sha256": "5c7315092932428a61e309ae57379d05f0116bc167aa664de4e572117a6e7d71"
+    },
+    {
+      "file": "artifacts/V13B/test_local_observed_auxiliary.log",
+      "bytes": 316,
+      "sha256": "d8cc5ad14a9a82cf660cdd6daa68812d6db68fd548339633f3eb73e1f737a7fc"
+    },
+    {
+      "file": "artifacts/V13B/test_partial_matching_cuda.log",
+      "bytes": 274,
+      "sha256": "cf0931305b1e34c415060a2cf73cbe68c19dd509fdff4cbc96d34a5d4695ebb0"
+    },
+    {
+      "file": "artifacts/V13B/test_training_state_cuda.log",
+      "bytes": 817,
+      "sha256": "f6442ab5927397a96bc3013122a75559246318231ecbc882c4d6a1c0d292b3a0"
+    },
+    {
+      "file": "artifacts/V13B/pipeline_status.json",
+      "bytes": 10013,
+      "sha256": "a2528e1145926ec312c1c9e59881fd33ee460d240685b1f43f14d87118847f6e"
+    },
+    {
+      "file": "artifacts/V13B/full_data_contract.log",
+      "bytes": 2123,
+      "sha256": "343a85d6bee448723a985ee416cfe230d068403d1e296667638a54bf37e1430e"
+    },
+    {
+      "file": "artifacts/V13B/test_data_protocol.log",
+      "bytes": 793,
+      "sha256": "3e8c51321515ce63a187aab17ce27e6a82a5edbf38c6d2c324c107a9c9f26e47"
+    },
+    {
+      "file": "artifacts/V13B/test_training_state_io.log",
+      "bytes": 816,
+      "sha256": "2e61dcbc7e830de3fbaee40238eea5adada2b86a48390d01db1fe4b242dd0613"
+    },
+    {
+      "file": "artifacts/V13B/test_l2sp_epoch_accounting.log",
+      "bytes": 401,
+      "sha256": "f473ae3d85782abc66d7e30c85b9726bdcdd44041fa1fb728bc288544af7ce08"
+    },
+    {
+      "file": "artifacts/V13B/test_lr_tail_cuda.log",
+      "bytes": 703,
+      "sha256": "46e20f0c2032f1aff163aa13f1e3e6fcba50ac271c81c3a02f44b58ecc6454ef"
+    },
+    {
+      "file": "artifacts/V13B/test_local_observed_cuda.log",
+      "bytes": 317,
+      "sha256": "5a5b7ead0e9f70e47a47fcd893b92b503ceed9dd42668f78e2de4d477d1a294b"
+    },
+    {
+      "file": "artifacts/V13B/test_l2sp_cuda.log",
+      "bytes": 285,
+      "sha256": "d047fcfa95ae545103abd7615c314b970e515de8a3b436618cea232370048b03"
+    },
+    {
+      "file": "artifacts/V13B/gpu_smoke.log",
+      "bytes": 133494,
+      "sha256": "c94aa5e3e65b19661d0343ecaaf04a17f8e0ab878fdecf5c1910bdd0e1a8ee5d"
+    },
+    {
+      "file": "artifacts/V13B/smoke_verify.log",
+      "bytes": 2548,
+      "sha256": "dd940b76c60bdd9e42e809ed00bf073ad38823e96078c3b6f9b73fd2011a1bb5"
+    },
+    {
+      "file": "artifacts/V13B/production100.log",
+      "bytes": 2124678,
+      "sha256": "1d6841a88b1ab08297a5e0502914b58a6353f40c35ff44c669d2fc3b47bd4d03"
+    },
+    {
+      "file": "artifacts/V13B/fixed100_target_report.log",
+      "bytes": 468,
+      "sha256": "665544fcfb143caf09cc2406d789621b7b77e3700a2b23cf74e5efacc910f3ee"
+    },
+    {
+      "file": "artifacts/V13B/production_verify.log",
+      "bytes": 2463,
+      "sha256": "3b0ab9ce044c26b9f2f519bfefebe0024bc1637d35a4b10d3e35e896a50c4602"
+    }
+  ],
+  "status": "DOWNLOAD_SHA256_PASS",
+  "main_checkpoint_epoch": 100,
+  "rank1_peak_epoch": 50
+}

@@ -60,8 +60,8 @@ def main():
         import torch
         import numpy as np
         torch.set_num_threads(4)
-        state = torch.load(prod / 'training_state_latest.pth', map_location='cpu', weights_only=False, mmap=True)
-        main_model = torch.load(prod / 'ViT-B-16_100.pth', map_location='cpu', weights_only=False, mmap=True)
+        state = torch.load(str(prod / 'training_state_latest.pth'), map_location='cpu', weights_only=False, mmap=True)
+        main_model = torch.load(str(prod / 'ViT-B-16_100.pth'), map_location='cpu', weights_only=False, mmap=True)
         audit = json.loads((prod / 'stage2_audit.json').read_text())
         assert state['schema'] == 'V13_full_epoch_boundary_v1' and state['epoch'] == 100 and state['lr_tail_arm'] == 'B'
         assert state['model'].keys() == main_model.keys()

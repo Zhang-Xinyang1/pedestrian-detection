@@ -1,0 +1,1 @@
+PARTIAL_LOCAL_MATCHING_OK {"device": "cpu", "query_permutation": true, "unmatched_slot": true, "identity_margin_rejection": true, "missing_source_rejection": true, "detached_correspondence": true, "encoder_gradient": true, "capacity": true, "production64x500_shape": true}

@@ -1,0 +1,5 @@
+/root/private_data/prvc/SCNET_REPAIR_V13_LR100_AB_20261005/package/test_training_state_io.py:20: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.
+  scaler=torch.cuda.amp.GradScaler(enabled=device=='cuda')
+/opt/conda/lib/python3.12/site-packages/torch/optim/lr_scheduler.py:227: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  warnings.warn(
+V13_FULL_STATE_NEXT_STOCHASTIC_UPDATE_REPRODUCED cpu

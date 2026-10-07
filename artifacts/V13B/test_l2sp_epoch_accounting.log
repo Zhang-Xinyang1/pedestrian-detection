@@ -1,0 +1,3 @@
+/root/private_data/prvc/scnet_v13_lr100_ab_runs/env_linux_cp312_v13_lr100/timm/models/layers/__init__.py:49: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+L2SP_EPOCH_ACCOUNTING_OK actual_loop=True train_batches=6 eval_batches=12 penalty_mean=PASS

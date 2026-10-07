@@ -1,0 +1,44 @@
+{
+  "validated_on_beijing_date": "2026-10-07",
+  "status": "PASS",
+  "validation_runtime": {
+    "platform": "Windows",
+    "python": "3.11.9",
+    "torch": "2.2.2+cu121",
+    "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU"
+  },
+  "original_source_payload": {"status": "PASS", "sha256_files": 184},
+  "dataset": {
+    "status": "PASS",
+    "image_sha256_files": 198552,
+    "train": 92133,
+    "query": 6405,
+    "gallery": 93609,
+    "extra_querymm": 6405,
+    "train_identities": 500,
+    "train_metadata_sha256": "fe41ed4268bd6ec853e16b134937ff9ec6ac36e4ddcaa76db2b99a66f664f234",
+    "sampler_plan_sha256": "52c8e262252e57ee8febe2868dad9c4e11e1e8f11bd61e69d21ec9b12008d8a0"
+  },
+  "original_artifact_sha256": {"status": "PASS", "included_files": 52, "intermediate_models_remaining_on_server": 8},
+  "original_v13b_training_input_contract": {"status": "PASS", "mode": "check-only", "arm": "B", "seed": 1, "stage2_epochs": 100},
+  "cuda_model_forward_checks": [
+    {"status": "PASS", "epoch": 100, "strict_state_dict": true, "images": 2, "feature_dim": 1280},
+    {"status": "PASS", "epoch": 50, "strict_state_dict": true, "images": 2, "feature_dim": 1280}
+  ],
+  "complete_training_state": {
+    "status": "PASS",
+    "epoch": 100,
+    "arm": "B",
+    "model_tensor_count": 318,
+    "all_model_tensors_equal_to_epoch100_checkpoint": true,
+    "formal_parameter_sha256_checked": true,
+    "successful_updates": 139733,
+    "optimizer_amp_scheduler_rng_memory_ledger_checked": true
+  },
+  "full_retrieval_rerun_locally": false,
+  "reported_scores_source": "Original server evaluation JSON files, preserved and SHA256 checked",
+  "credentials_in_release": false,
+  "raw_data_in_public_git_repository": false,
+  "ssh_connections_closed": true,
+  "original_server_training_or_configuration_modified": false
+}

@@ -1,0 +1,1 @@
+CSF_VERIFY_CONTRACT_OK {'whole_checkpoint_sha256': True, 'memory_state_audit': True, 'same_checkpoint_targets': [12.0, 30.0], 'supported_seeds': [1, 2, 3], 'durable_marker': 'VERIFICATION.json'}

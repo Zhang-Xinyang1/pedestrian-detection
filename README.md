@@ -1,7 +1,5 @@
 # CVPR · V13B 行人重识别完整复现包
 
-> 上传进度：代码、已校验的第100轮正式模型和预训练权重已准备就绪。第50轮模型与完整训练状态正在传输，稍后将补充到同一仓库。本地完整数据已完成逐图校验。
-
 本目录整理自 `SCNET_REPAIR_V13_LR100_AB_20261005` 的 V13B 版本。研究任务是 WHU-MARS 多光谱空地行人重识别（AS-ReID）。V13B 使用 CLIP ViT-B/16、模态提示、全身份原型、L2-SP、可拒绝局部匹配监督，并在第 41–100 轮采用余弦学习率尾部。
 
 原训练与模型实现保持发布包原始内容，新增的整理、训练和评价入口放在 `scripts/`。仓库地址：[Zhang-Xinyang1/pedestrian-detection](https://github.com/Zhang-Xinyang1/pedestrian-detection)。

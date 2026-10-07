@@ -1,0 +1,324 @@
+{
+  "run_id": "V13B_v10_cosine_tail_fixed100_seed1",
+  "status": "COMPLETED_VERIFIED",
+  "declared_budget": 100,
+  "main_checkpoint_epoch": 100,
+  "arm": "B",
+  "hostname": "crdnotebook-2106948278526603265-luhanning-10453",
+  "local_validation": false,
+  "steps": [
+    {
+      "phase": "install_dependencies",
+      "exit_code": 0
+    },
+    {
+      "phase": "environment",
+      "exit_code": 0
+    },
+    {
+      "phase": "full_data_contract",
+      "exit_code": 0
+    },
+    {
+      "phase": "test_data_protocol",
+      "exit_code": 0
+    },
+    {
+      "phase": "test_fixed_epoch_budget",
+      "exit_code": 0
+    },
+    {
+      "phase": "test_v13_lr100_contract",
+      "exit_code": 0
+    },
+    {
+      "phase": "test_verify_csf_contract",
+      "exit_code": 0
+    },
+    {
+      "phase": "test_lr_tail_schedule",
+      "exit_code": 0
+    },
+    {
+      "phase": "test_training_state_io",
+      "exit_code": 0
+    },
+    {
+      "phase": "test_partial_local_matching",
+      "exit_code": 0
+    },
+    {
+      "phase": "test_local_observed_auxiliary",
+      "exit_code": 0
+    },
+    {
+      "phase": "test_l2sp_epoch_accounting",
+      "exit_code": 0
+    },
+    {
+      "phase": "test_partial_matching_cuda",
+      "exit_code": 0
+    },
+    {
+      "phase": "test_lr_tail_cuda",
+      "exit_code": 0
+    },
+    {
+      "phase": "test_training_state_cuda",
+      "exit_code": 0
+    },
+    {
+      "phase": "test_local_observed_cuda",
+      "exit_code": 0
+    },
+    {
+      "phase": "test_l2sp_cuda",
+      "exit_code": 0
+    },
+    {
+      "phase": "gpu_smoke",
+      "exit_code": 0
+    },
+    {
+      "phase": "smoke_verify",
+      "exit_code": 0
+    },
+    {
+      "phase": "production100",
+      "exit_code": 0
+    },
+    {
+      "phase": "fixed100_target_report",
+      "exit_code": 0
+    },
+    {
+      "phase": "production_verify",
+      "exit_code": 0
+    }
+  ],
+  "current_phase": "production_verify",
+  "phase_started_at_utc": "2026-10-06T21:24:22.732458+00:00",
+  "full_data_contract": {
+    "branch_diagnostics_scope": "fixed_up_to32_queries_per_scene_full_gallery",
+    "candidate_policy": "full_observed_identity_center",
+    "checkpoint_selection": "fixed_final_epoch",
+    "classes": 500,
+    "csf_feature_dim": 768,
+    "csf_loss_weight": 0.1,
+    "csf_reconstruction_weight": 0.1,
+    "csf_temperature": 0.07,
+    "data_protocol": "unchanged_official_P16K4",
+    "early_stop_policy": {
+      "enabled": false,
+      "evaluation_period": 10,
+      "rule": "complete configured epoch budget"
+    },
+    "feature_dim": 1280,
+    "fixed100_ab": true,
+    "fixed80_cooldown": false,
+    "gallery": 93609,
+    "i2t_loss_weight": 1.0,
+    "l2sp_coefficient": 0.001,
+    "l2sp_enabled": true,
+    "local_observed_enabled": true,
+    "local_smoke": false,
+    "local_transfer_disabled": false,
+    "lr_tail_arm": "B",
+    "lr_tail_specification": {
+      "all_other_losses_data_and_retrieval": "unchanged V10",
+      "arm": "B",
+      "bias_factor": 2,
+      "budget": 100,
+      "first40_production": "original V10 unchanged",
+      "single_variable": "learning rate after epoch40",
+      "smoke_schedule": null,
+      "tail_end": 100,
+      "tail_final": 1e-08,
+      "tail_initial": 5e-07,
+      "tail_mode": "cosine",
+      "tail_start": 40
+    },
+    "prompt_mode": "modality",
+    "prototype_method": "identity_full",
+    "query": 6405,
+    "sampler_plan_sha256": "52c8e262252e57ee8febe2868dad9c4e11e1e8f11bd61e69d21ec9b12008d8a0",
+    "screening_30": false,
+    "screening_40": false,
+    "seed": 1,
+    "smoke_epochs": null,
+    "source_stage1_checkpoint": "/root/private_data/prvc/pretrained/ViT-B-16_stage1_120.pth",
+    "source_stage1_checkpoint_sha256": "2032ee52590233f52f720189231c720a32172f1639a381a22e3dd8fd17dae7c3",
+    "stage2_epochs": 100,
+    "stage2_plan_batches": 1395,
+    "train": 92133,
+    "train_metadata_sha256": "fe41ed4268bd6ec853e16b134937ff9ec6ac36e4ddcaa76db2b99a66f664f234",
+    "upstream_commit": "eb1898b72c882875f478bebfc6d41644eece0a5d"
+  },
+  "smoke_verification": {
+    "artifact_count": 23,
+    "artifact_manifest": "ARTIFACT_SHA256.json",
+    "artifact_manifest_sha256": "a17015b21bc7564fb75bf1c50d2524d7a7c3c2f4eb887acdbfa1bed83339c1b5",
+    "checkpoint": "ViT-B-16_4.pth",
+    "checkpoint_sha256": "8a1e7c810d7a096557f254f9910c33963f89ba8383489b70abbe30addbc1f886",
+    "early_stop_reason": null,
+    "final_epoch": 4,
+    "fixed100_ab": false,
+    "fixed80_cooldown": false,
+    "l2sp_coefficient": 0.001,
+    "l2sp_enabled": true,
+    "local_auxiliary": {
+      "correspondence_identity_margin_required": true,
+      "inference_descriptor_unchanged": true,
+      "method": "matched_observed_foreign_scene_local_supervision_v1",
+      "observed_identities": 4,
+      "observed_identity_scenes": 24,
+      "partial_correspondence_active": true,
+      "skipped_updates": 7,
+      "smoke_transfer_scope": "epochs1_to4_are_production_warmup; activated_path_checked_separately_in_CUDA_test",
+      "state_sha256": "cf54d50ac79c412837788844b29024e88367ad1fb0e28e50a290cce9946cc425",
+      "status": "PASS",
+      "successful_updates": 17,
+      "trainable_parameters": 1170432,
+      "transfer_activated": false,
+      "transfer_disabled": false
+    },
+    "lr_tail_control": {
+      "actual_learning_rate_history_verified": true,
+      "arm": "B",
+      "final_base_lr": 1e-08,
+      "first40_production_recipe_unchanged": true,
+      "single_variable": "learning rate after epoch40",
+      "specification": {
+        "all_other_losses_data_and_retrieval": "unchanged V10",
+        "arm": "B",
+        "bias_factor": 2,
+        "budget": 4,
+        "first40_production": "original V10 unchanged",
+        "single_variable": "learning rate after epoch40",
+        "smoke_schedule": "compressed tail transition for optimizer integration",
+        "tail_end": 4,
+        "tail_final": 1e-08,
+        "tail_initial": 5e-07,
+        "tail_mode": "cosine",
+        "tail_start": 2
+      },
+      "status": "PASS"
+    },
+    "map_percent": 36.655163894747226,
+    "memory_state_sha256": "1b53c1257c1e89833b73c45acb39f216062056713d301293ab1f2898deea2bf9",
+    "rank1_percent": 20.833333333333336,
+    "screening_30": false,
+    "screening_40": false,
+    "seed": 1,
+    "smoke": true,
+    "status": "PASS",
+    "stopped_early": false,
+    "targets_passed": false,
+    "targets_required": false,
+    "training_state": {
+      "atomic_latest_save": true,
+      "components": [
+        "model",
+        "optimizer",
+        "optimizer_center",
+        "scheduler",
+        "AMP",
+        "rng",
+        "global_memory",
+        "local_auxiliary",
+        "ledger"
+      ],
+      "epoch": 4,
+      "file": "training_state_latest.pth",
+      "restore_function_unit_checked": true,
+      "resume_cli_scope": "state restoration primitives and RNG checked; production pipeline always starts independently from Stage1",
+      "sha256": "578afa473597478be8135f695b45d917ffac02a7778d5fa1a43011f49321db37",
+      "status": "PASS"
+    },
+    "verified_at_utc": "2026-10-05T16:09:15.184494+00:00"
+  },
+  "gate_exit_code": 0,
+  "final_verification": {
+    "artifact_count": 60,
+    "artifact_manifest": "ARTIFACT_SHA256.json",
+    "artifact_manifest_sha256": "be30c6aaa325109faf3104063490459e09d84e75ebce4185f3a1bb0c69e864b2",
+    "checkpoint": "ViT-B-16_100.pth",
+    "checkpoint_sha256": "1fe203e0af7894e07d6057bdc4ab6e36b55fe877ad448c675f5c457ec76fa8d8",
+    "early_stop_reason": null,
+    "final_epoch": 100,
+    "fixed100_ab": true,
+    "fixed80_cooldown": false,
+    "l2sp_coefficient": 0.001,
+    "l2sp_enabled": true,
+    "local_auxiliary": {
+      "correspondence_identity_margin_required": true,
+      "inference_descriptor_unchanged": true,
+      "method": "matched_observed_foreign_scene_local_supervision_v1",
+      "observed_identities": 500,
+      "observed_identity_scenes": 2148,
+      "partial_correspondence_active": true,
+      "skipped_updates": 56,
+      "smoke_transfer_scope": "production_schedule_checked",
+      "state_sha256": "308bb013d8d879d7e2de16d788e863670a134d71b24aa1678b08f0e5510fa6aa",
+      "status": "PASS",
+      "successful_updates": 139733,
+      "trainable_parameters": 1170432,
+      "transfer_activated": true,
+      "transfer_disabled": false
+    },
+    "lr_tail_control": {
+      "actual_learning_rate_history_verified": true,
+      "arm": "B",
+      "final_base_lr": 1e-08,
+      "first40_production_recipe_unchanged": true,
+      "single_variable": "learning rate after epoch40",
+      "specification": {
+        "all_other_losses_data_and_retrieval": "unchanged V10",
+        "arm": "B",
+        "bias_factor": 2,
+        "budget": 100,
+        "first40_production": "original V10 unchanged",
+        "single_variable": "learning rate after epoch40",
+        "smoke_schedule": null,
+        "tail_end": 100,
+        "tail_final": 1e-08,
+        "tail_initial": 5e-07,
+        "tail_mode": "cosine",
+        "tail_start": 40
+      },
+      "status": "PASS"
+    },
+    "map_percent": 12.173761197073265,
+    "memory_state_sha256": "a38656c851ef0d2873b7486215f193c3e0f5192b0114269aee2663a919d13ef7",
+    "rank1_percent": 28.508977361436376,
+    "screening_30": false,
+    "screening_40": false,
+    "seed": 1,
+    "smoke": false,
+    "status": "PASS",
+    "stopped_early": false,
+    "targets_passed": false,
+    "targets_required": false,
+    "training_state": {
+      "atomic_latest_save": true,
+      "components": [
+        "model",
+        "optimizer",
+        "optimizer_center",
+        "scheduler",
+        "AMP",
+        "rng",
+        "global_memory",
+        "local_auxiliary",
+        "ledger"
+      ],
+      "epoch": 100,
+      "file": "training_state_latest.pth",
+      "restore_function_unit_checked": true,
+      "resume_cli_scope": "state restoration primitives and RNG checked; production pipeline always starts independently from Stage1",
+      "sha256": "4a930857990c5545c31eff459a7f1b7bd780097c1a9daf11a7b4a30cc31ba352",
+      "status": "PASS"
+    },
+    "verified_at_utc": "2026-10-06T21:25:34.498382+00:00"
+  }
+}
