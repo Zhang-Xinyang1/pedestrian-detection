@@ -1,0 +1,12 @@
+{
+  "parent_package": "clipreid_scene_prompt_quality_gate_20260929_v6_memfix",
+  "guarantee": "raw data, split, transforms, sampler and P16K4 protocol unchanged",
+  "files": {
+    "PROVENANCE.json": "52214d33c77977870be6c3e6ee3955245ac00b8d3fb40531be3ac96760bfba20",
+    "whu_adapter.py": "dba79b34f3a8c9508b080d91196672cf490d736b3291854ce17314962b30e2d6",
+    "upstream/datasets/bases.py": "40ee099a1865341e35496464612af2d867d0387222bcbbf77ff85165d850f740",
+    "upstream/datasets/sampler.py": "19a7e73ff6364a443fa13dddc9f6d4a2a5d0a3046357323d94280723cbc3e89a",
+    "upstream/datasets/make_dataloader_clipreid.py": "eb170b41620a105637ab635e0467f424559235487c538faec82ab719cd9996b5",
+    "upstream/configs/person/vit_clipreid.yml": "226a276c82a3754cbf732f9deae8fc0b24ff152115b0670acefe7d7dbde052b0"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "package_file_count": 151,
+  "shared_code_AB": true,
+  "fixed_budget": 100,
+  "single_variable": "tail LR after epoch40"
+}

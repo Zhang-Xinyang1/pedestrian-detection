@@ -1,0 +1,138 @@
+{
+  "factor_metrics": {
+    "identity_modality_orthogonality": 0.003459068713709712,
+    "identity_view_orthogonality": 0.002589707961305976,
+    "modality_residual_norm": 0.14219096302986145,
+    "modality_view_orthogonality": 0.0013358083087950945,
+    "view_residual_norm": 0.11436084657907486
+  },
+  "factor_valid_identities": 216,
+  "file_sha256": "0ad3a39944dba56ae373dc91a9c58ef6678f111b36db7b1232b5e2fda1452cec",
+  "initialized_identities": 500,
+  "skipped_updates": 56,
+  "state_sha256": "a38656c851ef0d2873b7486215f193c3e0f5192b0114269aee2663a919d13ef7",
+  "successful_updates": 139733,
+  "tensors": {
+    "factor_condition": {
+      "dtype": "torch.float32",
+      "finite": true,
+      "sha256": "738299e1e18f9ff8034d269d055b89f2cdef975699c7a5d3d2353e84056194c1",
+      "shape": [
+        500
+      ]
+    },
+    "factor_rank": {
+      "dtype": "torch.int64",
+      "finite": true,
+      "sha256": "60c0333027f1a531fd98f6b6925e2c986c96b749ab3c56e2129870da5da13c0c",
+      "shape": [
+        500
+      ]
+    },
+    "factor_valid": {
+      "dtype": "torch.bool",
+      "finite": true,
+      "sha256": "ab813a8c5bb70607d858909648cacab9808b0ca5bd572cd1d63f9b7dd1a22b39",
+      "shape": [
+        500
+      ]
+    },
+    "identity_components": {
+      "dtype": "torch.float32",
+      "finite": true,
+      "sha256": "cedfe6720b4b1ae2615de77a57b389617adc89a787c3619a45760add55aa2fc1",
+      "shape": [
+        500,
+        768
+      ]
+    },
+    "identity_valid": {
+      "dtype": "torch.bool",
+      "finite": true,
+      "sha256": "13330b8c195c265485dfdd286579e2c161e47cc3d54356b90bbbf751eec8682d",
+      "shape": [
+        500
+      ]
+    },
+    "instance_identity_centers": {
+      "dtype": "torch.float32",
+      "finite": true,
+      "sha256": "89ad299702e5b1eeee38b868db269d2a4fb79770219d3d4b88fa04867c0f6ca5",
+      "shape": [
+        500,
+        768
+      ]
+    },
+    "instance_identity_mass": {
+      "dtype": "torch.int64",
+      "finite": true,
+      "sha256": "025bc7fbd4f2b3d3778f8a99065e7db2cf5cf931a81bf0cd1877d72296a39be8",
+      "shape": [
+        500
+      ]
+    },
+    "modality_residuals": {
+      "dtype": "torch.float32",
+      "finite": true,
+      "sha256": "cdf30ccf41bf5cfe7a4440a4ab2e1021dfe737474311716b6b09a343c42cc909",
+      "shape": [
+        500,
+        3,
+        768
+      ]
+    },
+    "scenario_centers": {
+      "dtype": "torch.float32",
+      "finite": true,
+      "sha256": "e060ad3aa19c00b77d2d48a0f1414a091f7d7314399e8eea4859a7b26b767016",
+      "shape": [
+        500,
+        3,
+        2,
+        768
+      ]
+    },
+    "scenario_mass": {
+      "dtype": "torch.float32",
+      "finite": true,
+      "sha256": "cf9a64c5f8e74a59129d077679abe2d53982be1c586bac276604caa486cd9c3f",
+      "shape": [
+        500,
+        3,
+        2
+      ]
+    },
+    "scenario_updates": {
+      "dtype": "torch.int64",
+      "finite": true,
+      "sha256": "7a201e63123362b3bf852b70af2656997774934d1f0632e6073d1b6d5a0955ad",
+      "shape": [
+        500,
+        3,
+        2
+      ]
+    },
+    "skipped_updates": {
+      "dtype": "torch.int64",
+      "finite": true,
+      "sha256": "ee5d1a3591fb90a9074af648cd8683a4c94173dd843ac9afa3f282c2612304c5",
+      "shape": []
+    },
+    "successful_updates": {
+      "dtype": "torch.int64",
+      "finite": true,
+      "sha256": "6f1ed24503041822911e0a382b4619b76c83affc1bc80f3572dd2ec79fa0a931",
+      "shape": []
+    },
+    "view_residuals": {
+      "dtype": "torch.float32",
+      "finite": true,
+      "sha256": "9a7ba86d66c5ea8d3612c5947b5d10f93afd0826cb8cb12bfb352013df0dc104",
+      "shape": [
+        500,
+        2,
+        768
+      ]
+    }
+  }
+}

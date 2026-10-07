@@ -1,0 +1,25 @@
+{
+  "comparison_rule": "at least 2 of checkpoints 10, 20, and 30 must strictly exceed both mAP and Rank-1",
+  "epochs": {
+    "10": {
+      "map_percent": 5.66,
+      "rank1_percent": 17.77
+    },
+    "20": {
+      "map_percent": 7.58,
+      "rank1_percent": 22.08
+    },
+    "30": {
+      "map_percent": 8.56,
+      "rank1_percent": 24.11
+    }
+  },
+  "full120": {
+    "map_percent": 10.83,
+    "rank1_percent": 28.4
+  },
+  "name": "UAD_4GPU_seed1_full120",
+  "note": "Engineering screening gate only; UAD and CSF recipes are not claimed protocol-identical.",
+  "source_log_sha256": "c93758fb06170f7dda1b4b587f41998f851970797774c8599de2465e346235a7",
+  "source_path": "/data/run01/scwc189/users/ZhangXinyang/outputs/uad1000_4gpu_seed1/train.log"
+}

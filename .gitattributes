@@ -1,0 +1,19 @@
+* text=auto
+/.gitattributes text eol=lf
+/.gitignore text eol=lf
+*.py text eol=lf
+*.sh text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.csv text eol=lf
+# Preserve upstream payload and experimental artifact bytes for SHA256 checks.
+code/v13b/** -text
+artifacts/** -text
+docs/source/** -text
+docs/CLIP-ReID_LICENSE -text
+datasets/IMAGE_SHA256SUMS.txt -text
+*.pth filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
+*.whl filter=lfs diff=lfs merge=lfs -text

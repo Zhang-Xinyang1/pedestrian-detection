@@ -1,0 +1,250 @@
+[
+  {
+    "file": "ARTIFACT_SHA256.json",
+    "bytes": 5942
+  },
+  {
+    "file": "CSF_FINAL_SUMMARY.json",
+    "bytes": 3126
+  },
+  {
+    "file": "FIXED100_TARGET_REPORT.json",
+    "bytes": 505
+  },
+  {
+    "file": "VERIFICATION.json",
+    "bytes": 2765
+  },
+  {
+    "file": "ViT-B-16_10.pth",
+    "bytes": 504937918
+  },
+  {
+    "file": "ViT-B-16_100.pth",
+    "bytes": 504938240
+  },
+  {
+    "file": "ViT-B-16_20.pth",
+    "bytes": 504937918
+  },
+  {
+    "file": "ViT-B-16_30.pth",
+    "bytes": 504937918
+  },
+  {
+    "file": "ViT-B-16_40.pth",
+    "bytes": 504937918
+  },
+  {
+    "file": "ViT-B-16_50.pth",
+    "bytes": 504937918
+  },
+  {
+    "file": "ViT-B-16_60.pth",
+    "bytes": 504937918
+  },
+  {
+    "file": "ViT-B-16_70.pth",
+    "bytes": 504937918
+  },
+  {
+    "file": "ViT-B-16_80.pth",
+    "bytes": 504937918
+  },
+  {
+    "file": "ViT-B-16_90.pth",
+    "bytes": 504937918
+  },
+  {
+    "file": "branch_diagnostics_stage2_010.json",
+    "bytes": 3810
+  },
+  {
+    "file": "branch_diagnostics_stage2_020.json",
+    "bytes": 3827
+  },
+  {
+    "file": "branch_diagnostics_stage2_030.json",
+    "bytes": 3844
+  },
+  {
+    "file": "branch_diagnostics_stage2_040.json",
+    "bytes": 3784
+  },
+  {
+    "file": "branch_diagnostics_stage2_050.json",
+    "bytes": 3800
+  },
+  {
+    "file": "branch_diagnostics_stage2_060.json",
+    "bytes": 3835
+  },
+  {
+    "file": "branch_diagnostics_stage2_070.json",
+    "bytes": 3824
+  },
+  {
+    "file": "branch_diagnostics_stage2_080.json",
+    "bytes": 3799
+  },
+  {
+    "file": "branch_diagnostics_stage2_090.json",
+    "bytes": 3841
+  },
+  {
+    "file": "branch_diagnostics_stage2_100.json",
+    "bytes": 3822
+  },
+  {
+    "file": "checkpoint_audit_stage2_010.json",
+    "bytes": 38967
+  },
+  {
+    "file": "checkpoint_audit_stage2_020.json",
+    "bytes": 38967
+  },
+  {
+    "file": "checkpoint_audit_stage2_030.json",
+    "bytes": 38967
+  },
+  {
+    "file": "checkpoint_audit_stage2_040.json",
+    "bytes": 38967
+  },
+  {
+    "file": "checkpoint_audit_stage2_050.json",
+    "bytes": 38967
+  },
+  {
+    "file": "checkpoint_audit_stage2_060.json",
+    "bytes": 38967
+  },
+  {
+    "file": "checkpoint_audit_stage2_070.json",
+    "bytes": 38967
+  },
+  {
+    "file": "checkpoint_audit_stage2_080.json",
+    "bytes": 38967
+  },
+  {
+    "file": "checkpoint_audit_stage2_090.json",
+    "bytes": 38967
+  },
+  {
+    "file": "checkpoint_audit_stage2_100.json",
+    "bytes": 38969
+  },
+  {
+    "file": "csf_memory.pt",
+    "bytes": 20019938
+  },
+  {
+    "file": "csf_memory_audit.json",
+    "bytes": 3632
+  },
+  {
+    "file": "eval_stage2_010.json",
+    "bytes": 6631
+  },
+  {
+    "file": "eval_stage2_020.json",
+    "bytes": 6644
+  },
+  {
+    "file": "eval_stage2_030.json",
+    "bytes": 6635
+  },
+  {
+    "file": "eval_stage2_040.json",
+    "bytes": 6614
+  },
+  {
+    "file": "eval_stage2_050.json",
+    "bytes": 6627
+  },
+  {
+    "file": "eval_stage2_060.json",
+    "bytes": 6636
+  },
+  {
+    "file": "eval_stage2_070.json",
+    "bytes": 6569
+  },
+  {
+    "file": "eval_stage2_080.json",
+    "bytes": 6620
+  },
+  {
+    "file": "eval_stage2_090.json",
+    "bytes": 6649
+  },
+  {
+    "file": "eval_stage2_100.json",
+    "bytes": 6589
+  },
+  {
+    "file": "l2sp_audit.json",
+    "bytes": 107626
+  },
+  {
+    "file": "l2sp_initialization.json",
+    "bytes": 29308
+  },
+  {
+    "file": "learning_rate_epoch_history.json",
+    "bytes": 29483
+  },
+  {
+    "file": "local_auxiliary_audit.json",
+    "bytes": 169743
+  },
+  {
+    "file": "local_auxiliary_epoch_history.json",
+    "bytes": 157714
+  },
+  {
+    "file": "local_auxiliary_final.pt",
+    "bytes": 41624135
+  },
+  {
+    "file": "local_auxiliary_initialization.json",
+    "bytes": 3020
+  },
+  {
+    "file": "local_auxiliary_training_diagnostics.json",
+    "bytes": 85828
+  },
+  {
+    "file": "manifest.json",
+    "bytes": 4981747
+  },
+  {
+    "file": "stage1_checkpoint_load.json",
+    "bytes": 18431
+  },
+  {
+    "file": "stage2_audit.json",
+    "bytes": 773126
+  },
+  {
+    "file": "stage2_initial_parameters.json",
+    "bytes": 38207
+  },
+  {
+    "file": "train_log.txt",
+    "bytes": 339660
+  },
+  {
+    "file": "training_diagnostics.json",
+    "bytes": 423033
+  },
+  {
+    "file": "training_state_audit.json",
+    "bytes": 532
+  },
+  {
+    "file": "training_state_latest.pth",
+    "bytes": 1270420138
+  }
+]

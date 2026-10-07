@@ -1,0 +1,23 @@
+# Dataset agreement prohibits redistribution; complete data remains local.
+/datasets/WHU-MARS/
+/datasets/*.zip
+/datasets/*.partial
+
+# New experiments and generated verification reports.
+/outputs/
+__pycache__/
+*.py[cod]
+.venv*/
+*.partial
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Authentication material never belongs in this repository.
+SSH_CREDENTIALS_LOCAL.json
+*credentials*.json
+*.pem
+*.key
+.env
+.env.*
+

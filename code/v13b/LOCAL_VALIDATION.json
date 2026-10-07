@@ -1,0 +1,670 @@
+{
+  "status": "PASS",
+  "checked_at_beijing": "2026-10-06T00:06:28.666733+08:00",
+  "shared_code_AB": true,
+  "scope": "Both CPU/CUDA tests, full dataset precheck and real4epoch approved-Stage1 smoke with compressed tail boundaries",
+  "production_first40_scheduler_and_test_optimizer_updates_identical": true,
+  "both_full_state_next_stochastic_update_restore_verified": true,
+  "arms": {
+    "A": {
+      "pipeline_directory": "E:\\Desktop\\PRVC\\server_repro\\v13_lr100_ab_local_validation_20261005\\pipeline\\integration_A_r2",
+      "environment": {
+        "status": "PASS",
+        "python": "3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]",
+        "torch": "2.2.2+cu121",
+        "torchvision": "0.17.2+cu121",
+        "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU",
+        "imports": [
+          "numpy",
+          "PIL.Image",
+          "yaml",
+          "yacs.config",
+          "ftfy",
+          "regex",
+          "wcwidth",
+          "tqdm",
+          "huggingface_hub",
+          "safetensors",
+          "torch",
+          "torchvision",
+          "timm.data.random_erasing",
+          "timm.models.layers",
+          "run_stage2_only",
+          "verify_results_csf",
+          "l2sp_diagnostics",
+          "local_observed_auxiliary",
+          "verify_local_auxiliary",
+          "partial_local_matching"
+        ],
+        "tokenizer": "PASS",
+        "cuda_nms": "PASS",
+        "learning_rate": [
+          9.500000000000001e-07,
+          1.4000000000000001e-06,
+          1.85e-06,
+          2.3000000000000004e-06,
+          2.7500000000000004e-06,
+          3.2000000000000003e-06,
+          3.65e-06,
+          4.1000000000000006e-06,
+          4.5500000000000005e-06,
+          5e-06,
+          5e-06,
+          5e-06,
+          5e-06,
+          5e-06,
+          5e-06,
+          5e-06,
+          5e-06,
+          5e-06,
+          5e-06,
+          5e-06,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07
+        ],
+        "declared_budget": 100,
+        "decay_actual_epoch": 21,
+        "first20_lr_equal": true,
+        "local_validation": true,
+        "versions": {
+          "timm": "1.0.27",
+          "yacs": "0.1.8",
+          "PyYAML": "6.0.3",
+          "ftfy": "6.3.1",
+          "regex": "2026.9.10",
+          "numpy": "1.26.4",
+          "Pillow": "12.3.0",
+          "huggingface-hub": "0.27.1",
+          "safetensors": "0.5.2"
+        }
+      },
+      "pipeline_phases": [
+        {
+          "phase": "environment",
+          "exit_code": 0
+        },
+        {
+          "phase": "full_data_contract",
+          "exit_code": 0
+        },
+        {
+          "phase": "test_data_protocol",
+          "exit_code": 0
+        },
+        {
+          "phase": "test_fixed_epoch_budget",
+          "exit_code": 0
+        },
+        {
+          "phase": "test_v13_lr100_contract",
+          "exit_code": 0
+        },
+        {
+          "phase": "test_verify_csf_contract",
+          "exit_code": 0
+        },
+        {
+          "phase": "test_lr_tail_schedule",
+          "exit_code": 0
+        },
+        {
+          "phase": "test_training_state_io",
+          "exit_code": 0
+        },
+        {
+          "phase": "test_partial_local_matching",
+          "exit_code": 0
+        },
+        {
+          "phase": "test_local_observed_auxiliary",
+          "exit_code": 0
+        },
+        {
+          "phase": "test_l2sp_epoch_accounting",
+          "exit_code": 0
+        },
+        {
+          "phase": "test_partial_matching_cuda",
+          "exit_code": 0
+        },
+        {
+          "phase": "test_lr_tail_cuda",
+          "exit_code": 0
+        },
+        {
+          "phase": "test_training_state_cuda",
+          "exit_code": 0
+        },
+        {
+          "phase": "test_local_observed_cuda",
+          "exit_code": 0
+        },
+        {
+          "phase": "test_l2sp_cuda",
+          "exit_code": 0
+        },
+        {
+          "phase": "gpu_smoke",
+          "exit_code": 0
+        },
+        {
+          "phase": "smoke_verify",
+          "exit_code": 0
+        }
+      ],
+      "smoke_epochs": 4,
+      "smoke_batches": 24,
+      "successful_updates": 17,
+      "AMP_skips": 7,
+      "actual_optimizer_learning_rates": [
+        {
+          "arm": "A",
+          "base_lr": 9.500000000000001e-07,
+          "distinct_group_rates": [
+            9.500000000000001e-07,
+            1.9000000000000002e-06
+          ],
+          "epoch": 1,
+          "group_count": 162,
+          "lr_max": 1.9000000000000002e-06,
+          "lr_min": 9.500000000000001e-07,
+          "optimizer_rates_match": true
+        },
+        {
+          "arm": "A",
+          "base_lr": 1.4000000000000001e-06,
+          "distinct_group_rates": [
+            1.4000000000000001e-06,
+            2.8000000000000003e-06
+          ],
+          "epoch": 2,
+          "group_count": 162,
+          "lr_max": 2.8000000000000003e-06,
+          "lr_min": 1.4000000000000001e-06,
+          "optimizer_rates_match": true
+        },
+        {
+          "arm": "A",
+          "base_lr": 5.000000000000001e-07,
+          "distinct_group_rates": [
+            5.000000000000001e-07,
+            1.0000000000000002e-06
+          ],
+          "epoch": 3,
+          "group_count": 162,
+          "lr_max": 1.0000000000000002e-06,
+          "lr_min": 5.000000000000001e-07,
+          "optimizer_rates_match": true
+        },
+        {
+          "arm": "A",
+          "base_lr": 5.000000000000001e-07,
+          "distinct_group_rates": [
+            5.000000000000001e-07,
+            1.0000000000000002e-06
+          ],
+          "epoch": 4,
+          "group_count": 162,
+          "lr_max": 1.0000000000000002e-06,
+          "lr_min": 5.000000000000001e-07,
+          "optimizer_rates_match": true
+        }
+      ],
+      "artifact_count": 23,
+      "artifact_sha_recomputed": true,
+      "schedule_verification": {
+        "actual_learning_rate_history_verified": true,
+        "arm": "A",
+        "final_base_lr": 5.000000000000001e-07,
+        "first40_production_recipe_unchanged": true,
+        "single_variable": "learning rate after epoch40",
+        "specification": {
+          "all_other_losses_data_and_retrieval": "unchanged V10",
+          "arm": "A",
+          "bias_factor": 2,
+          "budget": 4,
+          "first40_production": "original V10 unchanged",
+          "single_variable": "learning rate after epoch40",
+          "smoke_schedule": "compressed tail transition for optimizer integration",
+          "tail_end": 4,
+          "tail_final": 5e-07,
+          "tail_initial": 5e-07,
+          "tail_mode": "constant",
+          "tail_start": 2
+        },
+        "status": "PASS"
+      },
+      "full_state_verification": {
+        "atomic_latest_save": true,
+        "components": [
+          "model",
+          "optimizer",
+          "optimizer_center",
+          "scheduler",
+          "AMP",
+          "rng",
+          "global_memory",
+          "local_auxiliary",
+          "ledger"
+        ],
+        "epoch": 4,
+        "file": "training_state_latest.pth",
+        "restore_function_unit_checked": true,
+        "resume_cli_scope": "state restoration primitives and RNG checked; production pipeline always starts independently from Stage1",
+        "sha256": "3d7dea785efaca514530bb9562375fe9f91cdee5382e125ae80ef4c9177ac6e8",
+        "status": "PASS"
+      }
+    },
+    "B": {
+      "pipeline_directory": "E:\\Desktop\\PRVC\\server_repro\\v13_lr100_ab_local_validation_20261005\\pipeline\\integration_B_r1",
+      "environment": {
+        "status": "PASS",
+        "python": "3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]",
+        "torch": "2.2.2+cu121",
+        "torchvision": "0.17.2+cu121",
+        "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU",
+        "imports": [
+          "numpy",
+          "PIL.Image",
+          "yaml",
+          "yacs.config",
+          "ftfy",
+          "regex",
+          "wcwidth",
+          "tqdm",
+          "huggingface_hub",
+          "safetensors",
+          "torch",
+          "torchvision",
+          "timm.data.random_erasing",
+          "timm.models.layers",
+          "run_stage2_only",
+          "verify_results_csf",
+          "l2sp_diagnostics",
+          "local_observed_auxiliary",
+          "verify_local_auxiliary",
+          "partial_local_matching"
+        ],
+        "tokenizer": "PASS",
+        "cuda_nms": "PASS",
+        "learning_rate": [
+          9.500000000000001e-07,
+          1.4000000000000001e-06,
+          1.85e-06,
+          2.3000000000000004e-06,
+          2.7500000000000004e-06,
+          3.2000000000000003e-06,
+          3.65e-06,
+          4.1000000000000006e-06,
+          4.5500000000000005e-06,
+          5e-06,
+          5e-06,
+          5e-06,
+          5e-06,
+          5e-06,
+          5e-06,
+          5e-06,
+          5e-06,
+          5e-06,
+          5e-06,
+          5e-06,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07,
+          5.000000000000001e-07
+        ],
+        "declared_budget": 100,
+        "decay_actual_epoch": 21,
+        "first20_lr_equal": true,
+        "local_validation": true,
+        "versions": {
+          "timm": "1.0.27",
+          "yacs": "0.1.8",
+          "PyYAML": "6.0.3",
+          "ftfy": "6.3.1",
+          "regex": "2026.9.10",
+          "numpy": "1.26.4",
+          "Pillow": "12.3.0",
+          "huggingface-hub": "0.27.1",
+          "safetensors": "0.5.2"
+        }
+      },
+      "pipeline_phases": [
+        {
+          "phase": "environment",
+          "exit_code": 0
+        },
+        {
+          "phase": "full_data_contract",
+          "exit_code": 0
+        },
+        {
+          "phase": "test_data_protocol",
+          "exit_code": 0
+        },
+        {
+          "phase": "test_fixed_epoch_budget",
+          "exit_code": 0
+        },
+        {
+          "phase": "test_v13_lr100_contract",
+          "exit_code": 0
+        },
+        {
+          "phase": "test_verify_csf_contract",
+          "exit_code": 0
+        },
+        {
+          "phase": "test_lr_tail_schedule",
+          "exit_code": 0
+        },
+        {
+          "phase": "test_training_state_io",
+          "exit_code": 0
+        },
+        {
+          "phase": "test_partial_local_matching",
+          "exit_code": 0
+        },
+        {
+          "phase": "test_local_observed_auxiliary",
+          "exit_code": 0
+        },
+        {
+          "phase": "test_l2sp_epoch_accounting",
+          "exit_code": 0
+        },
+        {
+          "phase": "test_partial_matching_cuda",
+          "exit_code": 0
+        },
+        {
+          "phase": "test_lr_tail_cuda",
+          "exit_code": 0
+        },
+        {
+          "phase": "test_training_state_cuda",
+          "exit_code": 0
+        },
+        {
+          "phase": "test_local_observed_cuda",
+          "exit_code": 0
+        },
+        {
+          "phase": "test_l2sp_cuda",
+          "exit_code": 0
+        },
+        {
+          "phase": "gpu_smoke",
+          "exit_code": 0
+        },
+        {
+          "phase": "smoke_verify",
+          "exit_code": 0
+        }
+      ],
+      "smoke_epochs": 4,
+      "smoke_batches": 24,
+      "successful_updates": 18,
+      "AMP_skips": 6,
+      "actual_optimizer_learning_rates": [
+        {
+          "arm": "B",
+          "base_lr": 9.500000000000001e-07,
+          "distinct_group_rates": [
+            9.500000000000001e-07,
+            1.9000000000000002e-06
+          ],
+          "epoch": 1,
+          "group_count": 162,
+          "lr_max": 1.9000000000000002e-06,
+          "lr_min": 9.500000000000001e-07,
+          "optimizer_rates_match": true
+        },
+        {
+          "arm": "B",
+          "base_lr": 1.4000000000000001e-06,
+          "distinct_group_rates": [
+            1.4000000000000001e-06,
+            2.8000000000000003e-06
+          ],
+          "epoch": 2,
+          "group_count": 162,
+          "lr_max": 2.8000000000000003e-06,
+          "lr_min": 1.4000000000000001e-06,
+          "optimizer_rates_match": true
+        },
+        {
+          "arm": "B",
+          "base_lr": 2.55e-07,
+          "distinct_group_rates": [
+            2.55e-07,
+            5.1e-07
+          ],
+          "epoch": 3,
+          "group_count": 162,
+          "lr_max": 5.1e-07,
+          "lr_min": 2.55e-07,
+          "optimizer_rates_match": true
+        },
+        {
+          "arm": "B",
+          "base_lr": 1e-08,
+          "distinct_group_rates": [
+            1e-08,
+            2e-08
+          ],
+          "epoch": 4,
+          "group_count": 162,
+          "lr_max": 2e-08,
+          "lr_min": 1e-08,
+          "optimizer_rates_match": true
+        }
+      ],
+      "artifact_count": 23,
+      "artifact_sha_recomputed": true,
+      "schedule_verification": {
+        "actual_learning_rate_history_verified": true,
+        "arm": "B",
+        "final_base_lr": 1e-08,
+        "first40_production_recipe_unchanged": true,
+        "single_variable": "learning rate after epoch40",
+        "specification": {
+          "all_other_losses_data_and_retrieval": "unchanged V10",
+          "arm": "B",
+          "bias_factor": 2,
+          "budget": 4,
+          "first40_production": "original V10 unchanged",
+          "single_variable": "learning rate after epoch40",
+          "smoke_schedule": "compressed tail transition for optimizer integration",
+          "tail_end": 4,
+          "tail_final": 1e-08,
+          "tail_initial": 5e-07,
+          "tail_mode": "cosine",
+          "tail_start": 2
+        },
+        "status": "PASS"
+      },
+      "full_state_verification": {
+        "atomic_latest_save": true,
+        "components": [
+          "model",
+          "optimizer",
+          "optimizer_center",
+          "scheduler",
+          "AMP",
+          "rng",
+          "global_memory",
+          "local_auxiliary",
+          "ledger"
+        ],
+        "epoch": 4,
+        "file": "training_state_latest.pth",
+        "restore_function_unit_checked": true,
+        "resume_cli_scope": "state restoration primitives and RNG checked; production pipeline always starts independently from Stage1",
+        "sha256": "80e736704971e41315cf4cf7e56c1ce0de9e3773e0f82e56c6d04b9ffe1c01a6",
+        "status": "PASS"
+      }
+    }
+  },
+  "limits": [
+    "Local Windows/PyTorch2.2 checks do not replace server PyTorch2.6/A800 checks.",
+    "Smoke loss/evaluation scores do not prove formal retrieval gains.",
+    "Production run starts from Stage1 and zero memory; no existing model continuation.",
+    "Across-host numerical and concurrency differences are recorded; paired first40 artifacts must be compared."
+  ]
+}

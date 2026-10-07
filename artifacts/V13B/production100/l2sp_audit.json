@@ -1,0 +1,2000 @@
+{
+  "epoch_history": [
+    {
+      "batches": 1399,
+      "epoch": 1,
+      "mean_weighted_penalty": 7.9692970835237e-05,
+      "relative_frobenius_deviation": 0.0017791897759557884,
+      "rms_deviation": 6.181184482173596e-05,
+      "squared_deviation_sum": 0.3291170457782755,
+      "weighted_penalty_at_epoch_end": 0.00016455852288913776
+    },
+    {
+      "batches": 1400,
+      "epoch": 2,
+      "mean_weighted_penalty": 0.00033095837946997824,
+      "relative_frobenius_deviation": 0.0031812338245483414,
+      "rms_deviation": 0.00011052105523650784,
+      "squared_deviation_sum": 1.0521968818618461,
+      "weighted_penalty_at_epoch_end": 0.0005260984409309231
+    },
+    {
+      "batches": 1400,
+      "epoch": 3,
+      "mean_weighted_penalty": 0.0007847101271701312,
+      "relative_frobenius_deviation": 0.004511814868039779,
+      "rms_deviation": 0.0001567475287102853,
+      "squared_deviation_sum": 2.116451738400883,
+      "weighted_penalty_at_epoch_end": 0.0010582258692004415
+    },
+    {
+      "batches": 1398,
+      "epoch": 4,
+      "mean_weighted_penalty": 0.0014076589193502882,
+      "relative_frobenius_deviation": 0.005834753536543464,
+      "rms_deviation": 0.0002027084940841419,
+      "squared_deviation_sum": 3.5395728837975184,
+      "weighted_penalty_at_epoch_end": 0.0017697864418987593
+    },
+    {
+      "batches": 1401,
+      "epoch": 5,
+      "mean_weighted_penalty": 0.0022264632061030783,
+      "relative_frobenius_deviation": 0.0072017809678287786,
+      "rms_deviation": 0.00025020117226360776,
+      "squared_deviation_sum": 5.3924440173641415,
+      "weighted_penalty_at_epoch_end": 0.002696222008682071
+    },
+    {
+      "batches": 1400,
+      "epoch": 6,
+      "mean_weighted_penalty": 0.0032721165900251696,
+      "relative_frobenius_deviation": 0.008614493278260164,
+      "rms_deviation": 0.00029928101483589936,
+      "squared_deviation_sum": 7.71552176071782,
+      "weighted_penalty_at_epoch_end": 0.0038577608803589103
+    },
+    {
+      "batches": 1399,
+      "epoch": 7,
+      "mean_weighted_penalty": 0.004564732443301634,
+      "relative_frobenius_deviation": 0.010073206725696856,
+      "rms_deviation": 0.0003499590090953363,
+      "squared_deviation_sum": 10.549729423231838,
+      "weighted_penalty_at_epoch_end": 0.00527486471161592
+    },
+    {
+      "batches": 1402,
+      "epoch": 8,
+      "mean_weighted_penalty": 0.0061529559251346155,
+      "relative_frobenius_deviation": 0.01159203687455936,
+      "rms_deviation": 0.0004027255519008274,
+      "squared_deviation_sum": 13.970930605204558,
+      "weighted_penalty_at_epoch_end": 0.006985465302602279
+    },
+    {
+      "batches": 1399,
+      "epoch": 9,
+      "mean_weighted_penalty": 0.007967772160998258,
+      "relative_frobenius_deviation": 0.013116625989054994,
+      "rms_deviation": 0.0004556921702097074,
+      "squared_deviation_sum": 17.887518577363153,
+      "weighted_penalty_at_epoch_end": 0.008943759288681576
+    },
+    {
+      "batches": 1395,
+      "epoch": 10,
+      "mean_weighted_penalty": 0.010130574616293112,
+      "relative_frobenius_deviation": 0.014722985525984033,
+      "rms_deviation": 0.0005114996213126867,
+      "squared_deviation_sum": 22.537077483479152,
+      "weighted_penalty_at_epoch_end": 0.011268538741739576
+    },
+    {
+      "batches": 1400,
+      "epoch": 11,
+      "mean_weighted_penalty": 0.01249722123146057,
+      "relative_frobenius_deviation": 0.016219006921717745,
+      "rms_deviation": 0.0005634737522417007,
+      "squared_deviation_sum": 27.349812028855013,
+      "weighted_penalty_at_epoch_end": 0.013674906014427507
+    },
+    {
+      "batches": 1396,
+      "epoch": 12,
+      "mean_weighted_penalty": 0.014948393929386804,
+      "relative_frobenius_deviation": 0.017627715628779676,
+      "rms_deviation": 0.000612414503350257,
+      "squared_deviation_sum": 32.30709429136368,
+      "weighted_penalty_at_epoch_end": 0.016153547145681842
+    },
+    {
+      "batches": 1398,
+      "epoch": 13,
+      "mean_weighted_penalty": 0.01744295949934421,
+      "relative_frobenius_deviation": 0.01894815637759611,
+      "rms_deviation": 0.000658288687074302,
+      "squared_deviation_sum": 37.32843204605706,
+      "weighted_penalty_at_epoch_end": 0.01866421602302853
+    },
+    {
+      "batches": 1398,
+      "epoch": 14,
+      "mean_weighted_penalty": 0.02000088026302098,
+      "relative_frobenius_deviation": 0.02022496589401759,
+      "rms_deviation": 0.0007026470533163533,
+      "squared_deviation_sum": 42.52863299991077,
+      "weighted_penalty_at_epoch_end": 0.021264316499955385
+    },
+    {
+      "batches": 1403,
+      "epoch": 15,
+      "mean_weighted_penalty": 0.022610800131008357,
+      "relative_frobenius_deviation": 0.021432467286073332,
+      "rms_deviation": 0.0007445975465557178,
+      "squared_deviation_sum": 47.75844375686211,
+      "weighted_penalty_at_epoch_end": 0.023879221878431053
+    },
+    {
+      "batches": 1396,
+      "epoch": 16,
+      "mean_weighted_penalty": 0.02524247806770113,
+      "relative_frobenius_deviation": 0.022595117613717693,
+      "rms_deviation": 0.0007849898434346088,
+      "squared_deviation_sum": 53.08050427998023,
+      "weighted_penalty_at_epoch_end": 0.026540252139990117
+    },
+    {
+      "batches": 1398,
+      "epoch": 17,
+      "mean_weighted_penalty": 0.02792499702855497,
+      "relative_frobenius_deviation": 0.023714780095457525,
+      "rms_deviation": 0.000823888675087822,
+      "squared_deviation_sum": 58.471472543216805,
+      "weighted_penalty_at_epoch_end": 0.029235736271608404
+    },
+    {
+      "batches": 1401,
+      "epoch": 18,
+      "mean_weighted_penalty": 0.030682159231431905,
+      "relative_frobenius_deviation": 0.024825619128764603,
+      "rms_deviation": 0.0008624809662962279,
+      "squared_deviation_sum": 64.07756561095448,
+      "weighted_penalty_at_epoch_end": 0.03203878280547724
+    },
+    {
+      "batches": 1398,
+      "epoch": 19,
+      "mean_weighted_penalty": 0.033471272736041675,
+      "relative_frobenius_deviation": 0.025879816163612464,
+      "rms_deviation": 0.0008991054255923392,
+      "squared_deviation_sum": 69.63509967410573,
+      "weighted_penalty_at_epoch_end": 0.03481754983705287
+    },
+    {
+      "batches": 1401,
+      "epoch": 20,
+      "mean_weighted_penalty": 0.036322282857230354,
+      "relative_frobenius_deviation": 0.02693020570484166,
+      "rms_deviation": 0.0009355976065852042,
+      "squared_deviation_sum": 75.40239995056618,
+      "weighted_penalty_at_epoch_end": 0.03770119997528309
+    },
+    {
+      "batches": 1397,
+      "epoch": 21,
+      "mean_weighted_penalty": 0.03778399494006622,
+      "relative_frobenius_deviation": 0.026990146980717247,
+      "rms_deviation": 0.0009376800605723558,
+      "squared_deviation_sum": 75.73843496646805,
+      "weighted_penalty_at_epoch_end": 0.037869217483234026
+    },
+    {
+      "batches": 1391,
+      "epoch": 22,
+      "mean_weighted_penalty": 0.03796878168633908,
+      "relative_frobenius_deviation": 0.027060463418175352,
+      "rms_deviation": 0.0009401229639541735,
+      "squared_deviation_sum": 76.13358615244579,
+      "weighted_penalty_at_epoch_end": 0.0380667930762229
+    },
+    {
+      "batches": 1404,
+      "epoch": 23,
+      "mean_weighted_penalty": 0.03817534820837343,
+      "relative_frobenius_deviation": 0.027136436933783748,
+      "rms_deviation": 0.0009427624031083386,
+      "squared_deviation_sum": 76.56168346347113,
+      "weighted_penalty_at_epoch_end": 0.038280841731735564
+    },
+    {
+      "batches": 1398,
+      "epoch": 24,
+      "mean_weighted_penalty": 0.03839367337375666,
+      "relative_frobenius_deviation": 0.027214771145340048,
+      "rms_deviation": 0.0009454838565442711,
+      "squared_deviation_sum": 77.00433961692397,
+      "weighted_penalty_at_epoch_end": 0.03850216980846199
+    },
+    {
+      "batches": 1398,
+      "epoch": 25,
+      "mean_weighted_penalty": 0.038617406416156776,
+      "relative_frobenius_deviation": 0.0272938053967794,
+      "rms_deviation": 0.0009482296304642831,
+      "squared_deviation_sum": 77.45224472227346,
+      "weighted_penalty_at_epoch_end": 0.03872612236113673
+    },
+    {
+      "batches": 1393,
+      "epoch": 26,
+      "mean_weighted_penalty": 0.03884390247377319,
+      "relative_frobenius_deviation": 0.027373985789509232,
+      "rms_deviation": 0.0009510152231313159,
+      "squared_deviation_sum": 77.90797253447454,
+      "weighted_penalty_at_epoch_end": 0.03895398626723727
+    },
+    {
+      "batches": 1400,
+      "epoch": 27,
+      "mean_weighted_penalty": 0.039072959066501683,
+      "relative_frobenius_deviation": 0.02745574278585142,
+      "rms_deviation": 0.0009538555894819375,
+      "squared_deviation_sum": 78.3740379220144,
+      "weighted_penalty_at_epoch_end": 0.0391870189610072
+    },
+    {
+      "batches": 1398,
+      "epoch": 28,
+      "mean_weighted_penalty": 0.03930770142939213,
+      "relative_frobenius_deviation": 0.027537232050732417,
+      "rms_deviation": 0.0009566866544214578,
+      "squared_deviation_sum": 78.83996016173478,
+      "weighted_penalty_at_epoch_end": 0.03941998008086739
+    },
+    {
+      "batches": 1399,
+      "epoch": 29,
+      "mean_weighted_penalty": 0.039540886639313155,
+      "relative_frobenius_deviation": 0.027619245968355785,
+      "rms_deviation": 0.0009595359466205627,
+      "squared_deviation_sum": 79.31027633334452,
+      "weighted_penalty_at_epoch_end": 0.03965513816667226
+    },
+    {
+      "batches": 1399,
+      "epoch": 30,
+      "mean_weighted_penalty": 0.03977704119520412,
+      "relative_frobenius_deviation": 0.027701231055339687,
+      "rms_deviation": 0.0009623842371980101,
+      "squared_deviation_sum": 79.78182509172257,
+      "weighted_penalty_at_epoch_end": 0.03989091254586129
+    },
+    {
+      "batches": 1396,
+      "epoch": 31,
+      "mean_weighted_penalty": 0.040014249958460854,
+      "relative_frobenius_deviation": 0.027783497039146426,
+      "rms_deviation": 0.000965242286571882,
+      "squared_deviation_sum": 80.25639433184188,
+      "weighted_penalty_at_epoch_end": 0.04012819716592094
+    },
+    {
+      "batches": 1395,
+      "epoch": 32,
+      "mean_weighted_penalty": 0.0402523752101647,
+      "relative_frobenius_deviation": 0.027866194761554493,
+      "rms_deviation": 0.0009681153352222724,
+      "squared_deviation_sum": 80.73487251435654,
+      "weighted_penalty_at_epoch_end": 0.04036743625717827
+    },
+    {
+      "batches": 1398,
+      "epoch": 33,
+      "mean_weighted_penalty": 0.04049266499862906,
+      "relative_frobenius_deviation": 0.027949122801280344,
+      "rms_deviation": 0.0009709963854577097,
+      "squared_deviation_sum": 81.21611130540259,
+      "weighted_penalty_at_epoch_end": 0.0406080556527013
+    },
+    {
+      "batches": 1398,
+      "epoch": 34,
+      "mean_weighted_penalty": 0.040733825735140256,
+      "relative_frobenius_deviation": 0.028032207252559904,
+      "rms_deviation": 0.0009738828696759729,
+      "squared_deviation_sum": 81.69969182339628,
+      "weighted_penalty_at_epoch_end": 0.04084984591169814
+    },
+    {
+      "batches": 1398,
+      "epoch": 35,
+      "mean_weighted_penalty": 0.04097381076417085,
+      "relative_frobenius_deviation": 0.028114247934577025,
+      "rms_deviation": 0.000976733091712117,
+      "squared_deviation_sum": 82.1786057119898,
+      "weighted_penalty_at_epoch_end": 0.0410893028559949
+    },
+    {
+      "batches": 1396,
+      "epoch": 36,
+      "mean_weighted_penalty": 0.04121648168783731,
+      "relative_frobenius_deviation": 0.02819778092386078,
+      "rms_deviation": 0.000979635158844517,
+      "squared_deviation_sum": 82.66766895741239,
+      "weighted_penalty_at_epoch_end": 0.04133383447870619
+    },
+    {
+      "batches": 1391,
+      "epoch": 37,
+      "mean_weighted_penalty": 0.04146358325252595,
+      "relative_frobenius_deviation": 0.028282875071849383,
+      "rms_deviation": 0.0009825914630801815,
+      "squared_deviation_sum": 83.16736424518604,
+      "weighted_penalty_at_epoch_end": 0.041583682122593016
+    },
+    {
+      "batches": 1398,
+      "epoch": 38,
+      "mean_weighted_penalty": 0.04171411799152351,
+      "relative_frobenius_deviation": 0.028367316294582254,
+      "rms_deviation": 0.0009855250836678549,
+      "squared_deviation_sum": 83.66471378702045,
+      "weighted_penalty_at_epoch_end": 0.041832356893510225
+    },
+    {
+      "batches": 1398,
+      "epoch": 39,
+      "mean_weighted_penalty": 0.041962165454767636,
+      "relative_frobenius_deviation": 0.02845179573482352,
+      "rms_deviation": 0.0009884600319917428,
+      "squared_deviation_sum": 84.1637721037041,
+      "weighted_penalty_at_epoch_end": 0.042081886051852056
+    },
+    {
+      "batches": 1395,
+      "epoch": 40,
+      "mean_weighted_penalty": 0.0422137824731702,
+      "relative_frobenius_deviation": 0.02853695302732187,
+      "rms_deviation": 0.0009914185299667662,
+      "squared_deviation_sum": 84.66833672335633,
+      "weighted_penalty_at_epoch_end": 0.042334168361678165
+    },
+    {
+      "batches": 1395,
+      "epoch": 41,
+      "mean_weighted_penalty": 0.042466984216564446,
+      "relative_frobenius_deviation": 0.028622482390912925,
+      "rms_deviation": 0.000994389954275425,
+      "squared_deviation_sum": 85.17662371899132,
+      "weighted_penalty_at_epoch_end": 0.04258831185949566
+    },
+    {
+      "batches": 1394,
+      "epoch": 42,
+      "mean_weighted_penalty": 0.04271850762207333,
+      "relative_frobenius_deviation": 0.02870618825998774,
+      "rms_deviation": 0.000997298027523059,
+      "squared_deviation_sum": 85.6755468151132,
+      "weighted_penalty_at_epoch_end": 0.042837773407556595
+    },
+    {
+      "batches": 1403,
+      "epoch": 43,
+      "mean_weighted_penalty": 0.04297073749415125,
+      "relative_frobenius_deviation": 0.028791704515236945,
+      "rms_deviation": 0.0010002689964273513,
+      "squared_deviation_sum": 86.1867651613502,
+      "weighted_penalty_at_epoch_end": 0.0430933825806751
+    },
+    {
+      "batches": 1397,
+      "epoch": 44,
+      "mean_weighted_penalty": 0.04322620607117883,
+      "relative_frobenius_deviation": 0.028875996529641627,
+      "rms_deviation": 0.0010031974332835574,
+      "squared_deviation_sum": 86.69215312975575,
+      "weighted_penalty_at_epoch_end": 0.04334607656487788
+    },
+    {
+      "batches": 1401,
+      "epoch": 45,
+      "mean_weighted_penalty": 0.043478673732148844,
+      "relative_frobenius_deviation": 0.028960616109093205,
+      "rms_deviation": 0.001006137250263526,
+      "squared_deviation_sum": 87.20099113278775,
+      "weighted_penalty_at_epoch_end": 0.04360049556639387
+    },
+    {
+      "batches": 1400,
+      "epoch": 46,
+      "mean_weighted_penalty": 0.043733208269945215,
+      "relative_frobenius_deviation": 0.029044807495988863,
+      "rms_deviation": 0.0010090621911621582,
+      "squared_deviation_sum": 87.7087319691309,
+      "weighted_penalty_at_epoch_end": 0.04385436598456545
+    },
+    {
+      "batches": 1404,
+      "epoch": 47,
+      "mean_weighted_penalty": 0.04398428459792395,
+      "relative_frobenius_deviation": 0.02912675417568483,
+      "rms_deviation": 0.0010119091474101519,
+      "squared_deviation_sum": 88.20435092923799,
+      "weighted_penalty_at_epoch_end": 0.044102175464618996
+    },
+    {
+      "batches": 1404,
+      "epoch": 48,
+      "mean_weighted_penalty": 0.0442344932087254,
+      "relative_frobenius_deviation": 0.02920990548943265,
+      "rms_deviation": 0.0010147979545354865,
+      "squared_deviation_sum": 88.70868290091676,
+      "weighted_penalty_at_epoch_end": 0.04435434145045838
+    },
+    {
+      "batches": 1398,
+      "epoch": 49,
+      "mean_weighted_penalty": 0.044482914168648795,
+      "relative_frobenius_deviation": 0.029290834143749306,
+      "rms_deviation": 0.0010176095429842598,
+      "squared_deviation_sum": 89.20091451526241,
+      "weighted_penalty_at_epoch_end": 0.044600457257631204
+    },
+    {
+      "batches": 1396,
+      "epoch": 50,
+      "mean_weighted_penalty": 0.04472870429321312,
+      "relative_frobenius_deviation": 0.029371115342092906,
+      "rms_deviation": 0.001020398637796505,
+      "squared_deviation_sum": 89.69055369942726,
+      "weighted_penalty_at_epoch_end": 0.04484527684971363
+    },
+    {
+      "batches": 1398,
+      "epoch": 51,
+      "mean_weighted_penalty": 0.04497242391439893,
+      "relative_frobenius_deviation": 0.029450593913357134,
+      "rms_deviation": 0.0010231598480844848,
+      "squared_deviation_sum": 90.17661776956447,
+      "weighted_penalty_at_epoch_end": 0.045088308884782234
+    },
+    {
+      "batches": 1401,
+      "epoch": 52,
+      "mean_weighted_penalty": 0.04521354709317819,
+      "relative_frobenius_deviation": 0.029529069128972147,
+      "rms_deviation": 0.0010258862002226884,
+      "squared_deviation_sum": 90.65783440492305,
+      "weighted_penalty_at_epoch_end": 0.04532891720246152
+    },
+    {
+      "batches": 1392,
+      "epoch": 53,
+      "mean_weighted_penalty": 0.04545389907434583,
+      "relative_frobenius_deviation": 0.02960617906613979,
+      "rms_deviation": 0.0010285651204451588,
+      "squared_deviation_sum": 91.1319263762889,
+      "weighted_penalty_at_epoch_end": 0.04556596318814445
+    },
+    {
+      "batches": 1395,
+      "epoch": 54,
+      "mean_weighted_penalty": 0.045689707868949485,
+      "relative_frobenius_deviation": 0.029682746280354305,
+      "rms_deviation": 0.0010312251856205658,
+      "squared_deviation_sum": 91.6039049160463,
+      "weighted_penalty_at_epoch_end": 0.045801952458023154
+    },
+    {
+      "batches": 1396,
+      "epoch": 55,
+      "mean_weighted_penalty": 0.04592324199854132,
+      "relative_frobenius_deviation": 0.029757491735033673,
+      "rms_deviation": 0.0010338219600109137,
+      "squared_deviation_sum": 92.06582958411309,
+      "weighted_penalty_at_epoch_end": 0.046032914792056547
+    },
+    {
+      "batches": 1396,
+      "epoch": 56,
+      "mean_weighted_penalty": 0.046151187665824565,
+      "relative_frobenius_deviation": 0.029830402673728763,
+      "rms_deviation": 0.0010363550004371422,
+      "squared_deviation_sum": 92.51753630942403,
+      "weighted_penalty_at_epoch_end": 0.04625876815471202
+    },
+    {
+      "batches": 1393,
+      "epoch": 57,
+      "mean_weighted_penalty": 0.04637325264390475,
+      "relative_frobenius_deviation": 0.029900996640134694,
+      "rms_deviation": 0.0010388075456101214,
+      "squared_deviation_sum": 92.95594191696,
+      "weighted_penalty_at_epoch_end": 0.046477970958480004
+    },
+    {
+      "batches": 1396,
+      "epoch": 58,
+      "mean_weighted_penalty": 0.046591052868240716,
+      "relative_frobenius_deviation": 0.029970264209582372,
+      "rms_deviation": 0.0010412140096713138,
+      "squared_deviation_sum": 93.38711752110248,
+      "weighted_penalty_at_epoch_end": 0.04669355876055124
+    },
+    {
+      "batches": 1402,
+      "epoch": 59,
+      "mean_weighted_penalty": 0.04680609618567366,
+      "relative_frobenius_deviation": 0.030038788700916315,
+      "rms_deviation": 0.001043594658032755,
+      "squared_deviation_sum": 93.81464931840674,
+      "weighted_penalty_at_epoch_end": 0.04690732465920337
+    },
+    {
+      "batches": 1393,
+      "epoch": 60,
+      "mean_weighted_penalty": 0.047013394082632325,
+      "relative_frobenius_deviation": 0.03010351888121087,
+      "rms_deviation": 0.0010458434860744408,
+      "squared_deviation_sum": 94.21940479302066,
+      "weighted_penalty_at_epoch_end": 0.04710970239651033
+    },
+    {
+      "batches": 1400,
+      "epoch": 61,
+      "mean_weighted_penalty": 0.04721244627343757,
+      "relative_frobenius_deviation": 0.03016640559198156,
+      "rms_deviation": 0.0010480282690919912,
+      "squared_deviation_sum": 94.61346751667952,
+      "weighted_penalty_at_epoch_end": 0.04730673375833976
+    },
+    {
+      "batches": 1399,
+      "epoch": 62,
+      "mean_weighted_penalty": 0.04740648276257123,
+      "relative_frobenius_deviation": 0.0302266382803962,
+      "rms_deviation": 0.0010501208472080503,
+      "squared_deviation_sum": 94.99167053842393,
+      "weighted_penalty_at_epoch_end": 0.047495835269211965
+    },
+    {
+      "batches": 1396,
+      "epoch": 63,
+      "mean_weighted_penalty": 0.0475917140416865,
+      "relative_frobenius_deviation": 0.03028452201318723,
+      "rms_deviation": 0.001052131818919632,
+      "squared_deviation_sum": 95.35583523221067,
+      "weighted_penalty_at_epoch_end": 0.047677917616105334
+    },
+    {
+      "batches": 1396,
+      "epoch": 64,
+      "mean_weighted_penalty": 0.04777026373925045,
+      "relative_frobenius_deviation": 0.03034002552623969,
+      "rms_deviation": 0.00105406009806232,
+      "squared_deviation_sum": 95.7056795385397,
+      "weighted_penalty_at_epoch_end": 0.04785283976926985
+    },
+    {
+      "batches": 1404,
+      "epoch": 65,
+      "mean_weighted_penalty": 0.04793973813666577,
+      "relative_frobenius_deviation": 0.030392412768154613,
+      "rms_deviation": 0.0010558801130554618,
+      "squared_deviation_sum": 96.03646931564799,
+      "weighted_penalty_at_epoch_end": 0.048018234657824
+    },
+    {
+      "batches": 1393,
+      "epoch": 66,
+      "mean_weighted_penalty": 0.04810008326677735,
+      "relative_frobenius_deviation": 0.03044060587683683,
+      "rms_deviation": 0.0010575544172784289,
+      "squared_deviation_sum": 96.34127996509051,
+      "weighted_penalty_at_epoch_end": 0.048170639982545255
+    },
+    {
+      "batches": 1401,
+      "epoch": 67,
+      "mean_weighted_penalty": 0.04824664266906322,
+      "relative_frobenius_deviation": 0.03048583062664918,
+      "rms_deviation": 0.00105912559605614,
+      "squared_deviation_sum": 96.62775565774427,
+      "weighted_penalty_at_epoch_end": 0.048313877828872136
+    },
+    {
+      "batches": 1395,
+      "epoch": 68,
+      "mean_weighted_penalty": 0.04838284813802302,
+      "relative_frobenius_deviation": 0.03052677523926983,
+      "rms_deviation": 0.0010605480761511788,
+      "squared_deviation_sum": 96.88748568934534,
+      "weighted_penalty_at_epoch_end": 0.04844374284467267
+    },
+    {
+      "batches": 1403,
+      "epoch": 69,
+      "mean_weighted_penalty": 0.04850852743046078,
+      "relative_frobenius_deviation": 0.03056417374393951,
+      "rms_deviation": 0.0010618473588912484,
+      "squared_deviation_sum": 97.12502579039574,
+      "weighted_penalty_at_epoch_end": 0.04856251289519787
+    },
+    {
+      "batches": 1397,
+      "epoch": 70,
+      "mean_weighted_penalty": 0.04862267777601053,
+      "relative_frobenius_deviation": 0.030599248938719202,
+      "rms_deviation": 0.0010630659261998705,
+      "squared_deviation_sum": 97.34807346475282,
+      "weighted_penalty_at_epoch_end": 0.048674036732376406
+    },
+    {
+      "batches": 1398,
+      "epoch": 71,
+      "mean_weighted_penalty": 0.048728719913268805,
+      "relative_frobenius_deviation": 0.030631174981415557,
+      "rms_deviation": 0.0010641750870232902,
+      "squared_deviation_sum": 97.55131767549028,
+      "weighted_penalty_at_epoch_end": 0.048775658837745144
+    },
+    {
+      "batches": 1395,
+      "epoch": 72,
+      "mean_weighted_penalty": 0.048825577387459386,
+      "relative_frobenius_deviation": 0.030659992716147978,
+      "rms_deviation": 0.0010651762603503107,
+      "squared_deviation_sum": 97.7349561017727,
+      "weighted_penalty_at_epoch_end": 0.04886747805088635
+    },
+    {
+      "batches": 1402,
+      "epoch": 73,
+      "mean_weighted_penalty": 0.04891338198845635,
+      "relative_frobenius_deviation": 0.030686737860794944,
+      "rms_deviation": 0.001066105428645337,
+      "squared_deviation_sum": 97.90554163639172,
+      "weighted_penalty_at_epoch_end": 0.04895277081819586
+    },
+    {
+      "batches": 1398,
+      "epoch": 74,
+      "mean_weighted_penalty": 0.048995960415880564,
+      "relative_frobenius_deviation": 0.03071177561685533,
+      "rms_deviation": 0.001066975279581535,
+      "squared_deviation_sum": 98.06537192656833,
+      "weighted_penalty_at_epoch_end": 0.04903268596328417
+    },
+    {
+      "batches": 1399,
+      "epoch": 75,
+      "mean_weighted_penalty": 0.049072837184121386,
+      "relative_frobenius_deviation": 0.03073518354842401,
+      "rms_deviation": 0.0010677885078572787,
+      "squared_deviation_sum": 98.21491601936577,
+      "weighted_penalty_at_epoch_end": 0.049107458009682886
+    },
+    {
+      "batches": 1395,
+      "epoch": 76,
+      "mean_weighted_penalty": 0.04914515446270666,
+      "relative_frobenius_deviation": 0.030757004465389415,
+      "rms_deviation": 0.0010685466007552713,
+      "squared_deviation_sum": 98.3544239094881,
+      "weighted_penalty_at_epoch_end": 0.04917721195474405
+    },
+    {
+      "batches": 1397,
+      "epoch": 77,
+      "mean_weighted_penalty": 0.04921194166745044,
+      "relative_frobenius_deviation": 0.030777236225293807,
+      "rms_deviation": 0.0010692494838431697,
+      "squared_deviation_sum": 98.48386028281675,
+      "weighted_penalty_at_epoch_end": 0.049241930141408374
+    },
+    {
+      "batches": 1404,
+      "epoch": 78,
+      "mean_weighted_penalty": 0.049274840601786246,
+      "relative_frobenius_deviation": 0.030796172785706597,
+      "rms_deviation": 0.0010699073696682298,
+      "squared_deviation_sum": 98.60508749674773,
+      "weighted_penalty_at_epoch_end": 0.04930254374837387
+    },
+    {
+      "batches": 1398,
+      "epoch": 79,
+      "mean_weighted_penalty": 0.049332536999482625,
+      "relative_frobenius_deviation": 0.030813298298159167,
+      "rms_deviation": 0.0010705023368451528,
+      "squared_deviation_sum": 98.71478503557228,
+      "weighted_penalty_at_epoch_end": 0.04935739251778614
+    },
+    {
+      "batches": 1397,
+      "epoch": 80,
+      "mean_weighted_penalty": 0.04938420619210262,
+      "relative_frobenius_deviation": 0.03082885264887474,
+      "rms_deviation": 0.001071042719397777,
+      "squared_deviation_sum": 98.81447134072005,
+      "weighted_penalty_at_epoch_end": 0.049407235670360025
+    },
+    {
+      "batches": 1396,
+      "epoch": 81,
+      "mean_weighted_penalty": 0.0494321244488601,
+      "relative_frobenius_deviation": 0.030843123503116434,
+      "rms_deviation": 0.0010715385112687636,
+      "squared_deviation_sum": 98.90597609574615,
+      "weighted_penalty_at_epoch_end": 0.04945298804787308
+    },
+    {
+      "batches": 1397,
+      "epoch": 82,
+      "mean_weighted_penalty": 0.04947568613798514,
+      "relative_frobenius_deviation": 0.03085611747596076,
+      "rms_deviation": 0.0010719899422762511,
+      "squared_deviation_sum": 98.98933031802517,
+      "weighted_penalty_at_epoch_end": 0.04949466515901259
+    },
+    {
+      "batches": 1397,
+      "epoch": 83,
+      "mean_weighted_penalty": 0.049514871999973384,
+      "relative_frobenius_deviation": 0.030867777320867228,
+      "rms_deviation": 0.0010723950235855886,
+      "squared_deviation_sum": 99.0641562136152,
+      "weighted_penalty_at_epoch_end": 0.049532078106807605
+    },
+    {
+      "batches": 1398,
+      "epoch": 84,
+      "mean_weighted_penalty": 0.04955012032839447,
+      "relative_frobenius_deviation": 0.030878055271592965,
+      "rms_deviation": 0.0010727520957225412,
+      "squared_deviation_sum": 99.13013738325026,
+      "weighted_penalty_at_epoch_end": 0.04956506869162513
+    },
+    {
+      "batches": 1396,
+      "epoch": 85,
+      "mean_weighted_penalty": 0.049580718852302065,
+      "relative_frobenius_deviation": 0.030887086683980405,
+      "rms_deviation": 0.001073065861161483,
+      "squared_deviation_sum": 99.18813430515729,
+      "weighted_penalty_at_epoch_end": 0.04959406715257865
+    },
+    {
+      "batches": 1396,
+      "epoch": 86,
+      "mean_weighted_penalty": 0.049607767848922395,
+      "relative_frobenius_deviation": 0.030894915455573053,
+      "rms_deviation": 0.001073337844971962,
+      "squared_deviation_sum": 99.23842196525948,
+      "weighted_penalty_at_epoch_end": 0.04961921098262974
+    },
+    {
+      "batches": 1398,
+      "epoch": 87,
+      "mean_weighted_penalty": 0.0496313417215801,
+      "relative_frobenius_deviation": 0.030901815666937477,
+      "rms_deviation": 0.001073577569142963,
+      "squared_deviation_sum": 99.28275563934949,
+      "weighted_penalty_at_epoch_end": 0.049641377819674745
+    },
+    {
+      "batches": 1396,
+      "epoch": 88,
+      "mean_weighted_penalty": 0.04965186700288921,
+      "relative_frobenius_deviation": 0.030907740417506872,
+      "rms_deviation": 0.001073783404275197,
+      "squared_deviation_sum": 99.32082990392155,
+      "weighted_penalty_at_epoch_end": 0.049660414951960774
+    },
+    {
+      "batches": 1398,
+      "epoch": 89,
+      "mean_weighted_penalty": 0.04966931395733647,
+      "relative_frobenius_deviation": 0.03091280212168187,
+      "rms_deviation": 0.0010739592558213482,
+      "squared_deviation_sum": 99.35336374938561,
+      "weighted_penalty_at_epoch_end": 0.049676681874692805
+    },
+    {
+      "batches": 1397,
+      "epoch": 90,
+      "mean_weighted_penalty": 0.049684057810857794,
+      "relative_frobenius_deviation": 0.030916978209525596,
+      "rms_deviation": 0.0010741043396663922,
+      "squared_deviation_sum": 99.38020935195891,
+      "weighted_penalty_at_epoch_end": 0.04969010467597946
+    },
+    {
+      "batches": 1397,
+      "epoch": 91,
+      "mean_weighted_penalty": 0.04969641108681837,
+      "relative_frobenius_deviation": 0.030920491620005708,
+      "rms_deviation": 0.0010742264010599133,
+      "squared_deviation_sum": 99.40279780198034,
+      "weighted_penalty_at_epoch_end": 0.04970139890099017
+    },
+    {
+      "batches": 1397,
+      "epoch": 92,
+      "mean_weighted_penalty": 0.04970652088736242,
+      "relative_frobenius_deviation": 0.0309233405291279,
+      "rms_deviation": 0.0010743253766334873,
+      "squared_deviation_sum": 99.42111591845605,
+      "weighted_penalty_at_epoch_end": 0.049710557959228026
+    },
+    {
+      "batches": 1404,
+      "epoch": 93,
+      "mean_weighted_penalty": 0.0497146548167338,
+      "relative_frobenius_deviation": 0.030925678399849506,
+      "rms_deviation": 0.0010744065979310746,
+      "squared_deviation_sum": 99.43614938497558,
+      "weighted_penalty_at_epoch_end": 0.04971807469248779
+    },
+    {
+      "batches": 1400,
+      "epoch": 94,
+      "mean_weighted_penalty": 0.0497214881383947,
+      "relative_frobenius_deviation": 0.030927593902586877,
+      "rms_deviation": 0.001074473145502086,
+      "squared_deviation_sum": 99.44846769939613,
+      "weighted_penalty_at_epoch_end": 0.04972423384969807
+    },
+    {
+      "batches": 1393,
+      "epoch": 95,
+      "mean_weighted_penalty": 0.049727037998300104,
+      "relative_frobenius_deviation": 0.030929183480551865,
+      "rms_deviation": 0.001074528369935045,
+      "squared_deviation_sum": 99.45869061915073,
+      "weighted_penalty_at_epoch_end": 0.049729345309575367
+    },
+    {
+      "batches": 1399,
+      "epoch": 96,
+      "mean_weighted_penalty": 0.04973162866974405,
+      "relative_frobenius_deviation": 0.030930446372460084,
+      "rms_deviation": 0.0010745722447817378,
+      "squared_deviation_sum": 99.46681292474022,
+      "weighted_penalty_at_epoch_end": 0.049733406462370115
+    },
+    {
+      "batches": 1398,
+      "epoch": 97,
+      "mean_weighted_penalty": 0.04973529700792057,
+      "relative_frobenius_deviation": 0.030931500441594744,
+      "rms_deviation": 0.0010746088647975809,
+      "squared_deviation_sum": 99.47359243788742,
+      "weighted_penalty_at_epoch_end": 0.04973679621894371
+    },
+    {
+      "batches": 1391,
+      "epoch": 98,
+      "mean_weighted_penalty": 0.04973836956876461,
+      "relative_frobenius_deviation": 0.030932385443203862,
+      "rms_deviation": 0.0010746396111422762,
+      "squared_deviation_sum": 99.4792847287572,
+      "weighted_penalty_at_epoch_end": 0.0497396423643786
+    },
+    {
+      "batches": 1401,
+      "epoch": 99,
+      "mean_weighted_penalty": 0.04974108390100593,
+      "relative_frobenius_deviation": 0.030933195165415782,
+      "rms_deviation": 0.0010746677421625797,
+      "squared_deviation_sum": 99.48449296857507,
+      "weighted_penalty_at_epoch_end": 0.04974224648428754
+    },
+    {
+      "batches": 1397,
+      "epoch": 100,
+      "mean_weighted_penalty": 0.049743660564988364,
+      "relative_frobenius_deviation": 0.030933976896089926,
+      "rms_deviation": 0.0010746949007129356,
+      "squared_deviation_sum": 99.48952129248573,
+      "weighted_penalty_at_epoch_end": 0.04974476064624287
+    }
+  ],
+  "final_anchor_hashes": {
+    "image_encoder.class_embedding": "fc0beba610046f49f8b93c58d3c6b9df79b4f8ddfa150386955b73848a33cd69",
+    "image_encoder.conv1.weight": "88afe335e4c30acdcc9ca419a3d58b1abd26ae5aeefd26f9d4bfb98d43fb2d23",
+    "image_encoder.ln_post.bias": "c402867ef64d87c0203c8461428ac24e7d21c3f372851b9b78c0f41486e9c57b",
+    "image_encoder.ln_post.weight": "54f88ce89c9d1a654a68b234e8ddaf63028fb720b65904029fb23ea60f8360df",
+    "image_encoder.ln_pre.bias": "29a9676eb8d022cf2e26bedc739effd7d9692aa37859fdbdf205c3c04b834c8a",
+    "image_encoder.ln_pre.weight": "f7173fe4a5d3e2339f727936046b52e1e23dbac384389709447196dd3a89ae88",
+    "image_encoder.positional_embedding": "7b1424b6a06a6995239f8c9603922045503fce0ab2dbdc501ed32844254aef81",
+    "image_encoder.proj": "f5ef5771689d96d6e925e2d45b33bb3bd0aa34831a65c7bb93a9874b261bd457",
+    "image_encoder.transformer.resblocks.0.attn.in_proj_bias": "678d0647ce99245a8f869f7f0a6644f954a9c6f1c1c258c5f468b0e53fab4597",
+    "image_encoder.transformer.resblocks.0.attn.in_proj_weight": "00d4f3f4f90cf26a0532471533b1146b174928a254ea700154405f80db2f27b1",
+    "image_encoder.transformer.resblocks.0.attn.out_proj.bias": "b081c7269b7e0b7649f5a5d66206310c2dd41f61f1eeaa2d8a9b9f32dfb37ee5",
+    "image_encoder.transformer.resblocks.0.attn.out_proj.weight": "4eaaeadebb199cb8b5ac7918891c66464996cb8f9191d0f44cb179aaeabf220f",
+    "image_encoder.transformer.resblocks.0.ln_1.bias": "a4d1ce907f656de0458a5c4d6623c21f9ee36ae3571f64edd25141ae7aed5485",
+    "image_encoder.transformer.resblocks.0.ln_1.weight": "f067dd32bd403f8789ca96565758e7a3c17830020a78b1f430a59f4b5c411f62",
+    "image_encoder.transformer.resblocks.0.ln_2.bias": "ccd947aabcec6354bbdfa9618b7742a80bd4fc040cba947b38a4d54cf06b8a63",
+    "image_encoder.transformer.resblocks.0.ln_2.weight": "3d2df02a846b0c78c787232d862f843ba385cfe25a78a504f2bbc9aa77d20bd9",
+    "image_encoder.transformer.resblocks.0.mlp.c_fc.bias": "aa7e21afdd193f1a8739c23a9de7bf4412e4aebed94d361cc9ed3aebbbc8cd5c",
+    "image_encoder.transformer.resblocks.0.mlp.c_fc.weight": "cf61375ad84b99e85b450efa3d29668e14928d17e56b0f892d10b87dbe3cc80a",
+    "image_encoder.transformer.resblocks.0.mlp.c_proj.bias": "340c7d883a0a0dfa329ce06d809c24841ee7d1c4580209e955bd6fc3c40de6e0",
+    "image_encoder.transformer.resblocks.0.mlp.c_proj.weight": "605e6ff0ce622735a8cb904a5b68b4a8b1877497f322daac8d9b26fcc26e0716",
+    "image_encoder.transformer.resblocks.1.attn.in_proj_bias": "d691a0f60bdd53a2399f79c712549ad5a5195418762f3d9ac6efdc57b38046b2",
+    "image_encoder.transformer.resblocks.1.attn.in_proj_weight": "b8fc4503b4bca864239bc424a2a0fa386342a69fbd434c1099d445eec923ada9",
+    "image_encoder.transformer.resblocks.1.attn.out_proj.bias": "f0bca8274ec3678273d0df3cec40a891bc2d625618572bab55b7b48892cd2255",
+    "image_encoder.transformer.resblocks.1.attn.out_proj.weight": "c9d8b3312b12fde6d1fb481ac0505f37e82a38ded07b4cef7870e4212db7b680",
+    "image_encoder.transformer.resblocks.1.ln_1.bias": "40f96f670cb772163ee4b65dae68752e1a455167ad4915eb0f32c89817947305",
+    "image_encoder.transformer.resblocks.1.ln_1.weight": "ca51989797ba479449e5325cd9601eb2e1978adbf5028df6cb0e975c92d5545e",
+    "image_encoder.transformer.resblocks.1.ln_2.bias": "c801e5f224a086c4ddf568b43ffc138bbce44e809eb13a42b2db22ab16d88cf9",
+    "image_encoder.transformer.resblocks.1.ln_2.weight": "122a2680d2e557aeb400fea29b774ee4c0071b13da3089f8ab5ea0067310e330",
+    "image_encoder.transformer.resblocks.1.mlp.c_fc.bias": "5d5ffbf085e46009f586f81fe2cd50d8c5cc5bad26ec2cceb75ef3f8a2e13c10",
+    "image_encoder.transformer.resblocks.1.mlp.c_fc.weight": "a980a9a8e7e97dbf26c76e25b193205b25d4f870c7b4f349e56f8246d0eb0e14",
+    "image_encoder.transformer.resblocks.1.mlp.c_proj.bias": "424316d4e2051f520387c921dde6ca1acb7e56358b003c98e503a5a09870bba5",
+    "image_encoder.transformer.resblocks.1.mlp.c_proj.weight": "da0a146a5081627047e4f090879aa3fc03734dfa109550f421b0cdd8e09e0c99",
+    "image_encoder.transformer.resblocks.10.attn.in_proj_bias": "fb509ad5e7c23504777f2d024b3a203d0cbddda5aceaacd1eab897cbd5692820",
+    "image_encoder.transformer.resblocks.10.attn.in_proj_weight": "5bced7be3f9cb19b9a148063d628cb446c2fa8f1732d5594e03ad62e258c2081",
+    "image_encoder.transformer.resblocks.10.attn.out_proj.bias": "57db432f12acc9b92d107c2af3fcb00570cba72aecdde085af90c96bcb87477d",
+    "image_encoder.transformer.resblocks.10.attn.out_proj.weight": "85ef872ae4d11e525f606ad3798c5301286f00701349558d4f79364fc04bb570",
+    "image_encoder.transformer.resblocks.10.ln_1.bias": "b90515e510524572da34618230bc0ecaf704129bb28d38d03fc76cd6ba29d853",
+    "image_encoder.transformer.resblocks.10.ln_1.weight": "a23b987b8280aafa2e1d5c18212bba10c1230961cbede54e4c3baea1d70a20c1",
+    "image_encoder.transformer.resblocks.10.ln_2.bias": "882a59a62740ba20356cbcddae7084f0587bb237a5abd9c58e3d28b18f6a4fc2",
+    "image_encoder.transformer.resblocks.10.ln_2.weight": "578c419efc13a959dd737e97db36d6bf9b2ee44e06880a03b8e69537ee4e586d",
+    "image_encoder.transformer.resblocks.10.mlp.c_fc.bias": "f6377f051d205330541307c0d1c08e2d9327df83cab6c1711bae60aea06c12af",
+    "image_encoder.transformer.resblocks.10.mlp.c_fc.weight": "c1187090ea2444da214b8c4fa35f179294a507aec227cd5377ca611ebcef964a",
+    "image_encoder.transformer.resblocks.10.mlp.c_proj.bias": "9eb555d14abe830859fe57f65a399ac7796ed63ec9c1ad25447e61fa0fe26fa2",
+    "image_encoder.transformer.resblocks.10.mlp.c_proj.weight": "878e02f5cb8d6989793170f133bcdda43caf41b31ee207751a4caa663e40d725",
+    "image_encoder.transformer.resblocks.11.attn.in_proj_bias": "d807f125b8c22655468fe9ea7f1107e11e7680ad7d75814c314b952a20d8f5af",
+    "image_encoder.transformer.resblocks.11.attn.in_proj_weight": "55578fcdfdbead18e090754b4024eff2ce87ee160eb28e164ececd1377ed24df",
+    "image_encoder.transformer.resblocks.11.attn.out_proj.bias": "dc00067e86cd2a3e4fe3cdab2c93d6ebb8f40af9bf883d26a0971cb1168724da",
+    "image_encoder.transformer.resblocks.11.attn.out_proj.weight": "35e36b235ba6c3be9721f1b1dca42444366bf3eae85fd1f769a8332673787db4",
+    "image_encoder.transformer.resblocks.11.ln_1.bias": "c95492f08ca889c3ed4f66c2a358bd033451cadcaeb549be090332a8f087c8c0",
+    "image_encoder.transformer.resblocks.11.ln_1.weight": "38cbe27a09887a8d9a02f5276ee6ed6e46eebed6fa33d30bc75adc66d7b7a742",
+    "image_encoder.transformer.resblocks.11.ln_2.bias": "9b9cd503462d033573b34dd0fae47283241c51f72cea1930a40de5c26142638e",
+    "image_encoder.transformer.resblocks.11.ln_2.weight": "c61b76dbe9af7aa42b64aab9c4d9a165bd6ce19ea7a7f9cd79cceb138d0b6545",
+    "image_encoder.transformer.resblocks.11.mlp.c_fc.bias": "09d109383380c072adf81a8d9b0af99c812053ad0e8783e749402a1f6d5e15ec",
+    "image_encoder.transformer.resblocks.11.mlp.c_fc.weight": "ed91b285b14a30378163bb1e3e111693ab2b4dc93588a000db5fad9f7407e940",
+    "image_encoder.transformer.resblocks.11.mlp.c_proj.bias": "db36bfcced1d9b78c99aa04631a8d3ac91c4a80264afcbd06ae59d0dfb2fa578",
+    "image_encoder.transformer.resblocks.11.mlp.c_proj.weight": "24d228a7127cd5a85974a73b9db4c372099736d916d47ac9a3fa9444020a37f4",
+    "image_encoder.transformer.resblocks.2.attn.in_proj_bias": "a772905ffb5f166ec29259f7f99f165a9fe0a6356bc29b9b2f27e06a2135ffb8",
+    "image_encoder.transformer.resblocks.2.attn.in_proj_weight": "07d3548d3d7411cc842d184befb6ad532c90921958d7f06f575bee9fc3329c5c",
+    "image_encoder.transformer.resblocks.2.attn.out_proj.bias": "ea05e2d9298c197b7b274b005cb2f038afef6a6e2ec2a72e80f355dfe24f2749",
+    "image_encoder.transformer.resblocks.2.attn.out_proj.weight": "ff93c05bd1e81b684af0fa6f3d0f675add8578c58cdb8a6fc692ff987d7af388",
+    "image_encoder.transformer.resblocks.2.ln_1.bias": "fc82d14454e289903f7cae8edfa44f3e423a46cc1297f4931707ba6644667833",
+    "image_encoder.transformer.resblocks.2.ln_1.weight": "86b8753e1ab06f0d3fd400c303bc8f6e7df71cdbe8c90bdbc30abc5e8883f205",
+    "image_encoder.transformer.resblocks.2.ln_2.bias": "7780180e43905afbee5a2745d0e43ea2a9a4de67e842f569e164213ad2bda7b8",
+    "image_encoder.transformer.resblocks.2.ln_2.weight": "48cec34c850a188016f459e8f937eb381edb4c0167a7637c0df7f7085c51abae",
+    "image_encoder.transformer.resblocks.2.mlp.c_fc.bias": "a95e03c36bb4f2345e8a6287d1e7be26f57edfdc328f1cdb4c66a962a8943f2d",
+    "image_encoder.transformer.resblocks.2.mlp.c_fc.weight": "eff93fc4d68a9c167c8bed0d0ce3845fcde2e3f0aacdd68241c21c967a4dbd66",
+    "image_encoder.transformer.resblocks.2.mlp.c_proj.bias": "b550ce90e66f0b4d846350e670b8eca63c28dea5fd41665f33b76e5f5c61acea",
+    "image_encoder.transformer.resblocks.2.mlp.c_proj.weight": "4481671344bfcc22f63d2e7221787ba082f90d8f3e82b4782f67de02038508fc",
+    "image_encoder.transformer.resblocks.3.attn.in_proj_bias": "e33693042357db722c9821a181e62758d8c299a1de31c16fcf3492814ed374f2",
+    "image_encoder.transformer.resblocks.3.attn.in_proj_weight": "be0c71c39b31331a9bdbd2a94bd32651865308777c9f9842f06f8226f2fbf3c2",
+    "image_encoder.transformer.resblocks.3.attn.out_proj.bias": "6999b8bc90c0590de2c0242bfbbc7e5d8a8bbfc7bb952ba2ec0f851acab86068",
+    "image_encoder.transformer.resblocks.3.attn.out_proj.weight": "3809e7c908c1501e71f2d7bf94a47e976254d9549b1edf254717434e72572de9",
+    "image_encoder.transformer.resblocks.3.ln_1.bias": "298d4a878465822015e464fc66d2724dc7061f33a98a409b16ae6a387c742f08",
+    "image_encoder.transformer.resblocks.3.ln_1.weight": "d978a816b920ebad8c239459b39e5a9712cc2ec1ff63b96bef7138d18f907c11",
+    "image_encoder.transformer.resblocks.3.ln_2.bias": "56a053405a9c14640ce763f1a6cb9bb7c6bda6fed9e9d0c8c9061b9c1dd40424",
+    "image_encoder.transformer.resblocks.3.ln_2.weight": "dc3048a248280dcf8f7b4508630aa7cf7e71784a378228bfe81bb6c4fbf4aed1",
+    "image_encoder.transformer.resblocks.3.mlp.c_fc.bias": "daf2679d74ea348427fa27fccb2a681582dbc10cedf6c6c75f8c7f18d3ed0b58",
+    "image_encoder.transformer.resblocks.3.mlp.c_fc.weight": "5463d1f19bd3149bc6fbd0ba20c557d48e682c275b79935216d57654dc36b0cb",
+    "image_encoder.transformer.resblocks.3.mlp.c_proj.bias": "ae1d6c3296418463f9cba0c7f82ee313af39aec9eef065895f5f7f1280e7a788",
+    "image_encoder.transformer.resblocks.3.mlp.c_proj.weight": "6081eaf4973f8afc272e77b54f54784a9fd868190a8717ddc6c2d3c4c761bbc7",
+    "image_encoder.transformer.resblocks.4.attn.in_proj_bias": "4627ed06e37566c508b8935ab7460931660ca07753a8490ba63656862e610a9b",
+    "image_encoder.transformer.resblocks.4.attn.in_proj_weight": "d055c424d5281f5bd15b5c6d7534ecadf92b26b396be648e2a9eae0435b19285",
+    "image_encoder.transformer.resblocks.4.attn.out_proj.bias": "e8c081529deab741706f1dee44e0866950d8dfb30157627108c7eeea933d8a24",
+    "image_encoder.transformer.resblocks.4.attn.out_proj.weight": "28c78aeca77a0c15f09ef7d73f0256895b6eda84dbbacf9e120d055ede70c7c9",
+    "image_encoder.transformer.resblocks.4.ln_1.bias": "ce30a3ca73f9ae92913ce1cf096a5bff37a941f2d9b0a9b34a9fbd3d8f3be959",
+    "image_encoder.transformer.resblocks.4.ln_1.weight": "5f4501f6798b4a985264151d4df3fd0d0abd93ebe0d28e01c123d3366dd80007",
+    "image_encoder.transformer.resblocks.4.ln_2.bias": "2d393243d45951cd5ce26f65a12d8c7656425c80c4d68cb7f7c70641b7435bab",
+    "image_encoder.transformer.resblocks.4.ln_2.weight": "330c26db47ef2815fa91b651ccfddba6ee39636b020d5892bc19ee223d88bb89",
+    "image_encoder.transformer.resblocks.4.mlp.c_fc.bias": "6f2a0a3f1b58203a93500921766a448f456d0ae396e5bc21b29dec0b5c0fb61f",
+    "image_encoder.transformer.resblocks.4.mlp.c_fc.weight": "152b849e5f7c3519eac7279ea08cf6e5f753c507e9bc9ec9168f0489074ebe66",
+    "image_encoder.transformer.resblocks.4.mlp.c_proj.bias": "92c607f5cc12288d0ebf535e37216f0e9f1c7300deb2a4861732ea5632776a49",
+    "image_encoder.transformer.resblocks.4.mlp.c_proj.weight": "660e0c42a8ea8235dd57caf7fcf93df5e0945fe816cf0adad82f896e0d0f5b74",
+    "image_encoder.transformer.resblocks.5.attn.in_proj_bias": "ad7f536a463be46c825ee584bc64fea7d36da5e71effbca2b8f65951c5d0a0af",
+    "image_encoder.transformer.resblocks.5.attn.in_proj_weight": "4c0799d60f354bf317248206c15e26b3b97b83872cd9cc531cff748b0d922bc6",
+    "image_encoder.transformer.resblocks.5.attn.out_proj.bias": "2d05b30b17e992ebe931104e59c65db9069c99a8345052293e9c6ede05415e4b",
+    "image_encoder.transformer.resblocks.5.attn.out_proj.weight": "67800655f9ede26bafba28ccb1c71ec73210127ec8e781c56ea60ac0b76b4d8a",
+    "image_encoder.transformer.resblocks.5.ln_1.bias": "35972db6fc95278db0d9f8f77b971d9d4178476f731e6bcd11753d1a0a12dc55",
+    "image_encoder.transformer.resblocks.5.ln_1.weight": "b9b750772d5ee9cbefb44fc8b75f9b3b5bb8a585d3a8b3b22da7be6761ef240e",
+    "image_encoder.transformer.resblocks.5.ln_2.bias": "9a4eed89b987ee1a2b5eb57f0bf1fa9ea53118359c7263d4f75ab8690a02b714",
+    "image_encoder.transformer.resblocks.5.ln_2.weight": "09ff63a743816fa8dd9defdb84f8c33be666d850cb3b9273ae2502a81d3fa32c",
+    "image_encoder.transformer.resblocks.5.mlp.c_fc.bias": "e2b4e8cd9f0a2237f453ed19edd4e00fa60933f735895cbe6939487c8ef693c7",
+    "image_encoder.transformer.resblocks.5.mlp.c_fc.weight": "fc6c5d452e0cc191bae34dd8b0b04c856cd2f5092abb019ee534f7b3a9942b92",
+    "image_encoder.transformer.resblocks.5.mlp.c_proj.bias": "81981887ef1dde1f390ed3becc860c9b70614ef0c275e00d6b6d0b9be24d11aa",
+    "image_encoder.transformer.resblocks.5.mlp.c_proj.weight": "eee5c9980e18542450955abad1de0b458a901b1d5355222781b52e0a23176565",
+    "image_encoder.transformer.resblocks.6.attn.in_proj_bias": "9c8e3169b71c1c68d1d3772c7a97ca515bfacd2fb1239567d7b5a553d5f91933",
+    "image_encoder.transformer.resblocks.6.attn.in_proj_weight": "8e1cd9cd63ef76dcd264d181930f8c26edf981f0ebf49d1e45a5974a9157ac7c",
+    "image_encoder.transformer.resblocks.6.attn.out_proj.bias": "6d7b8de0c7dbea64253554c7d87c09f060d0690459dd0cad13889565e46e8706",
+    "image_encoder.transformer.resblocks.6.attn.out_proj.weight": "b6bade62ecee33e95680af3852ea87f45b37c03cdef76eaa95a3c894767de86f",
+    "image_encoder.transformer.resblocks.6.ln_1.bias": "302872a0c819317ff379d47b0da56e2965059e0bd1055cc13fc2bd5b956c7c39",
+    "image_encoder.transformer.resblocks.6.ln_1.weight": "500deaa33aafb2b7f62349906f99460c41e924e8a6b1486f00b3b84a0672c127",
+    "image_encoder.transformer.resblocks.6.ln_2.bias": "1737efe27bf026e01c3cf99b3d1a297f046bcb8f7c0d71a7435f36eb5578e4ad",
+    "image_encoder.transformer.resblocks.6.ln_2.weight": "c4bf292bf280dfd71c524810d980cb75fc6717347b0d205ed195d1ed7e75bd07",
+    "image_encoder.transformer.resblocks.6.mlp.c_fc.bias": "98f0d9af8af98b2d6e96dd47137566adf65abab8943335c3911c1a4880ec4997",
+    "image_encoder.transformer.resblocks.6.mlp.c_fc.weight": "cc27c207f240c996268cc5b2e1eb4357f905f76ff89336c3a259a4839fc2c322",
+    "image_encoder.transformer.resblocks.6.mlp.c_proj.bias": "b3f41fc00d68ea8f9af2a482db87f2a913b8b6cc56c1db1773f3a7005ecf82cb",
+    "image_encoder.transformer.resblocks.6.mlp.c_proj.weight": "1043ec2c83b89684e949c886a428bf72a1fd8a7789f9351ee22ea3e06d9c7529",
+    "image_encoder.transformer.resblocks.7.attn.in_proj_bias": "5154d6b8a6763a9398ddf3fe3ff311e0b1e5549dff79264eaadd3ed5a1a9fb78",
+    "image_encoder.transformer.resblocks.7.attn.in_proj_weight": "f25ed97377992e1095e5cf273ba0c0efc52a6d4d0e9fea63f5ffd4447eb6f178",
+    "image_encoder.transformer.resblocks.7.attn.out_proj.bias": "13612e9ce9945dbba0e67ed10121795dfdc455841a947baf53a3651f004e6dc0",
+    "image_encoder.transformer.resblocks.7.attn.out_proj.weight": "7310c890c4ebdfa84c1677f6eadae2b3cd5864fae0bb298e59e9246b7787d6bc",
+    "image_encoder.transformer.resblocks.7.ln_1.bias": "bd2d7e09e504cb1847a1f73bd812e9ace567262faa8650ce910fb31d238fa6a4",
+    "image_encoder.transformer.resblocks.7.ln_1.weight": "d4704d7e5f5f4c2322d1b017547ed4be35e4a1a4952e1c4172a1259823ede830",
+    "image_encoder.transformer.resblocks.7.ln_2.bias": "53ee897e6707e19a25768e39ed1e8e78499ba782e1d9b700734b9cddc8bcdd6f",
+    "image_encoder.transformer.resblocks.7.ln_2.weight": "a6e8d3427838679fe7979324d58b84fc7d7a6a69e2226b943247b73067e8d02d",
+    "image_encoder.transformer.resblocks.7.mlp.c_fc.bias": "d6db17a6730ae2abb170f875b5582a9dd77a9bd48a1920ad2f38dc48e335e2e0",
+    "image_encoder.transformer.resblocks.7.mlp.c_fc.weight": "bdc0120f0f04d38ceb98fd1d56404a680d9725cdd2e353203d31b78745a0acce",
+    "image_encoder.transformer.resblocks.7.mlp.c_proj.bias": "c067268f1808909933df2c4f6f5d1b3275cfcdba8518d61412cb9090d2ff3827",
+    "image_encoder.transformer.resblocks.7.mlp.c_proj.weight": "01ae112c4209c1aa3a28dade44aa6434456397346259ccece704fd2726bce3e8",
+    "image_encoder.transformer.resblocks.8.attn.in_proj_bias": "e7cd10302660f221a592fe450effdf2b3123be3098240bd62cd675ce920fb88c",
+    "image_encoder.transformer.resblocks.8.attn.in_proj_weight": "9af2f923cb853c7920c80c038a3d764d6599c18efbcc0a2fbcd2d533c307a26f",
+    "image_encoder.transformer.resblocks.8.attn.out_proj.bias": "2c86f529b36df9afe7ffc89ed6ec427be66847124e26cc48728c485fe8ced1ef",
+    "image_encoder.transformer.resblocks.8.attn.out_proj.weight": "db6b0630553b4ff44cda220c229a17243d99296d7fd7d011de1088e49565b19f",
+    "image_encoder.transformer.resblocks.8.ln_1.bias": "bf3d1d2dee94688ced8762126ab2ae86454720dc2b8d21613aba145ea45b731e",
+    "image_encoder.transformer.resblocks.8.ln_1.weight": "91afe398b10461c9522f28be13e92f1edf6f9cdf3bf66c03258ec408c16fff29",
+    "image_encoder.transformer.resblocks.8.ln_2.bias": "da95178f194bcb7cc11b75a961b5945e0f58c2fc37620485a7c1d481adacd3ff",
+    "image_encoder.transformer.resblocks.8.ln_2.weight": "df725b3a58a4bf9f8759b0b32315b55891b235292c085334a1b8f7ebc0033557",
+    "image_encoder.transformer.resblocks.8.mlp.c_fc.bias": "b1727f16a22eb75049788e589f8b72bb873d391727621920ca6c7de6b1b6621d",
+    "image_encoder.transformer.resblocks.8.mlp.c_fc.weight": "82e7f42bdef51e4f90bb0fac70250a60440a7b7b846256f07338d1d1b5fc85aa",
+    "image_encoder.transformer.resblocks.8.mlp.c_proj.bias": "3b76a5688e849600b3c1cd73ed9c46089e973ee6faa33f516521c741a5ae9fd5",
+    "image_encoder.transformer.resblocks.8.mlp.c_proj.weight": "411a6253f518975667bbbc5f76b6a34be08a28687f77a5bf0ebf538e1e140451",
+    "image_encoder.transformer.resblocks.9.attn.in_proj_bias": "794de4650a0e43f1485f53bfa25bf50ecfa9aef2bab1f26fb4f37c987f3f6019",
+    "image_encoder.transformer.resblocks.9.attn.in_proj_weight": "6511f9818d901c52b14d222b915f1e07ee206c51e3f8bbd328fca8cbeec5e390",
+    "image_encoder.transformer.resblocks.9.attn.out_proj.bias": "0765552adb57d48f9920457be933791f4e03ef17f6d4f55267faa14ea72b4c9b",
+    "image_encoder.transformer.resblocks.9.attn.out_proj.weight": "7a90d8d4e72ca002a17a50e49aa32344f61671c51f5ae1d056802e9e1144ec99",
+    "image_encoder.transformer.resblocks.9.ln_1.bias": "f1882981be7dfbea291814cbfc3b050c9d1e30aced82e90be09296ec88131321",
+    "image_encoder.transformer.resblocks.9.ln_1.weight": "42991ee850cf6b112955760a5f4d11f4b61920e56c2480a16ea55061d59fb7f7",
+    "image_encoder.transformer.resblocks.9.ln_2.bias": "47dc5a06d80631ebda43d9baec1d66961f81202842edb9380757adb9198e8729",
+    "image_encoder.transformer.resblocks.9.ln_2.weight": "01ba8750d39c7fae7b8bb8c2acca188b8d0e0060bb67c64a9294519e8cd52013",
+    "image_encoder.transformer.resblocks.9.mlp.c_fc.bias": "d4ddb225632aabd4dfef6f3b9b8b5a8b3aaf1d6d569c8ad226699ff008fdc8bb",
+    "image_encoder.transformer.resblocks.9.mlp.c_fc.weight": "5c0caa1527abcf74afcab5ca7c795f7597f0f5bd461b77fee761a272db203b1c",
+    "image_encoder.transformer.resblocks.9.mlp.c_proj.bias": "a64492bef856bb54c7c995947630c754119ecb23a2387bb484ad102064204191",
+    "image_encoder.transformer.resblocks.9.mlp.c_proj.weight": "4862cfed3db1915de1df48c68cb31120780ba97d2b6cb0f777b676b71d0107eb"
+  },
+  "final_drift": {
+    "per_parameter": {
+      "image_encoder.class_embedding": {
+        "reference_squared_norm": 42.02119827270508,
+        "squared_deviation": 0.0017504848074167967
+      },
+      "image_encoder.conv1.weight": {
+        "reference_squared_norm": 212.34246826171875,
+        "squared_deviation": 0.06944617629051208
+      },
+      "image_encoder.ln_post.bias": {
+        "reference_squared_norm": 102.17506408691406,
+        "squared_deviation": 0.5779399275779724
+      },
+      "image_encoder.ln_post.weight": {
+        "reference_squared_norm": 701.7708740234375,
+        "squared_deviation": 0.09347827732563019
+      },
+      "image_encoder.ln_pre.bias": {
+        "reference_squared_norm": 4.037280082702637,
+        "squared_deviation": 0.0005213554250076413
+      },
+      "image_encoder.ln_pre.weight": {
+        "reference_squared_norm": 277.6119384765625,
+        "squared_deviation": 0.010156700387597084
+      },
+      "image_encoder.positional_embedding": {
+        "reference_squared_norm": 67.23121643066406,
+        "squared_deviation": 0.04807540774345398
+      },
+      "image_encoder.proj": {
+        "reference_squared_norm": 64.29254150390625,
+        "squared_deviation": 1.4667664766311646
+      },
+      "image_encoder.transformer.resblocks.0.attn.in_proj_bias": {
+        "reference_squared_norm": 666.4450073242188,
+        "squared_deviation": 1.1178436279296875
+      },
+      "image_encoder.transformer.resblocks.0.attn.in_proj_weight": {
+        "reference_squared_norm": 357.2657165527344,
+        "squared_deviation": 1.193089485168457
+      },
+      "image_encoder.transformer.resblocks.0.attn.out_proj.bias": {
+        "reference_squared_norm": 1.40079927444458,
+        "squared_deviation": 0.00039191736141219735
+      },
+      "image_encoder.transformer.resblocks.0.attn.out_proj.weight": {
+        "reference_squared_norm": 73.72990417480469,
+        "squared_deviation": 0.18331976234912872
+      },
+      "image_encoder.transformer.resblocks.0.ln_1.bias": {
+        "reference_squared_norm": 25.155681610107422,
+        "squared_deviation": 0.0018735884223133326
+      },
+      "image_encoder.transformer.resblocks.0.ln_1.weight": {
+        "reference_squared_norm": 272.2742004394531,
+        "squared_deviation": 0.020599309355020523
+      },
+      "image_encoder.transformer.resblocks.0.ln_2.bias": {
+        "reference_squared_norm": 38.49827194213867,
+        "squared_deviation": 0.004493361804634333
+      },
+      "image_encoder.transformer.resblocks.0.ln_2.weight": {
+        "reference_squared_norm": 771.9434814453125,
+        "squared_deviation": 0.04394511878490448
+      },
+      "image_encoder.transformer.resblocks.0.mlp.c_fc.bias": {
+        "reference_squared_norm": 983.7860107421875,
+        "squared_deviation": 1.5703264474868774
+      },
+      "image_encoder.transformer.resblocks.0.mlp.c_fc.weight": {
+        "reference_squared_norm": 498.10198974609375,
+        "squared_deviation": 1.1603868007659912
+      },
+      "image_encoder.transformer.resblocks.0.mlp.c_proj.bias": {
+        "reference_squared_norm": 4.212671279907227,
+        "squared_deviation": 8.342710498254746e-05
+      },
+      "image_encoder.transformer.resblocks.0.mlp.c_proj.weight": {
+        "reference_squared_norm": 212.3280792236328,
+        "squared_deviation": 0.5891821980476379
+      },
+      "image_encoder.transformer.resblocks.1.attn.in_proj_bias": {
+        "reference_squared_norm": 517.1422119140625,
+        "squared_deviation": 0.5627660155296326
+      },
+      "image_encoder.transformer.resblocks.1.attn.in_proj_weight": {
+        "reference_squared_norm": 555.0847778320312,
+        "squared_deviation": 1.420949101448059
+      },
+      "image_encoder.transformer.resblocks.1.attn.out_proj.bias": {
+        "reference_squared_norm": 5.01110315322876,
+        "squared_deviation": 0.00020292052067816257
+      },
+      "image_encoder.transformer.resblocks.1.attn.out_proj.weight": {
+        "reference_squared_norm": 74.54383850097656,
+        "squared_deviation": 0.1816720813512802
+      },
+      "image_encoder.transformer.resblocks.1.ln_1.bias": {
+        "reference_squared_norm": 19.43198013305664,
+        "squared_deviation": 0.0010683187283575535
+      },
+      "image_encoder.transformer.resblocks.1.ln_1.weight": {
+        "reference_squared_norm": 566.492919921875,
+        "squared_deviation": 0.023060645908117294
+      },
+      "image_encoder.transformer.resblocks.1.ln_2.bias": {
+        "reference_squared_norm": 22.413095474243164,
+        "squared_deviation": 0.0011322277132421732
+      },
+      "image_encoder.transformer.resblocks.1.ln_2.weight": {
+        "reference_squared_norm": 1226.899169921875,
+        "squared_deviation": 0.06977224349975586
+      },
+      "image_encoder.transformer.resblocks.1.mlp.c_fc.bias": {
+        "reference_squared_norm": 622.4881591796875,
+        "squared_deviation": 0.16071200370788574
+      },
+      "image_encoder.transformer.resblocks.1.mlp.c_fc.weight": {
+        "reference_squared_norm": 495.4456787109375,
+        "squared_deviation": 1.0157910585403442
+      },
+      "image_encoder.transformer.resblocks.1.mlp.c_proj.bias": {
+        "reference_squared_norm": 8.000171661376953,
+        "squared_deviation": 6.671888695564121e-05
+      },
+      "image_encoder.transformer.resblocks.1.mlp.c_proj.weight": {
+        "reference_squared_norm": 240.76031494140625,
+        "squared_deviation": 0.5719828605651855
+      },
+      "image_encoder.transformer.resblocks.10.attn.in_proj_bias": {
+        "reference_squared_norm": 360.18292236328125,
+        "squared_deviation": 0.7704238891601562
+      },
+      "image_encoder.transformer.resblocks.10.attn.in_proj_weight": {
+        "reference_squared_norm": 464.68182373046875,
+        "squared_deviation": 2.5728440284729004
+      },
+      "image_encoder.transformer.resblocks.10.attn.out_proj.bias": {
+        "reference_squared_norm": 5.912878036499023,
+        "squared_deviation": 0.00039407802978530526
+      },
+      "image_encoder.transformer.resblocks.10.attn.out_proj.weight": {
+        "reference_squared_norm": 131.59933471679688,
+        "squared_deviation": 0.9999493360519409
+      },
+      "image_encoder.transformer.resblocks.10.ln_1.bias": {
+        "reference_squared_norm": 35.648529052734375,
+        "squared_deviation": 0.0009215485770255327
+      },
+      "image_encoder.transformer.resblocks.10.ln_1.weight": {
+        "reference_squared_norm": 3145.1123046875,
+        "squared_deviation": 0.22103199362754822
+      },
+      "image_encoder.transformer.resblocks.10.ln_2.bias": {
+        "reference_squared_norm": 264.73321533203125,
+        "squared_deviation": 0.11167249083518982
+      },
+      "image_encoder.transformer.resblocks.10.ln_2.weight": {
+        "reference_squared_norm": 17430.673828125,
+        "squared_deviation": 5.373599052429199
+      },
+      "image_encoder.transformer.resblocks.10.mlp.c_fc.bias": {
+        "reference_squared_norm": 589.5487670898438,
+        "squared_deviation": 0.7631414532661438
+      },
+      "image_encoder.transformer.resblocks.10.mlp.c_fc.weight": {
+        "reference_squared_norm": 509.9156494140625,
+        "squared_deviation": 3.9826865196228027
+      },
+      "image_encoder.transformer.resblocks.10.mlp.c_proj.bias": {
+        "reference_squared_norm": 7.641242027282715,
+        "squared_deviation": 0.00044185022125020623
+      },
+      "image_encoder.transformer.resblocks.10.mlp.c_proj.weight": {
+        "reference_squared_norm": 689.9241943359375,
+        "squared_deviation": 3.1485917568206787
+      },
+      "image_encoder.transformer.resblocks.11.attn.in_proj_bias": {
+        "reference_squared_norm": 73.91117858886719,
+        "squared_deviation": 0.005940315313637257
+      },
+      "image_encoder.transformer.resblocks.11.attn.in_proj_weight": {
+        "reference_squared_norm": 417.0624084472656,
+        "squared_deviation": 2.5011487007141113
+      },
+      "image_encoder.transformer.resblocks.11.attn.out_proj.bias": {
+        "reference_squared_norm": 69.90119934082031,
+        "squared_deviation": 0.001285302685573697
+      },
+      "image_encoder.transformer.resblocks.11.attn.out_proj.weight": {
+        "reference_squared_norm": 186.3638916015625,
+        "squared_deviation": 1.130112648010254
+      },
+      "image_encoder.transformer.resblocks.11.ln_1.bias": {
+        "reference_squared_norm": 31.640806198120117,
+        "squared_deviation": 0.0023514311760663986
+      },
+      "image_encoder.transformer.resblocks.11.ln_1.weight": {
+        "reference_squared_norm": 3177.60986328125,
+        "squared_deviation": 0.21183806657791138
+      },
+      "image_encoder.transformer.resblocks.11.ln_2.bias": {
+        "reference_squared_norm": 211.199951171875,
+        "squared_deviation": 0.10915781557559967
+      },
+      "image_encoder.transformer.resblocks.11.ln_2.weight": {
+        "reference_squared_norm": 2476.528564453125,
+        "squared_deviation": 0.36734911799430847
+      },
+      "image_encoder.transformer.resblocks.11.mlp.c_fc.bias": {
+        "reference_squared_norm": 599.6254272460938,
+        "squared_deviation": 0.8638538122177124
+      },
+      "image_encoder.transformer.resblocks.11.mlp.c_fc.weight": {
+        "reference_squared_norm": 487.5291442871094,
+        "squared_deviation": 7.157271385192871
+      },
+      "image_encoder.transformer.resblocks.11.mlp.c_proj.bias": {
+        "reference_squared_norm": 20.65265464782715,
+        "squared_deviation": 0.011954950168728828
+      },
+      "image_encoder.transformer.resblocks.11.mlp.c_proj.weight": {
+        "reference_squared_norm": 484.28314208984375,
+        "squared_deviation": 6.21523904800415
+      },
+      "image_encoder.transformer.resblocks.2.attn.in_proj_bias": {
+        "reference_squared_norm": 483.504638671875,
+        "squared_deviation": 0.24229882657527924
+      },
+      "image_encoder.transformer.resblocks.2.attn.in_proj_weight": {
+        "reference_squared_norm": 501.1973571777344,
+        "squared_deviation": 1.2296994924545288
+      },
+      "image_encoder.transformer.resblocks.2.attn.out_proj.bias": {
+        "reference_squared_norm": 6.430822372436523,
+        "squared_deviation": 0.00012652626901399344
+      },
+      "image_encoder.transformer.resblocks.2.attn.out_proj.weight": {
+        "reference_squared_norm": 86.441162109375,
+        "squared_deviation": 0.2430407851934433
+      },
+      "image_encoder.transformer.resblocks.2.ln_1.bias": {
+        "reference_squared_norm": 28.872882843017578,
+        "squared_deviation": 0.0006957504665479064
+      },
+      "image_encoder.transformer.resblocks.2.ln_1.weight": {
+        "reference_squared_norm": 680.7982177734375,
+        "squared_deviation": 0.025935284793376923
+      },
+      "image_encoder.transformer.resblocks.2.ln_2.bias": {
+        "reference_squared_norm": 16.488237380981445,
+        "squared_deviation": 0.0006108743837103248
+      },
+      "image_encoder.transformer.resblocks.2.ln_2.weight": {
+        "reference_squared_norm": 1143.2901611328125,
+        "squared_deviation": 0.03221770003437996
+      },
+      "image_encoder.transformer.resblocks.2.mlp.c_fc.bias": {
+        "reference_squared_norm": 416.61724853515625,
+        "squared_deviation": 0.07286375015974045
+      },
+      "image_encoder.transformer.resblocks.2.mlp.c_fc.weight": {
+        "reference_squared_norm": 474.28814697265625,
+        "squared_deviation": 1.2104899883270264
+      },
+      "image_encoder.transformer.resblocks.2.mlp.c_proj.bias": {
+        "reference_squared_norm": 3.818408727645874,
+        "squared_deviation": 4.5370143197942525e-05
+      },
+      "image_encoder.transformer.resblocks.2.mlp.c_proj.weight": {
+        "reference_squared_norm": 276.567138671875,
+        "squared_deviation": 0.6019479632377625
+      },
+      "image_encoder.transformer.resblocks.3.attn.in_proj_bias": {
+        "reference_squared_norm": 378.0975341796875,
+        "squared_deviation": 0.05048193037509918
+      },
+      "image_encoder.transformer.resblocks.3.attn.in_proj_weight": {
+        "reference_squared_norm": 490.5912780761719,
+        "squared_deviation": 1.1632936000823975
+      },
+      "image_encoder.transformer.resblocks.3.attn.out_proj.bias": {
+        "reference_squared_norm": 2.7815072536468506,
+        "squared_deviation": 0.00018714077305048704
+      },
+      "image_encoder.transformer.resblocks.3.attn.out_proj.weight": {
+        "reference_squared_norm": 80.01594543457031,
+        "squared_deviation": 0.28825271129608154
+      },
+      "image_encoder.transformer.resblocks.3.ln_1.bias": {
+        "reference_squared_norm": 28.263713836669922,
+        "squared_deviation": 0.0007543531828559935
+      },
+      "image_encoder.transformer.resblocks.3.ln_1.weight": {
+        "reference_squared_norm": 1093.418212890625,
+        "squared_deviation": 0.04899200052022934
+      },
+      "image_encoder.transformer.resblocks.3.ln_2.bias": {
+        "reference_squared_norm": 16.203874588012695,
+        "squared_deviation": 0.0006479219882749021
+      },
+      "image_encoder.transformer.resblocks.3.ln_2.weight": {
+        "reference_squared_norm": 1379.29150390625,
+        "squared_deviation": 0.028644029051065445
+      },
+      "image_encoder.transformer.resblocks.3.mlp.c_fc.bias": {
+        "reference_squared_norm": 391.22607421875,
+        "squared_deviation": 0.04836135357618332
+      },
+      "image_encoder.transformer.resblocks.3.mlp.c_fc.weight": {
+        "reference_squared_norm": 450.10302734375,
+        "squared_deviation": 1.3509395122528076
+      },
+      "image_encoder.transformer.resblocks.3.mlp.c_proj.bias": {
+        "reference_squared_norm": 2.3061304092407227,
+        "squared_deviation": 6.285880954237655e-05
+      },
+      "image_encoder.transformer.resblocks.3.mlp.c_proj.weight": {
+        "reference_squared_norm": 250.4111785888672,
+        "squared_deviation": 0.8005189895629883
+      },
+      "image_encoder.transformer.resblocks.4.attn.in_proj_bias": {
+        "reference_squared_norm": 238.2128143310547,
+        "squared_deviation": 0.05316460132598877
+      },
+      "image_encoder.transformer.resblocks.4.attn.in_proj_weight": {
+        "reference_squared_norm": 454.2444763183594,
+        "squared_deviation": 1.2748339176177979
+      },
+      "image_encoder.transformer.resblocks.4.attn.out_proj.bias": {
+        "reference_squared_norm": 2.535726308822632,
+        "squared_deviation": 0.0002203810727223754
+      },
+      "image_encoder.transformer.resblocks.4.attn.out_proj.weight": {
+        "reference_squared_norm": 88.01741027832031,
+        "squared_deviation": 0.3478371798992157
+      },
+      "image_encoder.transformer.resblocks.4.ln_1.bias": {
+        "reference_squared_norm": 49.917537689208984,
+        "squared_deviation": 0.0023846756666898727
+      },
+      "image_encoder.transformer.resblocks.4.ln_1.weight": {
+        "reference_squared_norm": 1290.3310546875,
+        "squared_deviation": 0.04773339256644249
+      },
+      "image_encoder.transformer.resblocks.4.ln_2.bias": {
+        "reference_squared_norm": 34.56197738647461,
+        "squared_deviation": 0.0009718774817883968
+      },
+      "image_encoder.transformer.resblocks.4.ln_2.weight": {
+        "reference_squared_norm": 1610.50048828125,
+        "squared_deviation": 0.025281423702836037
+      },
+      "image_encoder.transformer.resblocks.4.mlp.c_fc.bias": {
+        "reference_squared_norm": 401.6785888671875,
+        "squared_deviation": 0.05746221914887428
+      },
+      "image_encoder.transformer.resblocks.4.mlp.c_fc.weight": {
+        "reference_squared_norm": 472.4997253417969,
+        "squared_deviation": 1.7498760223388672
+      },
+      "image_encoder.transformer.resblocks.4.mlp.c_proj.bias": {
+        "reference_squared_norm": 2.5248374938964844,
+        "squared_deviation": 5.495421282830648e-05
+      },
+      "image_encoder.transformer.resblocks.4.mlp.c_proj.weight": {
+        "reference_squared_norm": 271.40692138671875,
+        "squared_deviation": 0.9606151580810547
+      },
+      "image_encoder.transformer.resblocks.5.attn.in_proj_bias": {
+        "reference_squared_norm": 229.5609893798828,
+        "squared_deviation": 0.033100590109825134
+      },
+      "image_encoder.transformer.resblocks.5.attn.in_proj_weight": {
+        "reference_squared_norm": 461.1947021484375,
+        "squared_deviation": 1.3613064289093018
+      },
+      "image_encoder.transformer.resblocks.5.attn.out_proj.bias": {
+        "reference_squared_norm": 3.5991764068603516,
+        "squared_deviation": 0.0002466162550263107
+      },
+      "image_encoder.transformer.resblocks.5.attn.out_proj.weight": {
+        "reference_squared_norm": 85.74598693847656,
+        "squared_deviation": 0.38435760140419006
+      },
+      "image_encoder.transformer.resblocks.5.ln_1.bias": {
+        "reference_squared_norm": 37.05686950683594,
+        "squared_deviation": 0.0009702809038572013
+      },
+      "image_encoder.transformer.resblocks.5.ln_1.weight": {
+        "reference_squared_norm": 1286.391845703125,
+        "squared_deviation": 0.03217233717441559
+      },
+      "image_encoder.transformer.resblocks.5.ln_2.bias": {
+        "reference_squared_norm": 73.71641540527344,
+        "squared_deviation": 0.0015893010422587395
+      },
+      "image_encoder.transformer.resblocks.5.ln_2.weight": {
+        "reference_squared_norm": 1718.057861328125,
+        "squared_deviation": 0.019892483949661255
+      },
+      "image_encoder.transformer.resblocks.5.mlp.c_fc.bias": {
+        "reference_squared_norm": 437.4547119140625,
+        "squared_deviation": 0.052165687084198
+      },
+      "image_encoder.transformer.resblocks.5.mlp.c_fc.weight": {
+        "reference_squared_norm": 491.53619384765625,
+        "squared_deviation": 2.008714437484741
+      },
+      "image_encoder.transformer.resblocks.5.mlp.c_proj.bias": {
+        "reference_squared_norm": 2.125331163406372,
+        "squared_deviation": 4.742533201351762e-05
+      },
+      "image_encoder.transformer.resblocks.5.mlp.c_proj.weight": {
+        "reference_squared_norm": 295.3326416015625,
+        "squared_deviation": 1.118314266204834
+      },
+      "image_encoder.transformer.resblocks.6.attn.in_proj_bias": {
+        "reference_squared_norm": 212.05792236328125,
+        "squared_deviation": 0.21567443013191223
+      },
+      "image_encoder.transformer.resblocks.6.attn.in_proj_weight": {
+        "reference_squared_norm": 466.69537353515625,
+        "squared_deviation": 1.6444590091705322
+      },
+      "image_encoder.transformer.resblocks.6.attn.out_proj.bias": {
+        "reference_squared_norm": 5.602414608001709,
+        "squared_deviation": 0.0002723702637013048
+      },
+      "image_encoder.transformer.resblocks.6.attn.out_proj.weight": {
+        "reference_squared_norm": 87.28019714355469,
+        "squared_deviation": 0.4277602732181549
+      },
+      "image_encoder.transformer.resblocks.6.ln_1.bias": {
+        "reference_squared_norm": 33.74579620361328,
+        "squared_deviation": 0.0008396156481467187
+      },
+      "image_encoder.transformer.resblocks.6.ln_1.weight": {
+        "reference_squared_norm": 1448.7889404296875,
+        "squared_deviation": 0.027214352041482925
+      },
+      "image_encoder.transformer.resblocks.6.ln_2.bias": {
+        "reference_squared_norm": 165.4251251220703,
+        "squared_deviation": 0.0044582299888134
+      },
+      "image_encoder.transformer.resblocks.6.ln_2.weight": {
+        "reference_squared_norm": 2104.15087890625,
+        "squared_deviation": 0.02881915681064129
+      },
+      "image_encoder.transformer.resblocks.6.mlp.c_fc.bias": {
+        "reference_squared_norm": 509.1962890625,
+        "squared_deviation": 0.06651806086301804
+      },
+      "image_encoder.transformer.resblocks.6.mlp.c_fc.weight": {
+        "reference_squared_norm": 508.6739196777344,
+        "squared_deviation": 2.3529937267303467
+      },
+      "image_encoder.transformer.resblocks.6.mlp.c_proj.bias": {
+        "reference_squared_norm": 2.922884464263916,
+        "squared_deviation": 4.9394315283279866e-05
+      },
+      "image_encoder.transformer.resblocks.6.mlp.c_proj.weight": {
+        "reference_squared_norm": 354.0115966796875,
+        "squared_deviation": 1.2357958555221558
+      },
+      "image_encoder.transformer.resblocks.7.attn.in_proj_bias": {
+        "reference_squared_norm": 219.07553100585938,
+        "squared_deviation": 0.036542005836963654
+      },
+      "image_encoder.transformer.resblocks.7.attn.in_proj_weight": {
+        "reference_squared_norm": 457.39190673828125,
+        "squared_deviation": 1.7755637168884277
+      },
+      "image_encoder.transformer.resblocks.7.attn.out_proj.bias": {
+        "reference_squared_norm": 9.840782165527344,
+        "squared_deviation": 0.00024448405019938946
+      },
+      "image_encoder.transformer.resblocks.7.attn.out_proj.weight": {
+        "reference_squared_norm": 89.35111999511719,
+        "squared_deviation": 0.45758897066116333
+      },
+      "image_encoder.transformer.resblocks.7.ln_1.bias": {
+        "reference_squared_norm": 19.76215171813965,
+        "squared_deviation": 0.0005579342832788825
+      },
+      "image_encoder.transformer.resblocks.7.ln_1.weight": {
+        "reference_squared_norm": 1669.2889404296875,
+        "squared_deviation": 0.03204106166958809
+      },
+      "image_encoder.transformer.resblocks.7.ln_2.bias": {
+        "reference_squared_norm": 172.01361083984375,
+        "squared_deviation": 0.006424929015338421
+      },
+      "image_encoder.transformer.resblocks.7.ln_2.weight": {
+        "reference_squared_norm": 2926.69677734375,
+        "squared_deviation": 0.06364643573760986
+      },
+      "image_encoder.transformer.resblocks.7.mlp.c_fc.bias": {
+        "reference_squared_norm": 524.3216552734375,
+        "squared_deviation": 0.07453714311122894
+      },
+      "image_encoder.transformer.resblocks.7.mlp.c_fc.weight": {
+        "reference_squared_norm": 517.0960083007812,
+        "squared_deviation": 2.536003589630127
+      },
+      "image_encoder.transformer.resblocks.7.mlp.c_proj.bias": {
+        "reference_squared_norm": 5.844524383544922,
+        "squared_deviation": 5.730102566303685e-05
+      },
+      "image_encoder.transformer.resblocks.7.mlp.c_proj.weight": {
+        "reference_squared_norm": 400.44110107421875,
+        "squared_deviation": 1.343961238861084
+      },
+      "image_encoder.transformer.resblocks.8.attn.in_proj_bias": {
+        "reference_squared_norm": 256.89007568359375,
+        "squared_deviation": 0.11492643505334854
+      },
+      "image_encoder.transformer.resblocks.8.attn.in_proj_weight": {
+        "reference_squared_norm": 454.68511962890625,
+        "squared_deviation": 1.926027774810791
+      },
+      "image_encoder.transformer.resblocks.8.attn.out_proj.bias": {
+        "reference_squared_norm": 1.6456557512283325,
+        "squared_deviation": 0.00027736788615584373
+      },
+      "image_encoder.transformer.resblocks.8.attn.out_proj.weight": {
+        "reference_squared_norm": 95.2815933227539,
+        "squared_deviation": 0.5949439406394958
+      },
+      "image_encoder.transformer.resblocks.8.ln_1.bias": {
+        "reference_squared_norm": 20.83104705810547,
+        "squared_deviation": 0.0006861008587293327
+      },
+      "image_encoder.transformer.resblocks.8.ln_1.weight": {
+        "reference_squared_norm": 1972.331298828125,
+        "squared_deviation": 0.0444721058011055
+      },
+      "image_encoder.transformer.resblocks.8.ln_2.bias": {
+        "reference_squared_norm": 200.156982421875,
+        "squared_deviation": 0.025503408163785934
+      },
+      "image_encoder.transformer.resblocks.8.ln_2.weight": {
+        "reference_squared_norm": 5618.9951171875,
+        "squared_deviation": 0.3109985589981079
+      },
+      "image_encoder.transformer.resblocks.8.mlp.c_fc.bias": {
+        "reference_squared_norm": 585.79248046875,
+        "squared_deviation": 0.15441417694091797
+      },
+      "image_encoder.transformer.resblocks.8.mlp.c_fc.weight": {
+        "reference_squared_norm": 464.46771240234375,
+        "squared_deviation": 2.94101619720459
+      },
+      "image_encoder.transformer.resblocks.8.mlp.c_proj.bias": {
+        "reference_squared_norm": 12.052087783813477,
+        "squared_deviation": 0.00014968833420425653
+      },
+      "image_encoder.transformer.resblocks.8.mlp.c_proj.weight": {
+        "reference_squared_norm": 485.6161804199219,
+        "squared_deviation": 1.975338339805603
+      },
+      "image_encoder.transformer.resblocks.9.attn.in_proj_bias": {
+        "reference_squared_norm": 252.96670532226562,
+        "squared_deviation": 0.09129434823989868
+      },
+      "image_encoder.transformer.resblocks.9.attn.in_proj_weight": {
+        "reference_squared_norm": 452.6722412109375,
+        "squared_deviation": 2.302009344100952
+      },
+      "image_encoder.transformer.resblocks.9.attn.out_proj.bias": {
+        "reference_squared_norm": 8.613441467285156,
+        "squared_deviation": 0.0003609108680393547
+      },
+      "image_encoder.transformer.resblocks.9.attn.out_proj.weight": {
+        "reference_squared_norm": 110.75892639160156,
+        "squared_deviation": 0.7857183218002319
+      },
+      "image_encoder.transformer.resblocks.9.ln_1.bias": {
+        "reference_squared_norm": 20.14773178100586,
+        "squared_deviation": 0.0007774864789098501
+      },
+      "image_encoder.transformer.resblocks.9.ln_1.weight": {
+        "reference_squared_norm": 2501.98779296875,
+        "squared_deviation": 0.09118147194385529
+      },
+      "image_encoder.transformer.resblocks.9.ln_2.bias": {
+        "reference_squared_norm": 341.7989501953125,
+        "squared_deviation": 0.11895133554935455
+      },
+      "image_encoder.transformer.resblocks.9.ln_2.weight": {
+        "reference_squared_norm": 15227.748046875,
+        "squared_deviation": 2.998465061187744
+      },
+      "image_encoder.transformer.resblocks.9.mlp.c_fc.bias": {
+        "reference_squared_norm": 627.6865844726562,
+        "squared_deviation": 0.565371036529541
+      },
+      "image_encoder.transformer.resblocks.9.mlp.c_fc.weight": {
+        "reference_squared_norm": 489.4938049316406,
+        "squared_deviation": 3.4720754623413086
+      },
+      "image_encoder.transformer.resblocks.9.mlp.c_proj.bias": {
+        "reference_squared_norm": 9.874844551086426,
+        "squared_deviation": 0.00028474885039031506
+      },
+      "image_encoder.transformer.resblocks.9.mlp.c_proj.weight": {
+        "reference_squared_norm": 525.85009765625,
+        "squared_deviation": 2.981785774230957
+      }
+    },
+    "relative_frobenius_deviation": 0.030933976896089926,
+    "rms_deviation": 0.0010746949007129356,
+    "squared_deviation_sum": 99.48952129248573,
+    "weighted_penalty": 0.04974476064624287
+  },
+  "reference_parameter_count": 86140416,
+  "reference_parameter_hashes": {
+    "image_encoder.class_embedding": "fc0beba610046f49f8b93c58d3c6b9df79b4f8ddfa150386955b73848a33cd69",
+    "image_encoder.conv1.weight": "88afe335e4c30acdcc9ca419a3d58b1abd26ae5aeefd26f9d4bfb98d43fb2d23",
+    "image_encoder.ln_post.bias": "c402867ef64d87c0203c8461428ac24e7d21c3f372851b9b78c0f41486e9c57b",
+    "image_encoder.ln_post.weight": "54f88ce89c9d1a654a68b234e8ddaf63028fb720b65904029fb23ea60f8360df",
+    "image_encoder.ln_pre.bias": "29a9676eb8d022cf2e26bedc739effd7d9692aa37859fdbdf205c3c04b834c8a",
+    "image_encoder.ln_pre.weight": "f7173fe4a5d3e2339f727936046b52e1e23dbac384389709447196dd3a89ae88",
+    "image_encoder.positional_embedding": "7b1424b6a06a6995239f8c9603922045503fce0ab2dbdc501ed32844254aef81",
+    "image_encoder.proj": "f5ef5771689d96d6e925e2d45b33bb3bd0aa34831a65c7bb93a9874b261bd457",
+    "image_encoder.transformer.resblocks.0.attn.in_proj_bias": "678d0647ce99245a8f869f7f0a6644f954a9c6f1c1c258c5f468b0e53fab4597",
+    "image_encoder.transformer.resblocks.0.attn.in_proj_weight": "00d4f3f4f90cf26a0532471533b1146b174928a254ea700154405f80db2f27b1",
+    "image_encoder.transformer.resblocks.0.attn.out_proj.bias": "b081c7269b7e0b7649f5a5d66206310c2dd41f61f1eeaa2d8a9b9f32dfb37ee5",
+    "image_encoder.transformer.resblocks.0.attn.out_proj.weight": "4eaaeadebb199cb8b5ac7918891c66464996cb8f9191d0f44cb179aaeabf220f",
+    "image_encoder.transformer.resblocks.0.ln_1.bias": "a4d1ce907f656de0458a5c4d6623c21f9ee36ae3571f64edd25141ae7aed5485",
+    "image_encoder.transformer.resblocks.0.ln_1.weight": "f067dd32bd403f8789ca96565758e7a3c17830020a78b1f430a59f4b5c411f62",
+    "image_encoder.transformer.resblocks.0.ln_2.bias": "ccd947aabcec6354bbdfa9618b7742a80bd4fc040cba947b38a4d54cf06b8a63",
+    "image_encoder.transformer.resblocks.0.ln_2.weight": "3d2df02a846b0c78c787232d862f843ba385cfe25a78a504f2bbc9aa77d20bd9",
+    "image_encoder.transformer.resblocks.0.mlp.c_fc.bias": "aa7e21afdd193f1a8739c23a9de7bf4412e4aebed94d361cc9ed3aebbbc8cd5c",
+    "image_encoder.transformer.resblocks.0.mlp.c_fc.weight": "cf61375ad84b99e85b450efa3d29668e14928d17e56b0f892d10b87dbe3cc80a",
+    "image_encoder.transformer.resblocks.0.mlp.c_proj.bias": "340c7d883a0a0dfa329ce06d809c24841ee7d1c4580209e955bd6fc3c40de6e0",
+    "image_encoder.transformer.resblocks.0.mlp.c_proj.weight": "605e6ff0ce622735a8cb904a5b68b4a8b1877497f322daac8d9b26fcc26e0716",
+    "image_encoder.transformer.resblocks.1.attn.in_proj_bias": "d691a0f60bdd53a2399f79c712549ad5a5195418762f3d9ac6efdc57b38046b2",
+    "image_encoder.transformer.resblocks.1.attn.in_proj_weight": "b8fc4503b4bca864239bc424a2a0fa386342a69fbd434c1099d445eec923ada9",
+    "image_encoder.transformer.resblocks.1.attn.out_proj.bias": "f0bca8274ec3678273d0df3cec40a891bc2d625618572bab55b7b48892cd2255",
+    "image_encoder.transformer.resblocks.1.attn.out_proj.weight": "c9d8b3312b12fde6d1fb481ac0505f37e82a38ded07b4cef7870e4212db7b680",
+    "image_encoder.transformer.resblocks.1.ln_1.bias": "40f96f670cb772163ee4b65dae68752e1a455167ad4915eb0f32c89817947305",
+    "image_encoder.transformer.resblocks.1.ln_1.weight": "ca51989797ba479449e5325cd9601eb2e1978adbf5028df6cb0e975c92d5545e",
+    "image_encoder.transformer.resblocks.1.ln_2.bias": "c801e5f224a086c4ddf568b43ffc138bbce44e809eb13a42b2db22ab16d88cf9",
+    "image_encoder.transformer.resblocks.1.ln_2.weight": "122a2680d2e557aeb400fea29b774ee4c0071b13da3089f8ab5ea0067310e330",
+    "image_encoder.transformer.resblocks.1.mlp.c_fc.bias": "5d5ffbf085e46009f586f81fe2cd50d8c5cc5bad26ec2cceb75ef3f8a2e13c10",
+    "image_encoder.transformer.resblocks.1.mlp.c_fc.weight": "a980a9a8e7e97dbf26c76e25b193205b25d4f870c7b4f349e56f8246d0eb0e14",
+    "image_encoder.transformer.resblocks.1.mlp.c_proj.bias": "424316d4e2051f520387c921dde6ca1acb7e56358b003c98e503a5a09870bba5",
+    "image_encoder.transformer.resblocks.1.mlp.c_proj.weight": "da0a146a5081627047e4f090879aa3fc03734dfa109550f421b0cdd8e09e0c99",
+    "image_encoder.transformer.resblocks.10.attn.in_proj_bias": "fb509ad5e7c23504777f2d024b3a203d0cbddda5aceaacd1eab897cbd5692820",
+    "image_encoder.transformer.resblocks.10.attn.in_proj_weight": "5bced7be3f9cb19b9a148063d628cb446c2fa8f1732d5594e03ad62e258c2081",
+    "image_encoder.transformer.resblocks.10.attn.out_proj.bias": "57db432f12acc9b92d107c2af3fcb00570cba72aecdde085af90c96bcb87477d",
+    "image_encoder.transformer.resblocks.10.attn.out_proj.weight": "85ef872ae4d11e525f606ad3798c5301286f00701349558d4f79364fc04bb570",
+    "image_encoder.transformer.resblocks.10.ln_1.bias": "b90515e510524572da34618230bc0ecaf704129bb28d38d03fc76cd6ba29d853",
+    "image_encoder.transformer.resblocks.10.ln_1.weight": "a23b987b8280aafa2e1d5c18212bba10c1230961cbede54e4c3baea1d70a20c1",
+    "image_encoder.transformer.resblocks.10.ln_2.bias": "882a59a62740ba20356cbcddae7084f0587bb237a5abd9c58e3d28b18f6a4fc2",
+    "image_encoder.transformer.resblocks.10.ln_2.weight": "578c419efc13a959dd737e97db36d6bf9b2ee44e06880a03b8e69537ee4e586d",
+    "image_encoder.transformer.resblocks.10.mlp.c_fc.bias": "f6377f051d205330541307c0d1c08e2d9327df83cab6c1711bae60aea06c12af",
+    "image_encoder.transformer.resblocks.10.mlp.c_fc.weight": "c1187090ea2444da214b8c4fa35f179294a507aec227cd5377ca611ebcef964a",
+    "image_encoder.transformer.resblocks.10.mlp.c_proj.bias": "9eb555d14abe830859fe57f65a399ac7796ed63ec9c1ad25447e61fa0fe26fa2",
+    "image_encoder.transformer.resblocks.10.mlp.c_proj.weight": "878e02f5cb8d6989793170f133bcdda43caf41b31ee207751a4caa663e40d725",
+    "image_encoder.transformer.resblocks.11.attn.in_proj_bias": "d807f125b8c22655468fe9ea7f1107e11e7680ad7d75814c314b952a20d8f5af",
+    "image_encoder.transformer.resblocks.11.attn.in_proj_weight": "55578fcdfdbead18e090754b4024eff2ce87ee160eb28e164ececd1377ed24df",
+    "image_encoder.transformer.resblocks.11.attn.out_proj.bias": "dc00067e86cd2a3e4fe3cdab2c93d6ebb8f40af9bf883d26a0971cb1168724da",
+    "image_encoder.transformer.resblocks.11.attn.out_proj.weight": "35e36b235ba6c3be9721f1b1dca42444366bf3eae85fd1f769a8332673787db4",
+    "image_encoder.transformer.resblocks.11.ln_1.bias": "c95492f08ca889c3ed4f66c2a358bd033451cadcaeb549be090332a8f087c8c0",
+    "image_encoder.transformer.resblocks.11.ln_1.weight": "38cbe27a09887a8d9a02f5276ee6ed6e46eebed6fa33d30bc75adc66d7b7a742",
+    "image_encoder.transformer.resblocks.11.ln_2.bias": "9b9cd503462d033573b34dd0fae47283241c51f72cea1930a40de5c26142638e",
+    "image_encoder.transformer.resblocks.11.ln_2.weight": "c61b76dbe9af7aa42b64aab9c4d9a165bd6ce19ea7a7f9cd79cceb138d0b6545",
+    "image_encoder.transformer.resblocks.11.mlp.c_fc.bias": "09d109383380c072adf81a8d9b0af99c812053ad0e8783e749402a1f6d5e15ec",
+    "image_encoder.transformer.resblocks.11.mlp.c_fc.weight": "ed91b285b14a30378163bb1e3e111693ab2b4dc93588a000db5fad9f7407e940",
+    "image_encoder.transformer.resblocks.11.mlp.c_proj.bias": "db36bfcced1d9b78c99aa04631a8d3ac91c4a80264afcbd06ae59d0dfb2fa578",
+    "image_encoder.transformer.resblocks.11.mlp.c_proj.weight": "24d228a7127cd5a85974a73b9db4c372099736d916d47ac9a3fa9444020a37f4",
+    "image_encoder.transformer.resblocks.2.attn.in_proj_bias": "a772905ffb5f166ec29259f7f99f165a9fe0a6356bc29b9b2f27e06a2135ffb8",
+    "image_encoder.transformer.resblocks.2.attn.in_proj_weight": "07d3548d3d7411cc842d184befb6ad532c90921958d7f06f575bee9fc3329c5c",
+    "image_encoder.transformer.resblocks.2.attn.out_proj.bias": "ea05e2d9298c197b7b274b005cb2f038afef6a6e2ec2a72e80f355dfe24f2749",
+    "image_encoder.transformer.resblocks.2.attn.out_proj.weight": "ff93c05bd1e81b684af0fa6f3d0f675add8578c58cdb8a6fc692ff987d7af388",
+    "image_encoder.transformer.resblocks.2.ln_1.bias": "fc82d14454e289903f7cae8edfa44f3e423a46cc1297f4931707ba6644667833",
+    "image_encoder.transformer.resblocks.2.ln_1.weight": "86b8753e1ab06f0d3fd400c303bc8f6e7df71cdbe8c90bdbc30abc5e8883f205",
+    "image_encoder.transformer.resblocks.2.ln_2.bias": "7780180e43905afbee5a2745d0e43ea2a9a4de67e842f569e164213ad2bda7b8",
+    "image_encoder.transformer.resblocks.2.ln_2.weight": "48cec34c850a188016f459e8f937eb381edb4c0167a7637c0df7f7085c51abae",
+    "image_encoder.transformer.resblocks.2.mlp.c_fc.bias": "a95e03c36bb4f2345e8a6287d1e7be26f57edfdc328f1cdb4c66a962a8943f2d",
+    "image_encoder.transformer.resblocks.2.mlp.c_fc.weight": "eff93fc4d68a9c167c8bed0d0ce3845fcde2e3f0aacdd68241c21c967a4dbd66",
+    "image_encoder.transformer.resblocks.2.mlp.c_proj.bias": "b550ce90e66f0b4d846350e670b8eca63c28dea5fd41665f33b76e5f5c61acea",
+    "image_encoder.transformer.resblocks.2.mlp.c_proj.weight": "4481671344bfcc22f63d2e7221787ba082f90d8f3e82b4782f67de02038508fc",
+    "image_encoder.transformer.resblocks.3.attn.in_proj_bias": "e33693042357db722c9821a181e62758d8c299a1de31c16fcf3492814ed374f2",
+    "image_encoder.transformer.resblocks.3.attn.in_proj_weight": "be0c71c39b31331a9bdbd2a94bd32651865308777c9f9842f06f8226f2fbf3c2",
+    "image_encoder.transformer.resblocks.3.attn.out_proj.bias": "6999b8bc90c0590de2c0242bfbbc7e5d8a8bbfc7bb952ba2ec0f851acab86068",
+    "image_encoder.transformer.resblocks.3.attn.out_proj.weight": "3809e7c908c1501e71f2d7bf94a47e976254d9549b1edf254717434e72572de9",
+    "image_encoder.transformer.resblocks.3.ln_1.bias": "298d4a878465822015e464fc66d2724dc7061f33a98a409b16ae6a387c742f08",
+    "image_encoder.transformer.resblocks.3.ln_1.weight": "d978a816b920ebad8c239459b39e5a9712cc2ec1ff63b96bef7138d18f907c11",
+    "image_encoder.transformer.resblocks.3.ln_2.bias": "56a053405a9c14640ce763f1a6cb9bb7c6bda6fed9e9d0c8c9061b9c1dd40424",
+    "image_encoder.transformer.resblocks.3.ln_2.weight": "dc3048a248280dcf8f7b4508630aa7cf7e71784a378228bfe81bb6c4fbf4aed1",
+    "image_encoder.transformer.resblocks.3.mlp.c_fc.bias": "daf2679d74ea348427fa27fccb2a681582dbc10cedf6c6c75f8c7f18d3ed0b58",
+    "image_encoder.transformer.resblocks.3.mlp.c_fc.weight": "5463d1f19bd3149bc6fbd0ba20c557d48e682c275b79935216d57654dc36b0cb",
+    "image_encoder.transformer.resblocks.3.mlp.c_proj.bias": "ae1d6c3296418463f9cba0c7f82ee313af39aec9eef065895f5f7f1280e7a788",
+    "image_encoder.transformer.resblocks.3.mlp.c_proj.weight": "6081eaf4973f8afc272e77b54f54784a9fd868190a8717ddc6c2d3c4c761bbc7",
+    "image_encoder.transformer.resblocks.4.attn.in_proj_bias": "4627ed06e37566c508b8935ab7460931660ca07753a8490ba63656862e610a9b",
+    "image_encoder.transformer.resblocks.4.attn.in_proj_weight": "d055c424d5281f5bd15b5c6d7534ecadf92b26b396be648e2a9eae0435b19285",
+    "image_encoder.transformer.resblocks.4.attn.out_proj.bias": "e8c081529deab741706f1dee44e0866950d8dfb30157627108c7eeea933d8a24",
+    "image_encoder.transformer.resblocks.4.attn.out_proj.weight": "28c78aeca77a0c15f09ef7d73f0256895b6eda84dbbacf9e120d055ede70c7c9",
+    "image_encoder.transformer.resblocks.4.ln_1.bias": "ce30a3ca73f9ae92913ce1cf096a5bff37a941f2d9b0a9b34a9fbd3d8f3be959",
+    "image_encoder.transformer.resblocks.4.ln_1.weight": "5f4501f6798b4a985264151d4df3fd0d0abd93ebe0d28e01c123d3366dd80007",
+    "image_encoder.transformer.resblocks.4.ln_2.bias": "2d393243d45951cd5ce26f65a12d8c7656425c80c4d68cb7f7c70641b7435bab",
+    "image_encoder.transformer.resblocks.4.ln_2.weight": "330c26db47ef2815fa91b651ccfddba6ee39636b020d5892bc19ee223d88bb89",
+    "image_encoder.transformer.resblocks.4.mlp.c_fc.bias": "6f2a0a3f1b58203a93500921766a448f456d0ae396e5bc21b29dec0b5c0fb61f",
+    "image_encoder.transformer.resblocks.4.mlp.c_fc.weight": "152b849e5f7c3519eac7279ea08cf6e5f753c507e9bc9ec9168f0489074ebe66",
+    "image_encoder.transformer.resblocks.4.mlp.c_proj.bias": "92c607f5cc12288d0ebf535e37216f0e9f1c7300deb2a4861732ea5632776a49",
+    "image_encoder.transformer.resblocks.4.mlp.c_proj.weight": "660e0c42a8ea8235dd57caf7fcf93df5e0945fe816cf0adad82f896e0d0f5b74",
+    "image_encoder.transformer.resblocks.5.attn.in_proj_bias": "ad7f536a463be46c825ee584bc64fea7d36da5e71effbca2b8f65951c5d0a0af",
+    "image_encoder.transformer.resblocks.5.attn.in_proj_weight": "4c0799d60f354bf317248206c15e26b3b97b83872cd9cc531cff748b0d922bc6",
+    "image_encoder.transformer.resblocks.5.attn.out_proj.bias": "2d05b30b17e992ebe931104e59c65db9069c99a8345052293e9c6ede05415e4b",
+    "image_encoder.transformer.resblocks.5.attn.out_proj.weight": "67800655f9ede26bafba28ccb1c71ec73210127ec8e781c56ea60ac0b76b4d8a",
+    "image_encoder.transformer.resblocks.5.ln_1.bias": "35972db6fc95278db0d9f8f77b971d9d4178476f731e6bcd11753d1a0a12dc55",
+    "image_encoder.transformer.resblocks.5.ln_1.weight": "b9b750772d5ee9cbefb44fc8b75f9b3b5bb8a585d3a8b3b22da7be6761ef240e",
+    "image_encoder.transformer.resblocks.5.ln_2.bias": "9a4eed89b987ee1a2b5eb57f0bf1fa9ea53118359c7263d4f75ab8690a02b714",
+    "image_encoder.transformer.resblocks.5.ln_2.weight": "09ff63a743816fa8dd9defdb84f8c33be666d850cb3b9273ae2502a81d3fa32c",
+    "image_encoder.transformer.resblocks.5.mlp.c_fc.bias": "e2b4e8cd9f0a2237f453ed19edd4e00fa60933f735895cbe6939487c8ef693c7",
+    "image_encoder.transformer.resblocks.5.mlp.c_fc.weight": "fc6c5d452e0cc191bae34dd8b0b04c856cd2f5092abb019ee534f7b3a9942b92",
+    "image_encoder.transformer.resblocks.5.mlp.c_proj.bias": "81981887ef1dde1f390ed3becc860c9b70614ef0c275e00d6b6d0b9be24d11aa",
+    "image_encoder.transformer.resblocks.5.mlp.c_proj.weight": "eee5c9980e18542450955abad1de0b458a901b1d5355222781b52e0a23176565",
+    "image_encoder.transformer.resblocks.6.attn.in_proj_bias": "9c8e3169b71c1c68d1d3772c7a97ca515bfacd2fb1239567d7b5a553d5f91933",
+    "image_encoder.transformer.resblocks.6.attn.in_proj_weight": "8e1cd9cd63ef76dcd264d181930f8c26edf981f0ebf49d1e45a5974a9157ac7c",
+    "image_encoder.transformer.resblocks.6.attn.out_proj.bias": "6d7b8de0c7dbea64253554c7d87c09f060d0690459dd0cad13889565e46e8706",
+    "image_encoder.transformer.resblocks.6.attn.out_proj.weight": "b6bade62ecee33e95680af3852ea87f45b37c03cdef76eaa95a3c894767de86f",
+    "image_encoder.transformer.resblocks.6.ln_1.bias": "302872a0c819317ff379d47b0da56e2965059e0bd1055cc13fc2bd5b956c7c39",
+    "image_encoder.transformer.resblocks.6.ln_1.weight": "500deaa33aafb2b7f62349906f99460c41e924e8a6b1486f00b3b84a0672c127",
+    "image_encoder.transformer.resblocks.6.ln_2.bias": "1737efe27bf026e01c3cf99b3d1a297f046bcb8f7c0d71a7435f36eb5578e4ad",
+    "image_encoder.transformer.resblocks.6.ln_2.weight": "c4bf292bf280dfd71c524810d980cb75fc6717347b0d205ed195d1ed7e75bd07",
+    "image_encoder.transformer.resblocks.6.mlp.c_fc.bias": "98f0d9af8af98b2d6e96dd47137566adf65abab8943335c3911c1a4880ec4997",
+    "image_encoder.transformer.resblocks.6.mlp.c_fc.weight": "cc27c207f240c996268cc5b2e1eb4357f905f76ff89336c3a259a4839fc2c322",
+    "image_encoder.transformer.resblocks.6.mlp.c_proj.bias": "b3f41fc00d68ea8f9af2a482db87f2a913b8b6cc56c1db1773f3a7005ecf82cb",
+    "image_encoder.transformer.resblocks.6.mlp.c_proj.weight": "1043ec2c83b89684e949c886a428bf72a1fd8a7789f9351ee22ea3e06d9c7529",
+    "image_encoder.transformer.resblocks.7.attn.in_proj_bias": "5154d6b8a6763a9398ddf3fe3ff311e0b1e5549dff79264eaadd3ed5a1a9fb78",
+    "image_encoder.transformer.resblocks.7.attn.in_proj_weight": "f25ed97377992e1095e5cf273ba0c0efc52a6d4d0e9fea63f5ffd4447eb6f178",
+    "image_encoder.transformer.resblocks.7.attn.out_proj.bias": "13612e9ce9945dbba0e67ed10121795dfdc455841a947baf53a3651f004e6dc0",
+    "image_encoder.transformer.resblocks.7.attn.out_proj.weight": "7310c890c4ebdfa84c1677f6eadae2b3cd5864fae0bb298e59e9246b7787d6bc",
+    "image_encoder.transformer.resblocks.7.ln_1.bias": "bd2d7e09e504cb1847a1f73bd812e9ace567262faa8650ce910fb31d238fa6a4",
+    "image_encoder.transformer.resblocks.7.ln_1.weight": "d4704d7e5f5f4c2322d1b017547ed4be35e4a1a4952e1c4172a1259823ede830",
+    "image_encoder.transformer.resblocks.7.ln_2.bias": "53ee897e6707e19a25768e39ed1e8e78499ba782e1d9b700734b9cddc8bcdd6f",
+    "image_encoder.transformer.resblocks.7.ln_2.weight": "a6e8d3427838679fe7979324d58b84fc7d7a6a69e2226b943247b73067e8d02d",
+    "image_encoder.transformer.resblocks.7.mlp.c_fc.bias": "d6db17a6730ae2abb170f875b5582a9dd77a9bd48a1920ad2f38dc48e335e2e0",
+    "image_encoder.transformer.resblocks.7.mlp.c_fc.weight": "bdc0120f0f04d38ceb98fd1d56404a680d9725cdd2e353203d31b78745a0acce",
+    "image_encoder.transformer.resblocks.7.mlp.c_proj.bias": "c067268f1808909933df2c4f6f5d1b3275cfcdba8518d61412cb9090d2ff3827",
+    "image_encoder.transformer.resblocks.7.mlp.c_proj.weight": "01ae112c4209c1aa3a28dade44aa6434456397346259ccece704fd2726bce3e8",
+    "image_encoder.transformer.resblocks.8.attn.in_proj_bias": "e7cd10302660f221a592fe450effdf2b3123be3098240bd62cd675ce920fb88c",
+    "image_encoder.transformer.resblocks.8.attn.in_proj_weight": "9af2f923cb853c7920c80c038a3d764d6599c18efbcc0a2fbcd2d533c307a26f",
+    "image_encoder.transformer.resblocks.8.attn.out_proj.bias": "2c86f529b36df9afe7ffc89ed6ec427be66847124e26cc48728c485fe8ced1ef",
+    "image_encoder.transformer.resblocks.8.attn.out_proj.weight": "db6b0630553b4ff44cda220c229a17243d99296d7fd7d011de1088e49565b19f",
+    "image_encoder.transformer.resblocks.8.ln_1.bias": "bf3d1d2dee94688ced8762126ab2ae86454720dc2b8d21613aba145ea45b731e",
+    "image_encoder.transformer.resblocks.8.ln_1.weight": "91afe398b10461c9522f28be13e92f1edf6f9cdf3bf66c03258ec408c16fff29",
+    "image_encoder.transformer.resblocks.8.ln_2.bias": "da95178f194bcb7cc11b75a961b5945e0f58c2fc37620485a7c1d481adacd3ff",
+    "image_encoder.transformer.resblocks.8.ln_2.weight": "df725b3a58a4bf9f8759b0b32315b55891b235292c085334a1b8f7ebc0033557",
+    "image_encoder.transformer.resblocks.8.mlp.c_fc.bias": "b1727f16a22eb75049788e589f8b72bb873d391727621920ca6c7de6b1b6621d",
+    "image_encoder.transformer.resblocks.8.mlp.c_fc.weight": "82e7f42bdef51e4f90bb0fac70250a60440a7b7b846256f07338d1d1b5fc85aa",
+    "image_encoder.transformer.resblocks.8.mlp.c_proj.bias": "3b76a5688e849600b3c1cd73ed9c46089e973ee6faa33f516521c741a5ae9fd5",
+    "image_encoder.transformer.resblocks.8.mlp.c_proj.weight": "411a6253f518975667bbbc5f76b6a34be08a28687f77a5bf0ebf538e1e140451",
+    "image_encoder.transformer.resblocks.9.attn.in_proj_bias": "794de4650a0e43f1485f53bfa25bf50ecfa9aef2bab1f26fb4f37c987f3f6019",
+    "image_encoder.transformer.resblocks.9.attn.in_proj_weight": "6511f9818d901c52b14d222b915f1e07ee206c51e3f8bbd328fca8cbeec5e390",
+    "image_encoder.transformer.resblocks.9.attn.out_proj.bias": "0765552adb57d48f9920457be933791f4e03ef17f6d4f55267faa14ea72b4c9b",
+    "image_encoder.transformer.resblocks.9.attn.out_proj.weight": "7a90d8d4e72ca002a17a50e49aa32344f61671c51f5ae1d056802e9e1144ec99",
+    "image_encoder.transformer.resblocks.9.ln_1.bias": "f1882981be7dfbea291814cbfc3b050c9d1e30aced82e90be09296ec88131321",
+    "image_encoder.transformer.resblocks.9.ln_1.weight": "42991ee850cf6b112955760a5f4d11f4b61920e56c2480a16ea55061d59fb7f7",
+    "image_encoder.transformer.resblocks.9.ln_2.bias": "47dc5a06d80631ebda43d9baec1d66961f81202842edb9380757adb9198e8729",
+    "image_encoder.transformer.resblocks.9.ln_2.weight": "01ba8750d39c7fae7b8bb8c2acca188b8d0e0060bb67c64a9294519e8cd52013",
+    "image_encoder.transformer.resblocks.9.mlp.c_fc.bias": "d4ddb225632aabd4dfef6f3b9b8b5a8b3aaf1d6d569c8ad226699ff008fdc8bb",
+    "image_encoder.transformer.resblocks.9.mlp.c_fc.weight": "5c0caa1527abcf74afcab5ca7c795f7597f0f5bd461b77fee761a272db203b1c",
+    "image_encoder.transformer.resblocks.9.mlp.c_proj.bias": "a64492bef856bb54c7c995947630c754119ecb23a2387bb484ad102064204191",
+    "image_encoder.transformer.resblocks.9.mlp.c_proj.weight": "4862cfed3db1915de1df48c68cb31120780ba97d2b6cb0f777b676b71d0107eb"
+  },
+  "specification": {
+    "coefficient": 0.001,
+    "excludes": [
+      "classifier",
+      "bottleneck",
+      "text",
+      "prompt",
+      "memory"
+    ],
+    "parameter_elements": 86140416,
+    "parameter_names": [
+      "image_encoder.class_embedding",
+      "image_encoder.conv1.weight",
+      "image_encoder.ln_post.bias",
+      "image_encoder.ln_post.weight",
+      "image_encoder.ln_pre.bias",
+      "image_encoder.ln_pre.weight",
+      "image_encoder.positional_embedding",
+      "image_encoder.proj",
+      "image_encoder.transformer.resblocks.0.attn.in_proj_bias",
+      "image_encoder.transformer.resblocks.0.attn.in_proj_weight",
+      "image_encoder.transformer.resblocks.0.attn.out_proj.bias",
+      "image_encoder.transformer.resblocks.0.attn.out_proj.weight",
+      "image_encoder.transformer.resblocks.0.ln_1.bias",
+      "image_encoder.transformer.resblocks.0.ln_1.weight",
+      "image_encoder.transformer.resblocks.0.ln_2.bias",
+      "image_encoder.transformer.resblocks.0.ln_2.weight",
+      "image_encoder.transformer.resblocks.0.mlp.c_fc.bias",
+      "image_encoder.transformer.resblocks.0.mlp.c_fc.weight",
+      "image_encoder.transformer.resblocks.0.mlp.c_proj.bias",
+      "image_encoder.transformer.resblocks.0.mlp.c_proj.weight",
+      "image_encoder.transformer.resblocks.1.attn.in_proj_bias",
+      "image_encoder.transformer.resblocks.1.attn.in_proj_weight",
+      "image_encoder.transformer.resblocks.1.attn.out_proj.bias",
+      "image_encoder.transformer.resblocks.1.attn.out_proj.weight",
+      "image_encoder.transformer.resblocks.1.ln_1.bias",
+      "image_encoder.transformer.resblocks.1.ln_1.weight",
+      "image_encoder.transformer.resblocks.1.ln_2.bias",
+      "image_encoder.transformer.resblocks.1.ln_2.weight",
+      "image_encoder.transformer.resblocks.1.mlp.c_fc.bias",
+      "image_encoder.transformer.resblocks.1.mlp.c_fc.weight",
+      "image_encoder.transformer.resblocks.1.mlp.c_proj.bias",
+      "image_encoder.transformer.resblocks.1.mlp.c_proj.weight",
+      "image_encoder.transformer.resblocks.10.attn.in_proj_bias",
+      "image_encoder.transformer.resblocks.10.attn.in_proj_weight",
+      "image_encoder.transformer.resblocks.10.attn.out_proj.bias",
+      "image_encoder.transformer.resblocks.10.attn.out_proj.weight",
+      "image_encoder.transformer.resblocks.10.ln_1.bias",
+      "image_encoder.transformer.resblocks.10.ln_1.weight",
+      "image_encoder.transformer.resblocks.10.ln_2.bias",
+      "image_encoder.transformer.resblocks.10.ln_2.weight",
+      "image_encoder.transformer.resblocks.10.mlp.c_fc.bias",
+      "image_encoder.transformer.resblocks.10.mlp.c_fc.weight",
+      "image_encoder.transformer.resblocks.10.mlp.c_proj.bias",
+      "image_encoder.transformer.resblocks.10.mlp.c_proj.weight",
+      "image_encoder.transformer.resblocks.11.attn.in_proj_bias",
+      "image_encoder.transformer.resblocks.11.attn.in_proj_weight",
+      "image_encoder.transformer.resblocks.11.attn.out_proj.bias",
+      "image_encoder.transformer.resblocks.11.attn.out_proj.weight",
+      "image_encoder.transformer.resblocks.11.ln_1.bias",
+      "image_encoder.transformer.resblocks.11.ln_1.weight",
+      "image_encoder.transformer.resblocks.11.ln_2.bias",
+      "image_encoder.transformer.resblocks.11.ln_2.weight",
+      "image_encoder.transformer.resblocks.11.mlp.c_fc.bias",
+      "image_encoder.transformer.resblocks.11.mlp.c_fc.weight",
+      "image_encoder.transformer.resblocks.11.mlp.c_proj.bias",
+      "image_encoder.transformer.resblocks.11.mlp.c_proj.weight",
+      "image_encoder.transformer.resblocks.2.attn.in_proj_bias",
+      "image_encoder.transformer.resblocks.2.attn.in_proj_weight",
+      "image_encoder.transformer.resblocks.2.attn.out_proj.bias",
+      "image_encoder.transformer.resblocks.2.attn.out_proj.weight",
+      "image_encoder.transformer.resblocks.2.ln_1.bias",
+      "image_encoder.transformer.resblocks.2.ln_1.weight",
+      "image_encoder.transformer.resblocks.2.ln_2.bias",
+      "image_encoder.transformer.resblocks.2.ln_2.weight",
+      "image_encoder.transformer.resblocks.2.mlp.c_fc.bias",
+      "image_encoder.transformer.resblocks.2.mlp.c_fc.weight",
+      "image_encoder.transformer.resblocks.2.mlp.c_proj.bias",
+      "image_encoder.transformer.resblocks.2.mlp.c_proj.weight",
+      "image_encoder.transformer.resblocks.3.attn.in_proj_bias",
+      "image_encoder.transformer.resblocks.3.attn.in_proj_weight",
+      "image_encoder.transformer.resblocks.3.attn.out_proj.bias",
+      "image_encoder.transformer.resblocks.3.attn.out_proj.weight",
+      "image_encoder.transformer.resblocks.3.ln_1.bias",
+      "image_encoder.transformer.resblocks.3.ln_1.weight",
+      "image_encoder.transformer.resblocks.3.ln_2.bias",
+      "image_encoder.transformer.resblocks.3.ln_2.weight",
+      "image_encoder.transformer.resblocks.3.mlp.c_fc.bias",
+      "image_encoder.transformer.resblocks.3.mlp.c_fc.weight",
+      "image_encoder.transformer.resblocks.3.mlp.c_proj.bias",
+      "image_encoder.transformer.resblocks.3.mlp.c_proj.weight",
+      "image_encoder.transformer.resblocks.4.attn.in_proj_bias",
+      "image_encoder.transformer.resblocks.4.attn.in_proj_weight",
+      "image_encoder.transformer.resblocks.4.attn.out_proj.bias",
+      "image_encoder.transformer.resblocks.4.attn.out_proj.weight",
+      "image_encoder.transformer.resblocks.4.ln_1.bias",
+      "image_encoder.transformer.resblocks.4.ln_1.weight",
+      "image_encoder.transformer.resblocks.4.ln_2.bias",
+      "image_encoder.transformer.resblocks.4.ln_2.weight",
+      "image_encoder.transformer.resblocks.4.mlp.c_fc.bias",
+      "image_encoder.transformer.resblocks.4.mlp.c_fc.weight",
+      "image_encoder.transformer.resblocks.4.mlp.c_proj.bias",
+      "image_encoder.transformer.resblocks.4.mlp.c_proj.weight",
+      "image_encoder.transformer.resblocks.5.attn.in_proj_bias",
+      "image_encoder.transformer.resblocks.5.attn.in_proj_weight",
+      "image_encoder.transformer.resblocks.5.attn.out_proj.bias",
+      "image_encoder.transformer.resblocks.5.attn.out_proj.weight",
+      "image_encoder.transformer.resblocks.5.ln_1.bias",
+      "image_encoder.transformer.resblocks.5.ln_1.weight",
+      "image_encoder.transformer.resblocks.5.ln_2.bias",
+      "image_encoder.transformer.resblocks.5.ln_2.weight",
+      "image_encoder.transformer.resblocks.5.mlp.c_fc.bias",
+      "image_encoder.transformer.resblocks.5.mlp.c_fc.weight",
+      "image_encoder.transformer.resblocks.5.mlp.c_proj.bias",
+      "image_encoder.transformer.resblocks.5.mlp.c_proj.weight",
+      "image_encoder.transformer.resblocks.6.attn.in_proj_bias",
+      "image_encoder.transformer.resblocks.6.attn.in_proj_weight",
+      "image_encoder.transformer.resblocks.6.attn.out_proj.bias",
+      "image_encoder.transformer.resblocks.6.attn.out_proj.weight",
+      "image_encoder.transformer.resblocks.6.ln_1.bias",
+      "image_encoder.transformer.resblocks.6.ln_1.weight",
+      "image_encoder.transformer.resblocks.6.ln_2.bias",
+      "image_encoder.transformer.resblocks.6.ln_2.weight",
+      "image_encoder.transformer.resblocks.6.mlp.c_fc.bias",
+      "image_encoder.transformer.resblocks.6.mlp.c_fc.weight",
+      "image_encoder.transformer.resblocks.6.mlp.c_proj.bias",
+      "image_encoder.transformer.resblocks.6.mlp.c_proj.weight",
+      "image_encoder.transformer.resblocks.7.attn.in_proj_bias",
+      "image_encoder.transformer.resblocks.7.attn.in_proj_weight",
+      "image_encoder.transformer.resblocks.7.attn.out_proj.bias",
+      "image_encoder.transformer.resblocks.7.attn.out_proj.weight",
+      "image_encoder.transformer.resblocks.7.ln_1.bias",
+      "image_encoder.transformer.resblocks.7.ln_1.weight",
+      "image_encoder.transformer.resblocks.7.ln_2.bias",
+      "image_encoder.transformer.resblocks.7.ln_2.weight",
+      "image_encoder.transformer.resblocks.7.mlp.c_fc.bias",
+      "image_encoder.transformer.resblocks.7.mlp.c_fc.weight",
+      "image_encoder.transformer.resblocks.7.mlp.c_proj.bias",
+      "image_encoder.transformer.resblocks.7.mlp.c_proj.weight",
+      "image_encoder.transformer.resblocks.8.attn.in_proj_bias",
+      "image_encoder.transformer.resblocks.8.attn.in_proj_weight",
+      "image_encoder.transformer.resblocks.8.attn.out_proj.bias",
+      "image_encoder.transformer.resblocks.8.attn.out_proj.weight",
+      "image_encoder.transformer.resblocks.8.ln_1.bias",
+      "image_encoder.transformer.resblocks.8.ln_1.weight",
+      "image_encoder.transformer.resblocks.8.ln_2.bias",
+      "image_encoder.transformer.resblocks.8.ln_2.weight",
+      "image_encoder.transformer.resblocks.8.mlp.c_fc.bias",
+      "image_encoder.transformer.resblocks.8.mlp.c_fc.weight",
+      "image_encoder.transformer.resblocks.8.mlp.c_proj.bias",
+      "image_encoder.transformer.resblocks.8.mlp.c_proj.weight",
+      "image_encoder.transformer.resblocks.9.attn.in_proj_bias",
+      "image_encoder.transformer.resblocks.9.attn.in_proj_weight",
+      "image_encoder.transformer.resblocks.9.attn.out_proj.bias",
+      "image_encoder.transformer.resblocks.9.attn.out_proj.weight",
+      "image_encoder.transformer.resblocks.9.ln_1.bias",
+      "image_encoder.transformer.resblocks.9.ln_1.weight",
+      "image_encoder.transformer.resblocks.9.ln_2.bias",
+      "image_encoder.transformer.resblocks.9.ln_2.weight",
+      "image_encoder.transformer.resblocks.9.mlp.c_fc.bias",
+      "image_encoder.transformer.resblocks.9.mlp.c_fc.weight",
+      "image_encoder.transformer.resblocks.9.mlp.c_proj.bias",
+      "image_encoder.transformer.resblocks.9.mlp.c_proj.weight"
+    ],
+    "parameter_tensors": 152,
+    "prefix": "image_encoder.",
+    "reduction": "0.5*coefficient*sum_all_visual_parameter_squared_differences",
+    "reference": "approved_strict_loaded_stage1",
+    "teacher_forward": false,
+    "trainable_parameters": 0
+  }
+}

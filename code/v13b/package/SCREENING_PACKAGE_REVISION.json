@@ -1,0 +1,14 @@
+{
+  "base_package": "clipreid_csf_screening_20261002_v1",
+  "evaluation_epochs": [
+    10,
+    20,
+    30
+  ],
+  "gate": "at least 2 of checkpoints 10, 20, 30 strictly exceed both UAD mAP and Rank-1",
+  "method": "balanced_modality",
+  "package": "clipreid_csf_screening_20261002_v2_balanced_modality",
+  "single_gpu_only": true,
+  "stage1_reused": true,
+  "stage2_budget": 30
+}

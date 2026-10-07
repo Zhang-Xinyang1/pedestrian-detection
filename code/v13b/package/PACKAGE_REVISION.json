@@ -1,0 +1,21 @@
+{
+  "package": "clipreid_csf_prototype_comparison_20261002_v3",
+  "parent": "clipreid_csf_factorized_prototype_20261002_v2",
+  "methods": [
+    "control",
+    "identity",
+    "balanced_modality",
+    "six_scene",
+    "csf"
+  ],
+  "seed": 1,
+  "temperature": 0.07,
+  "prototype_weight": 0.1,
+  "reconstruction_weight": 0.1,
+  "candidate_policy": "matched_observed_scene_full_rank",
+  "early_stop": false,
+  "maximum_epoch": 120,
+  "evaluation_period": 10,
+  "trainable_parameters_added": 0,
+  "retrieval_feature_dim": 1280
+}

@@ -1,0 +1,35 @@
+{
+  "registered_at_beijing": "2026-10-06T00:06:28.673736+08:00",
+  "budget": 100,
+  "main_checkpoint": 100,
+  "seed": 1,
+  "parent_method": "verified V10",
+  "single_variable": "base LR after epoch40",
+  "A": {
+    "region": 4,
+    "tail": "constant5e-7"
+  },
+  "B": {
+    "region": 5,
+    "tail": "cosine5e-7 to1e-8 at100"
+  },
+  "first40": "same original V10 recipe",
+  "bias_multiplier": 2,
+  "sampler": "unchanged P16K4, batch64",
+  "losses": "original V10 I2T1.0, ID/triplet, identity_full, L2SP0.001, local matching and KL; no V12 pair loss",
+  "descriptor": "raw768+raw512 concat then L2; 1280; exclude same camera; no reranking",
+  "primary_target": {
+    "mAP_percent": 12,
+    "Rank1_percent": 30
+  },
+  "fixed_epochs_for_analysis": [
+    40,
+    60,
+    80,
+    100
+  ],
+  "user_authorized_each_region_submission": true,
+  "user_authorized_no_wait_for_old_run_idle": true,
+  "existing_runs_untouched": true,
+  "post_normal_confirmation": "close SSH; no monitor or polling"
+}

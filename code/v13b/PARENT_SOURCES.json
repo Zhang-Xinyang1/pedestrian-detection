@@ -1,0 +1,23 @@
+{
+  "method_parent": "verified V10 MATCH40 and independent MATCH80",
+  "single_variable": "learning rate after epoch40",
+  "unchanged_method_files": {
+    "local_observed_auxiliary.py": "7f3fd9348bb42d7799235a67248de583bacc374c4717ee0df4816213b9f474c1",
+    "partial_local_matching.py": "0800de74cc4545463a5fca7f52ec169f1abc580866a94250d7be2594f365ca93",
+    "scene_prompt.py": "ead30641e48ca38103be40c127a491326227092ca39373b9e27368df40c12048",
+    "prototype_comparison.py": "dd41b69a6357d7074ec49a076ffd7580beaf897944591f56d8110e0036ca0a16",
+    "starting_point_regularization.py": "4a62bcc441838e92cf2da96d9f1607693115e70cf8c2c1e6091e27a55b8fbeb8",
+    "upstream/solver/make_optimizer_prompt.py": "48b4d7759d00c947d4b093aa617849a6aaa7096913f500cc9f20505f8ec59c76",
+    "upstream/datasets/sampler.py": "19a7e73ff6364a443fa13dddc9f6d4a2a5d0a3046357323d94280723cbc3e89a"
+  },
+  "arms": {
+    "A": "constant5e-7 epoch41to100",
+    "B": "cosine5e-7 epoch40 to1e-8 epoch100"
+  },
+  "new_learned_parameters": 0,
+  "retrieval_dim": 1280,
+  "fixed100_target": {
+    "mAP": 12.0,
+    "Rank1": 30.0
+  }
+}

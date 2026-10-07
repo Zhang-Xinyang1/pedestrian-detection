@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "file": "training_state_latest.pth",
+  "sha256": "4a930857990c5545c31eff459a7f1b7bd780097c1a9daf11a7b4a30cc31ba352",
+  "epoch": 100,
+  "components": [
+    "model",
+    "optimizer",
+    "optimizer_center",
+    "scheduler",
+    "AMP",
+    "rng",
+    "global_memory",
+    "local_auxiliary",
+    "ledger"
+  ],
+  "atomic_latest_save": true,
+  "restore_function_unit_checked": true,
+  "resume_cli_scope": "state restoration primitives and RNG checked; production pipeline always starts independently from Stage1"
+}

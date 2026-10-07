@@ -1,0 +1,46 @@
+{
+  "dataset": "WHU-MARS V13B exact local training/evaluation copy",
+  "counts": {
+    "train": {
+      "RGB": 30711,
+      "IR": 30711,
+      "Thermal": 30711
+    },
+    "query": {
+      "RGB": 2135,
+      "IR": 2135,
+      "Thermal": 2135
+    },
+    "test": {
+      "RGB": 31203,
+      "IR": 31203,
+      "Thermal": 31203
+    },
+    "querymm": {
+      "RGB": 2135,
+      "IR": 2135,
+      "Thermal": 2135
+    }
+  },
+  "identity_counts": {
+    "train": 500,
+    "query": 500,
+    "test": 500,
+    "querymm": 500
+  },
+  "images": 198552,
+  "image_bytes": 568689156,
+  "archive": "WHU-MARS-v13b.zip",
+  "archive_bytes": 600295976,
+  "archive_sha256": "fe655c41c6706d8b784d6aadb937c527d09710767feb205f4bce77b2d163dd3f",
+  "image_manifest": "IMAGE_SHA256SUMS.txt",
+  "image_manifest_sha256": "759a01c0ec00b7ea2cb1074b6399d4bf9629b5130f24b815bc4ca8ec4cd742ea",
+  "train_identity_leakage": false,
+  "formal_splits": [
+    "train",
+    "query",
+    "test"
+  ],
+  "querymm": "Additional local data, unused in V13B formal protocol",
+  "redistribution": "See docs/WHU-MARS_Agreement.pdf and docs/source/WHU-MARS_original_README.md; dataset excluded from Git by default"
+}

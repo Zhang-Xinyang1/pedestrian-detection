@@ -1,0 +1,3002 @@
+[
+  {
+    "auxiliary_gradient_norm": 0.009397128596901894,
+    "batch": 1,
+    "epoch": 1,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.012833820655941963,
+    "batch": 301,
+    "epoch": 1,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.01184882503002882,
+    "batch": 601,
+    "epoch": 1,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.010466601699590683,
+    "batch": 901,
+    "epoch": 1,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.007955094799399376,
+    "batch": 1201,
+    "epoch": 1,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.01003118883818388,
+    "batch": 1,
+    "epoch": 2,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.011456337757408619,
+    "batch": 301,
+    "epoch": 2,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.00625712750479579,
+    "batch": 601,
+    "epoch": 2,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.005589507054537535,
+    "batch": 901,
+    "epoch": 2,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.007437475025653839,
+    "batch": 1201,
+    "epoch": 2,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.012750990688800812,
+    "batch": 1,
+    "epoch": 3,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.009591634385287762,
+    "batch": 301,
+    "epoch": 3,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.009501543827354908,
+    "batch": 601,
+    "epoch": 3,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.016541047021746635,
+    "batch": 901,
+    "epoch": 3,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.009072528220713139,
+    "batch": 1201,
+    "epoch": 3,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.010879569686949253,
+    "batch": 1,
+    "epoch": 4,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.010716691613197327,
+    "batch": 301,
+    "epoch": 4,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.01015029102563858,
+    "batch": 601,
+    "epoch": 4,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.01274038851261139,
+    "batch": 901,
+    "epoch": 4,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.012477537617087364,
+    "batch": 1201,
+    "epoch": 4,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.012554771266877651,
+    "batch": 1,
+    "epoch": 5,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.013333234004676342,
+    "batch": 301,
+    "epoch": 5,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.012864063493907452,
+    "batch": 601,
+    "epoch": 5,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.012227586470544338,
+    "batch": 901,
+    "epoch": 5,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.01680767722427845,
+    "batch": 1201,
+    "epoch": 5,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.015072803013026714,
+    "batch": 1,
+    "epoch": 6,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.011958387680351734,
+    "batch": 301,
+    "epoch": 6,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.011744596995413303,
+    "batch": 601,
+    "epoch": 6,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.01664808951318264,
+    "batch": 901,
+    "epoch": 6,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.020437141880393028,
+    "batch": 1201,
+    "epoch": 6,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0210369024425745,
+    "batch": 1,
+    "epoch": 7,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.017017178237438202,
+    "batch": 301,
+    "epoch": 7,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.017219090834259987,
+    "batch": 601,
+    "epoch": 7,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.018153537064790726,
+    "batch": 901,
+    "epoch": 7,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.02393963746726513,
+    "batch": 1201,
+    "epoch": 7,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.029289672151207924,
+    "batch": 1,
+    "epoch": 8,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.016598092392086983,
+    "batch": 301,
+    "epoch": 8,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.018482936546206474,
+    "batch": 601,
+    "epoch": 8,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.019411513581871986,
+    "batch": 901,
+    "epoch": 8,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.027342239394783974,
+    "batch": 1201,
+    "epoch": 8,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.03261709213256836,
+    "batch": 1,
+    "epoch": 9,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.022042492404580116,
+    "batch": 301,
+    "epoch": 9,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.02614446170628071,
+    "batch": 601,
+    "epoch": 9,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.02468409202992916,
+    "batch": 901,
+    "epoch": 9,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.03500259667634964,
+    "batch": 1201,
+    "epoch": 9,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.044147007167339325,
+    "batch": 1,
+    "epoch": 10,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.03509607911109924,
+    "batch": 301,
+    "epoch": 10,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.03238602727651596,
+    "batch": 601,
+    "epoch": 10,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.033323485404253006,
+    "batch": 901,
+    "epoch": 10,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.032866645604372025,
+    "batch": 1201,
+    "epoch": 10,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08413652330636978,
+    "batch": 1,
+    "epoch": 11,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.061262693256139755,
+    "batch": 301,
+    "epoch": 11,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.040842536836862564,
+    "batch": 601,
+    "epoch": 11,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.04009954631328583,
+    "batch": 901,
+    "epoch": 11,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.047266360372304916,
+    "batch": 1201,
+    "epoch": 11,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08658404648303986,
+    "batch": 1,
+    "epoch": 12,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.05978546664118767,
+    "batch": 301,
+    "epoch": 12,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.05155486240983009,
+    "batch": 601,
+    "epoch": 12,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.05643654987215996,
+    "batch": 901,
+    "epoch": 12,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.05984344705939293,
+    "batch": 1201,
+    "epoch": 12,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07707705348730087,
+    "batch": 1,
+    "epoch": 13,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06637570261955261,
+    "batch": 301,
+    "epoch": 13,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.05762942135334015,
+    "batch": 601,
+    "epoch": 13,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.05447841063141823,
+    "batch": 901,
+    "epoch": 13,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06318648904561996,
+    "batch": 1201,
+    "epoch": 13,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09661199152469635,
+    "batch": 1,
+    "epoch": 14,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06695656478404999,
+    "batch": 301,
+    "epoch": 14,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06351444125175476,
+    "batch": 601,
+    "epoch": 14,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06669176369905472,
+    "batch": 901,
+    "epoch": 14,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.05184612423181534,
+    "batch": 1201,
+    "epoch": 14,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.11455333232879639,
+    "batch": 1,
+    "epoch": 15,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06538107246160507,
+    "batch": 301,
+    "epoch": 15,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06062013655900955,
+    "batch": 601,
+    "epoch": 15,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07425648719072342,
+    "batch": 901,
+    "epoch": 15,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.05996818467974663,
+    "batch": 1201,
+    "epoch": 15,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.10590879619121552,
+    "batch": 1,
+    "epoch": 16,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08497162908315659,
+    "batch": 301,
+    "epoch": 16,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07385660707950592,
+    "batch": 601,
+    "epoch": 16,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07866693288087845,
+    "batch": 901,
+    "epoch": 16,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06367676705121994,
+    "batch": 1201,
+    "epoch": 16,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.16249896585941315,
+    "batch": 1,
+    "epoch": 17,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06979106366634369,
+    "batch": 301,
+    "epoch": 17,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0818592831492424,
+    "batch": 601,
+    "epoch": 17,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07622804492712021,
+    "batch": 901,
+    "epoch": 17,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06894400715827942,
+    "batch": 1201,
+    "epoch": 17,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.1069081500172615,
+    "batch": 1,
+    "epoch": 18,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06775036454200745,
+    "batch": 301,
+    "epoch": 18,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0985601618885994,
+    "batch": 601,
+    "epoch": 18,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08290036022663116,
+    "batch": 901,
+    "epoch": 18,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07490948587656021,
+    "batch": 1201,
+    "epoch": 18,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.13976843655109406,
+    "batch": 1,
+    "epoch": 19,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08685841411352158,
+    "batch": 301,
+    "epoch": 19,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09094437211751938,
+    "batch": 601,
+    "epoch": 19,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0840420052409172,
+    "batch": 901,
+    "epoch": 19,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07234607636928558,
+    "batch": 1201,
+    "epoch": 19,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.11465557664632797,
+    "batch": 1,
+    "epoch": 20,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09567427635192871,
+    "batch": 301,
+    "epoch": 20,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0793566182255745,
+    "batch": 601,
+    "epoch": 20,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07588168978691101,
+    "batch": 901,
+    "epoch": 20,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07640457153320312,
+    "batch": 1201,
+    "epoch": 20,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.12833154201507568,
+    "batch": 1,
+    "epoch": 21,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.10993453860282898,
+    "batch": 301,
+    "epoch": 21,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08745364844799042,
+    "batch": 601,
+    "epoch": 21,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07210172712802887,
+    "batch": 901,
+    "epoch": 21,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0741492435336113,
+    "batch": 1201,
+    "epoch": 21,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09750717878341675,
+    "batch": 1,
+    "epoch": 22,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08211467415094376,
+    "batch": 301,
+    "epoch": 22,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06979630887508392,
+    "batch": 601,
+    "epoch": 22,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07190615683794022,
+    "batch": 901,
+    "epoch": 22,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06848157197237015,
+    "batch": 1201,
+    "epoch": 22,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09430348128080368,
+    "batch": 1,
+    "epoch": 23,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07180933654308319,
+    "batch": 301,
+    "epoch": 23,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06858303397893906,
+    "batch": 601,
+    "epoch": 23,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07241272926330566,
+    "batch": 901,
+    "epoch": 23,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.12422434240579605,
+    "batch": 1201,
+    "epoch": 23,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.11204010248184204,
+    "batch": 1,
+    "epoch": 24,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.1100897490978241,
+    "batch": 301,
+    "epoch": 24,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09458225965499878,
+    "batch": 601,
+    "epoch": 24,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07256892323493958,
+    "batch": 901,
+    "epoch": 24,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07318535447120667,
+    "batch": 1201,
+    "epoch": 24,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08998581022024155,
+    "batch": 1,
+    "epoch": 25,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07742699980735779,
+    "batch": 301,
+    "epoch": 25,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07974376529455185,
+    "batch": 601,
+    "epoch": 25,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06701990216970444,
+    "batch": 901,
+    "epoch": 25,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07135739177465439,
+    "batch": 1201,
+    "epoch": 25,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.1130068451166153,
+    "batch": 1,
+    "epoch": 26,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08775121718645096,
+    "batch": 301,
+    "epoch": 26,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07377535849809647,
+    "batch": 601,
+    "epoch": 26,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07279413938522339,
+    "batch": 901,
+    "epoch": 26,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07063309103250504,
+    "batch": 1201,
+    "epoch": 26,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08437909185886383,
+    "batch": 1,
+    "epoch": 27,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08600806444883347,
+    "batch": 301,
+    "epoch": 27,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07286441326141357,
+    "batch": 601,
+    "epoch": 27,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08776791393756866,
+    "batch": 901,
+    "epoch": 27,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07663711905479431,
+    "batch": 1201,
+    "epoch": 27,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.1033606007695198,
+    "batch": 1,
+    "epoch": 28,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08358339965343475,
+    "batch": 301,
+    "epoch": 28,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07229313999414444,
+    "batch": 601,
+    "epoch": 28,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07902364432811737,
+    "batch": 901,
+    "epoch": 28,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0669737458229065,
+    "batch": 1201,
+    "epoch": 28,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09049665182828903,
+    "batch": 1,
+    "epoch": 29,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08178955316543579,
+    "batch": 301,
+    "epoch": 29,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09056727588176727,
+    "batch": 601,
+    "epoch": 29,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07204869389533997,
+    "batch": 901,
+    "epoch": 29,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07791505008935928,
+    "batch": 1201,
+    "epoch": 29,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.11781825125217438,
+    "batch": 1,
+    "epoch": 30,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07332758605480194,
+    "batch": 301,
+    "epoch": 30,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09111812710762024,
+    "batch": 601,
+    "epoch": 30,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07782367616891861,
+    "batch": 901,
+    "epoch": 30,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07602519541978836,
+    "batch": 1201,
+    "epoch": 30,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.10033722221851349,
+    "batch": 1,
+    "epoch": 31,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08991016447544098,
+    "batch": 301,
+    "epoch": 31,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09640311449766159,
+    "batch": 601,
+    "epoch": 31,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.10191584378480911,
+    "batch": 901,
+    "epoch": 31,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07008054852485657,
+    "batch": 1201,
+    "epoch": 31,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.1037563905119896,
+    "batch": 1,
+    "epoch": 32,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08833030611276627,
+    "batch": 301,
+    "epoch": 32,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0725317895412445,
+    "batch": 601,
+    "epoch": 32,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07615619152784348,
+    "batch": 901,
+    "epoch": 32,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07101836800575256,
+    "batch": 1201,
+    "epoch": 32,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09945157915353775,
+    "batch": 1,
+    "epoch": 33,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08098678290843964,
+    "batch": 301,
+    "epoch": 33,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06623635441064835,
+    "batch": 601,
+    "epoch": 33,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07735811918973923,
+    "batch": 901,
+    "epoch": 33,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08105333149433136,
+    "batch": 1201,
+    "epoch": 33,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09751288592815399,
+    "batch": 1,
+    "epoch": 34,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07217659801244736,
+    "batch": 301,
+    "epoch": 34,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06562526524066925,
+    "batch": 601,
+    "epoch": 34,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06819957494735718,
+    "batch": 901,
+    "epoch": 34,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0726359486579895,
+    "batch": 1201,
+    "epoch": 34,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.10599591583013535,
+    "batch": 1,
+    "epoch": 35,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08686387538909912,
+    "batch": 301,
+    "epoch": 35,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07281402498483658,
+    "batch": 601,
+    "epoch": 35,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07193853706121445,
+    "batch": 901,
+    "epoch": 35,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07487644255161285,
+    "batch": 1201,
+    "epoch": 35,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08945629745721817,
+    "batch": 1,
+    "epoch": 36,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07499611377716064,
+    "batch": 301,
+    "epoch": 36,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07041128724813461,
+    "batch": 601,
+    "epoch": 36,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.13189958035945892,
+    "batch": 901,
+    "epoch": 36,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07935836166143417,
+    "batch": 1201,
+    "epoch": 36,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.11496932804584503,
+    "batch": 1,
+    "epoch": 37,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08172512799501419,
+    "batch": 301,
+    "epoch": 37,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07521086186170578,
+    "batch": 601,
+    "epoch": 37,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07419797778129578,
+    "batch": 901,
+    "epoch": 37,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08171041309833527,
+    "batch": 1201,
+    "epoch": 37,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0751056894659996,
+    "batch": 1,
+    "epoch": 38,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0767386332154274,
+    "batch": 301,
+    "epoch": 38,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09554564207792282,
+    "batch": 601,
+    "epoch": 38,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07297773659229279,
+    "batch": 901,
+    "epoch": 38,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0660996288061142,
+    "batch": 1201,
+    "epoch": 38,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.13956508040428162,
+    "batch": 1,
+    "epoch": 39,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.10853156447410583,
+    "batch": 301,
+    "epoch": 39,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08610972762107849,
+    "batch": 601,
+    "epoch": 39,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07784805446863174,
+    "batch": 901,
+    "epoch": 39,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07593175023794174,
+    "batch": 1201,
+    "epoch": 39,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09044130146503448,
+    "batch": 1,
+    "epoch": 40,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07350586354732513,
+    "batch": 301,
+    "epoch": 40,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0732574313879013,
+    "batch": 601,
+    "epoch": 40,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07480664551258087,
+    "batch": 901,
+    "epoch": 40,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07245564460754395,
+    "batch": 1201,
+    "epoch": 40,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0910266637802124,
+    "batch": 1,
+    "epoch": 41,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08044223487377167,
+    "batch": 301,
+    "epoch": 41,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07868517935276031,
+    "batch": 601,
+    "epoch": 41,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08805879205465317,
+    "batch": 901,
+    "epoch": 41,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0788680762052536,
+    "batch": 1201,
+    "epoch": 41,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08410923182964325,
+    "batch": 1,
+    "epoch": 42,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06957657635211945,
+    "batch": 301,
+    "epoch": 42,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06721598654985428,
+    "batch": 601,
+    "epoch": 42,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07444854825735092,
+    "batch": 901,
+    "epoch": 42,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07422081381082535,
+    "batch": 1201,
+    "epoch": 42,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09579414874315262,
+    "batch": 1,
+    "epoch": 43,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09976306557655334,
+    "batch": 301,
+    "epoch": 43,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0935487225651741,
+    "batch": 601,
+    "epoch": 43,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0711437463760376,
+    "batch": 901,
+    "epoch": 43,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06888525187969208,
+    "batch": 1201,
+    "epoch": 43,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0883900374174118,
+    "batch": 1,
+    "epoch": 44,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0876011997461319,
+    "batch": 301,
+    "epoch": 44,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0717567652463913,
+    "batch": 601,
+    "epoch": 44,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07291875034570694,
+    "batch": 901,
+    "epoch": 44,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0770607441663742,
+    "batch": 1201,
+    "epoch": 44,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.093923419713974,
+    "batch": 1,
+    "epoch": 45,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09394143521785736,
+    "batch": 301,
+    "epoch": 45,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07366245985031128,
+    "batch": 601,
+    "epoch": 45,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07954336702823639,
+    "batch": 901,
+    "epoch": 45,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08650607615709305,
+    "batch": 1201,
+    "epoch": 45,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09663714468479156,
+    "batch": 1,
+    "epoch": 46,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07779790461063385,
+    "batch": 301,
+    "epoch": 46,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0824839174747467,
+    "batch": 601,
+    "epoch": 46,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07072526216506958,
+    "batch": 901,
+    "epoch": 46,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0724068135023117,
+    "batch": 1201,
+    "epoch": 46,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09374462813138962,
+    "batch": 1,
+    "epoch": 47,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06886216998100281,
+    "batch": 301,
+    "epoch": 47,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07027862221002579,
+    "batch": 601,
+    "epoch": 47,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07475374639034271,
+    "batch": 901,
+    "epoch": 47,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06408503651618958,
+    "batch": 1201,
+    "epoch": 47,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09782087802886963,
+    "batch": 1,
+    "epoch": 48,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0750909075140953,
+    "batch": 301,
+    "epoch": 48,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07847218960523605,
+    "batch": 601,
+    "epoch": 48,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08204729110002518,
+    "batch": 901,
+    "epoch": 48,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08812561631202698,
+    "batch": 1201,
+    "epoch": 48,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08208954334259033,
+    "batch": 1,
+    "epoch": 49,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07368423044681549,
+    "batch": 301,
+    "epoch": 49,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09237119555473328,
+    "batch": 601,
+    "epoch": 49,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07729481905698776,
+    "batch": 901,
+    "epoch": 49,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08309981226921082,
+    "batch": 1201,
+    "epoch": 49,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08384667336940765,
+    "batch": 1,
+    "epoch": 50,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07896904647350311,
+    "batch": 301,
+    "epoch": 50,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09043458849191666,
+    "batch": 601,
+    "epoch": 50,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09195103496313095,
+    "batch": 901,
+    "epoch": 50,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06676721572875977,
+    "batch": 1201,
+    "epoch": 50,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08335961401462555,
+    "batch": 1,
+    "epoch": 51,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07281772047281265,
+    "batch": 301,
+    "epoch": 51,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08137837797403336,
+    "batch": 601,
+    "epoch": 51,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07342489063739777,
+    "batch": 901,
+    "epoch": 51,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07727401703596115,
+    "batch": 1201,
+    "epoch": 51,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08889425545930862,
+    "batch": 1,
+    "epoch": 52,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08643486350774765,
+    "batch": 301,
+    "epoch": 52,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07152155786752701,
+    "batch": 601,
+    "epoch": 52,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07732781767845154,
+    "batch": 901,
+    "epoch": 52,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08042249083518982,
+    "batch": 1201,
+    "epoch": 52,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08756549656391144,
+    "batch": 1,
+    "epoch": 53,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08879534155130386,
+    "batch": 301,
+    "epoch": 53,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08078647404909134,
+    "batch": 601,
+    "epoch": 53,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06972172111272812,
+    "batch": 901,
+    "epoch": 53,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08071624487638474,
+    "batch": 1201,
+    "epoch": 53,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.10929327458143234,
+    "batch": 1,
+    "epoch": 54,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07181885093450546,
+    "batch": 301,
+    "epoch": 54,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08576059341430664,
+    "batch": 601,
+    "epoch": 54,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06818798184394836,
+    "batch": 901,
+    "epoch": 54,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07892175763845444,
+    "batch": 1201,
+    "epoch": 54,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09142252802848816,
+    "batch": 1,
+    "epoch": 55,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07761093229055405,
+    "batch": 301,
+    "epoch": 55,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07450738549232483,
+    "batch": 601,
+    "epoch": 55,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07299276441335678,
+    "batch": 901,
+    "epoch": 55,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07388428598642349,
+    "batch": 1201,
+    "epoch": 55,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.10316134989261627,
+    "batch": 1,
+    "epoch": 56,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07177353650331497,
+    "batch": 301,
+    "epoch": 56,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07514363527297974,
+    "batch": 601,
+    "epoch": 56,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0795876681804657,
+    "batch": 901,
+    "epoch": 56,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06851848214864731,
+    "batch": 1201,
+    "epoch": 56,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08620823174715042,
+    "batch": 1,
+    "epoch": 57,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08355680853128433,
+    "batch": 301,
+    "epoch": 57,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07645014673471451,
+    "batch": 601,
+    "epoch": 57,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07222618162631989,
+    "batch": 901,
+    "epoch": 57,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06704307347536087,
+    "batch": 1201,
+    "epoch": 57,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.12620502710342407,
+    "batch": 1,
+    "epoch": 58,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07219552248716354,
+    "batch": 301,
+    "epoch": 58,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08511865139007568,
+    "batch": 601,
+    "epoch": 58,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06827490031719208,
+    "batch": 901,
+    "epoch": 58,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07211931049823761,
+    "batch": 1201,
+    "epoch": 58,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.1019396036863327,
+    "batch": 1,
+    "epoch": 59,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0721856951713562,
+    "batch": 301,
+    "epoch": 59,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08461321145296097,
+    "batch": 601,
+    "epoch": 59,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07997876405715942,
+    "batch": 901,
+    "epoch": 59,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06548704952001572,
+    "batch": 1201,
+    "epoch": 59,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0847589299082756,
+    "batch": 1,
+    "epoch": 60,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07591526210308075,
+    "batch": 301,
+    "epoch": 60,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0771147608757019,
+    "batch": 601,
+    "epoch": 60,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07808312773704529,
+    "batch": 901,
+    "epoch": 60,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06506738066673279,
+    "batch": 1201,
+    "epoch": 60,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09115134924650192,
+    "batch": 1,
+    "epoch": 61,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08014527708292007,
+    "batch": 301,
+    "epoch": 61,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07907816022634506,
+    "batch": 601,
+    "epoch": 61,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07339511066675186,
+    "batch": 901,
+    "epoch": 61,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0697680413722992,
+    "batch": 1201,
+    "epoch": 61,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09924060106277466,
+    "batch": 1,
+    "epoch": 62,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0758817195892334,
+    "batch": 301,
+    "epoch": 62,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07251095771789551,
+    "batch": 601,
+    "epoch": 62,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09362109005451202,
+    "batch": 901,
+    "epoch": 62,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09104666858911514,
+    "batch": 1201,
+    "epoch": 62,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.11641193181276321,
+    "batch": 1,
+    "epoch": 63,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07462893426418304,
+    "batch": 301,
+    "epoch": 63,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07425268739461899,
+    "batch": 601,
+    "epoch": 63,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09475867450237274,
+    "batch": 901,
+    "epoch": 63,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07914047688245773,
+    "batch": 1201,
+    "epoch": 63,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.098160520195961,
+    "batch": 1,
+    "epoch": 64,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0787501335144043,
+    "batch": 301,
+    "epoch": 64,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09066959470510483,
+    "batch": 601,
+    "epoch": 64,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07760293781757355,
+    "batch": 901,
+    "epoch": 64,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06808612495660782,
+    "batch": 1201,
+    "epoch": 64,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.10753940790891647,
+    "batch": 1,
+    "epoch": 65,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08190682530403137,
+    "batch": 301,
+    "epoch": 65,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08473575115203857,
+    "batch": 601,
+    "epoch": 65,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0762925073504448,
+    "batch": 901,
+    "epoch": 65,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0678274929523468,
+    "batch": 1201,
+    "epoch": 65,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08484882116317749,
+    "batch": 1,
+    "epoch": 66,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07808605581521988,
+    "batch": 301,
+    "epoch": 66,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07887405157089233,
+    "batch": 601,
+    "epoch": 66,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06973260641098022,
+    "batch": 901,
+    "epoch": 66,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08905904740095139,
+    "batch": 1201,
+    "epoch": 66,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.101652592420578,
+    "batch": 1,
+    "epoch": 67,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09058564901351929,
+    "batch": 301,
+    "epoch": 67,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07266584783792496,
+    "batch": 601,
+    "epoch": 67,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07903546094894409,
+    "batch": 901,
+    "epoch": 67,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06699741631746292,
+    "batch": 1201,
+    "epoch": 67,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08511262387037277,
+    "batch": 1,
+    "epoch": 68,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0706559494137764,
+    "batch": 301,
+    "epoch": 68,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08154762536287308,
+    "batch": 601,
+    "epoch": 68,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06574495136737823,
+    "batch": 901,
+    "epoch": 68,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07063905894756317,
+    "batch": 1201,
+    "epoch": 68,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08337317407131195,
+    "batch": 1,
+    "epoch": 69,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08917704969644547,
+    "batch": 301,
+    "epoch": 69,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0848519429564476,
+    "batch": 601,
+    "epoch": 69,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0902746394276619,
+    "batch": 901,
+    "epoch": 69,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06348318606615067,
+    "batch": 1201,
+    "epoch": 69,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09560085833072662,
+    "batch": 1,
+    "epoch": 70,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07738488912582397,
+    "batch": 301,
+    "epoch": 70,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08557476848363876,
+    "batch": 601,
+    "epoch": 70,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07648089528083801,
+    "batch": 901,
+    "epoch": 70,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08068695664405823,
+    "batch": 1201,
+    "epoch": 70,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.10225699841976166,
+    "batch": 1,
+    "epoch": 71,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09540192782878876,
+    "batch": 301,
+    "epoch": 71,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09278551489114761,
+    "batch": 601,
+    "epoch": 71,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07340218871831894,
+    "batch": 901,
+    "epoch": 71,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06893901526927948,
+    "batch": 1201,
+    "epoch": 71,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.10406090319156647,
+    "batch": 1,
+    "epoch": 72,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.1065497100353241,
+    "batch": 301,
+    "epoch": 72,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06990765035152435,
+    "batch": 601,
+    "epoch": 72,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09191609919071198,
+    "batch": 901,
+    "epoch": 72,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06715963035821915,
+    "batch": 1201,
+    "epoch": 72,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09213600307703018,
+    "batch": 1,
+    "epoch": 73,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08064687252044678,
+    "batch": 301,
+    "epoch": 73,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07422862201929092,
+    "batch": 601,
+    "epoch": 73,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.1328144073486328,
+    "batch": 901,
+    "epoch": 73,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07108613103628159,
+    "batch": 1201,
+    "epoch": 73,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09137033671140671,
+    "batch": 1,
+    "epoch": 74,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08849895745515823,
+    "batch": 301,
+    "epoch": 74,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07642138749361038,
+    "batch": 601,
+    "epoch": 74,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0815645381808281,
+    "batch": 901,
+    "epoch": 74,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07211796939373016,
+    "batch": 1201,
+    "epoch": 74,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08814079314470291,
+    "batch": 1,
+    "epoch": 75,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06911001354455948,
+    "batch": 301,
+    "epoch": 75,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07568223774433136,
+    "batch": 601,
+    "epoch": 75,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0814245417714119,
+    "batch": 901,
+    "epoch": 75,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.10128432512283325,
+    "batch": 1201,
+    "epoch": 75,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09826938062906265,
+    "batch": 1,
+    "epoch": 76,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07951455563306808,
+    "batch": 301,
+    "epoch": 76,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07337431609630585,
+    "batch": 601,
+    "epoch": 76,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07640120387077332,
+    "batch": 901,
+    "epoch": 76,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07230281829833984,
+    "batch": 1201,
+    "epoch": 76,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07172837853431702,
+    "batch": 1,
+    "epoch": 77,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07382301241159439,
+    "batch": 301,
+    "epoch": 77,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0949728712439537,
+    "batch": 601,
+    "epoch": 77,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08248826116323471,
+    "batch": 901,
+    "epoch": 77,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07234382629394531,
+    "batch": 1201,
+    "epoch": 77,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08463338762521744,
+    "batch": 1,
+    "epoch": 78,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06703627109527588,
+    "batch": 301,
+    "epoch": 78,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07816193997859955,
+    "batch": 601,
+    "epoch": 78,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07418268918991089,
+    "batch": 901,
+    "epoch": 78,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07649680227041245,
+    "batch": 1201,
+    "epoch": 78,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09089204668998718,
+    "batch": 1,
+    "epoch": 79,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09822454303503036,
+    "batch": 301,
+    "epoch": 79,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0695507824420929,
+    "batch": 601,
+    "epoch": 79,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07109978795051575,
+    "batch": 901,
+    "epoch": 79,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08027131855487823,
+    "batch": 1201,
+    "epoch": 79,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0970134362578392,
+    "batch": 1,
+    "epoch": 80,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07411619275808334,
+    "batch": 301,
+    "epoch": 80,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08648817986249924,
+    "batch": 601,
+    "epoch": 80,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07045496255159378,
+    "batch": 901,
+    "epoch": 80,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0789455994963646,
+    "batch": 1201,
+    "epoch": 80,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08808362483978271,
+    "batch": 1,
+    "epoch": 81,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09673544019460678,
+    "batch": 301,
+    "epoch": 81,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08316174149513245,
+    "batch": 601,
+    "epoch": 81,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07767126709222794,
+    "batch": 901,
+    "epoch": 81,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07592754065990448,
+    "batch": 1201,
+    "epoch": 81,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07869972288608551,
+    "batch": 1,
+    "epoch": 82,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08078878372907639,
+    "batch": 301,
+    "epoch": 82,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0811322033405304,
+    "batch": 601,
+    "epoch": 82,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07533374428749084,
+    "batch": 901,
+    "epoch": 82,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07256744801998138,
+    "batch": 1201,
+    "epoch": 82,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08370529860258102,
+    "batch": 1,
+    "epoch": 83,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07682868093252182,
+    "batch": 301,
+    "epoch": 83,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08405508100986481,
+    "batch": 601,
+    "epoch": 83,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09061233699321747,
+    "batch": 901,
+    "epoch": 83,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07789818197488785,
+    "batch": 1201,
+    "epoch": 83,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.10469348728656769,
+    "batch": 1,
+    "epoch": 84,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09059296548366547,
+    "batch": 301,
+    "epoch": 84,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06770401448011398,
+    "batch": 601,
+    "epoch": 84,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06429227441549301,
+    "batch": 901,
+    "epoch": 84,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07880116999149323,
+    "batch": 1201,
+    "epoch": 84,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09039349853992462,
+    "batch": 1,
+    "epoch": 85,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0727505013346672,
+    "batch": 301,
+    "epoch": 85,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07196228951215744,
+    "batch": 601,
+    "epoch": 85,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07746680825948715,
+    "batch": 901,
+    "epoch": 85,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06860494613647461,
+    "batch": 1201,
+    "epoch": 85,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07933032512664795,
+    "batch": 1,
+    "epoch": 86,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08048917353153229,
+    "batch": 301,
+    "epoch": 86,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07566922158002853,
+    "batch": 601,
+    "epoch": 86,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09109783172607422,
+    "batch": 901,
+    "epoch": 86,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07286673039197922,
+    "batch": 1201,
+    "epoch": 86,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08240346610546112,
+    "batch": 1,
+    "epoch": 87,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0806569829583168,
+    "batch": 301,
+    "epoch": 87,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08569779992103577,
+    "batch": 601,
+    "epoch": 87,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08330787718296051,
+    "batch": 901,
+    "epoch": 87,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07727594673633575,
+    "batch": 1201,
+    "epoch": 87,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07409849017858505,
+    "batch": 1,
+    "epoch": 88,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07533855736255646,
+    "batch": 301,
+    "epoch": 88,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07484043389558792,
+    "batch": 601,
+    "epoch": 88,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07066407054662704,
+    "batch": 901,
+    "epoch": 88,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06600767374038696,
+    "batch": 1201,
+    "epoch": 88,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08913554251194,
+    "batch": 1,
+    "epoch": 89,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07239151746034622,
+    "batch": 301,
+    "epoch": 89,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07477764040231705,
+    "batch": 601,
+    "epoch": 89,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0795031264424324,
+    "batch": 901,
+    "epoch": 89,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0713057592511177,
+    "batch": 1201,
+    "epoch": 89,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.10455136001110077,
+    "batch": 1,
+    "epoch": 90,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07851120084524155,
+    "batch": 301,
+    "epoch": 90,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07120664417743683,
+    "batch": 601,
+    "epoch": 90,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07858282327651978,
+    "batch": 901,
+    "epoch": 90,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08747012168169022,
+    "batch": 1201,
+    "epoch": 90,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06912611424922943,
+    "batch": 1,
+    "epoch": 91,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07147952169179916,
+    "batch": 301,
+    "epoch": 91,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08873512595891953,
+    "batch": 601,
+    "epoch": 91,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07305940240621567,
+    "batch": 901,
+    "epoch": 91,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06803964823484421,
+    "batch": 1201,
+    "epoch": 91,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09836144745349884,
+    "batch": 1,
+    "epoch": 92,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09270712733268738,
+    "batch": 301,
+    "epoch": 92,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09027495235204697,
+    "batch": 601,
+    "epoch": 92,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0707513839006424,
+    "batch": 901,
+    "epoch": 92,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07057514786720276,
+    "batch": 1201,
+    "epoch": 92,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09023803472518921,
+    "batch": 1,
+    "epoch": 93,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07505042850971222,
+    "batch": 301,
+    "epoch": 93,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08492661267518997,
+    "batch": 601,
+    "epoch": 93,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07011239975690842,
+    "batch": 901,
+    "epoch": 93,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07248099893331528,
+    "batch": 1201,
+    "epoch": 93,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.109653040766716,
+    "batch": 1,
+    "epoch": 94,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.1000295951962471,
+    "batch": 301,
+    "epoch": 94,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07299471646547318,
+    "batch": 601,
+    "epoch": 94,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08039183169603348,
+    "batch": 901,
+    "epoch": 94,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0661562830209732,
+    "batch": 1201,
+    "epoch": 94,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07182695716619492,
+    "batch": 1,
+    "epoch": 95,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08078695833683014,
+    "batch": 301,
+    "epoch": 95,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08352849632501602,
+    "batch": 601,
+    "epoch": 95,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07241992652416229,
+    "batch": 901,
+    "epoch": 95,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.060742173343896866,
+    "batch": 1201,
+    "epoch": 95,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08237358182668686,
+    "batch": 1,
+    "epoch": 96,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0738157406449318,
+    "batch": 301,
+    "epoch": 96,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09503491222858429,
+    "batch": 601,
+    "epoch": 96,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07580064237117767,
+    "batch": 901,
+    "epoch": 96,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06745097786188126,
+    "batch": 1201,
+    "epoch": 96,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09215156733989716,
+    "batch": 1,
+    "epoch": 97,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07328901439905167,
+    "batch": 301,
+    "epoch": 97,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08128166943788528,
+    "batch": 601,
+    "epoch": 97,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08110079914331436,
+    "batch": 901,
+    "epoch": 97,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06788230687379837,
+    "batch": 1201,
+    "epoch": 97,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.11756762862205505,
+    "batch": 1,
+    "epoch": 98,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0777660384774208,
+    "batch": 301,
+    "epoch": 98,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09517358988523483,
+    "batch": 601,
+    "epoch": 98,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0890963152050972,
+    "batch": 901,
+    "epoch": 98,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06756282597780228,
+    "batch": 1201,
+    "epoch": 98,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08066936582326889,
+    "batch": 1,
+    "epoch": 99,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.06629175692796707,
+    "batch": 301,
+    "epoch": 99,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.0864204466342926,
+    "batch": 601,
+    "epoch": 99,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07044582813978195,
+    "batch": 901,
+    "epoch": 99,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09704958647489548,
+    "batch": 1201,
+    "epoch": 99,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.09379980713129044,
+    "batch": 1,
+    "epoch": 100,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08050145953893661,
+    "batch": 301,
+    "epoch": 100,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07129322737455368,
+    "batch": 601,
+    "epoch": 100,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.08932339400053024,
+    "batch": 901,
+    "epoch": 100,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  },
+  {
+    "auxiliary_gradient_norm": 0.07338479906320572,
+    "batch": 1201,
+    "epoch": 100,
+    "parameter": "image_encoder.transformer.resblocks.11.mlp.c_proj.weight"
+  }
+]

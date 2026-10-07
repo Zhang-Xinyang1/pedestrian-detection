@@ -1,0 +1,21 @@
+{
+  "status": "TARGET_NOT_MET",
+  "fixed_epoch": 100,
+  "mAP_percent": 12.173761197073265,
+  "Rank1_percent": 28.508977361436376,
+  "targets": {
+    "mAP_percent": 12.0,
+    "Rank1_percent": 30.0
+  },
+  "valid_queries": 6405,
+  "reference_paper_UAD": {
+    "mAP_percent": 11.0,
+    "Rank1_percent": 29.5
+  },
+  "reference_historical_UAD": {
+    "mAP_percent": 10.83,
+    "Rank1_percent": 28.4
+  },
+  "fixed_result_not_test_peak": true,
+  "note": "Engineering PASS does not establish target achievement."
+}

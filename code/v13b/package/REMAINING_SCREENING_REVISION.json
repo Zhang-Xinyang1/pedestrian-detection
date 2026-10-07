@@ -1,0 +1,21 @@
+{
+  "package": "clipreid_csf_screening_20261002_v3_remaining",
+  "base_package": "clipreid_csf_screening_20261002_v2_balanced_modality",
+  "methods": [
+    "six_scene",
+    "csf"
+  ],
+  "schedule": "serial within one GPU allocation",
+  "gpu_count": 1,
+  "node": "d1n41a16g01",
+  "epochs_per_arm": 30,
+  "evaluation_epochs": [
+    10,
+    20,
+    30
+  ],
+  "seed": 1,
+  "gate": "at least two checkpoints strictly exceed both UAD metrics",
+  "approved_stage1_sha256": "2032ee52590233f52f720189231c720a32172f1639a381a22e3dd8fd17dae7c3",
+  "training_python_unchanged": true
+}
